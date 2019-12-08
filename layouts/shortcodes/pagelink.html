@@ -1,0 +1,9 @@
+{{ $orig := .Page.Resources.GetMatch (.Get 0) }}
+{{ $alt := .Get 1 }}
+{{ $prev := $orig.Resize "300x" }}
+
+<div class="fl w-30 pa2">
+<a href="{{ $orig.RelPermalink }}" target="_blank" title="{{ $alt }}">
+	<img src="{{ $prev.RelPermalink }}" class="fl w-20" width="{{ $prev.Width }}" alt="{{ $alt }}">
+</a>
+</div>
