@@ -5,6 +5,8 @@ draft: false
 ---
 A few of the books I’ve collected are very old, fragile and can’t be digitised on either a normal flatbed scanner or [flatbed book scanner](http://plustek.com/usa/products/book-scanners/) without damaging them. So, I’ve built a camera-based book scanner.
 
+<!--more-->
+
 Several [blogs](https://diybookscanner.org/) discuss book scanning equipment and there’s just a few components needed:
 
 1. Lighting: studios lights, although expensive, would be good; I settled for a bright white LED desk lamp

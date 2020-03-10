@@ -5,6 +5,8 @@ draft: false
 ---
 The first article on this topic introduced basic automation techniques for cleaning document scans. This article builds on those foundations by introducing more advanced topics for background removal, frame removal and rotation correction.
 
+<!--more-->
+
 ## Enhanced Background Removal
 
 Let’s start from this image:

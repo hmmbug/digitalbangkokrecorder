@@ -3,9 +3,11 @@ title: "Quinine for Sale"
 date: 2017-05-19T00:00:00Z
 draft: false
 ---
-![Quinine Bottles](quinine-bottle.jpg)
-
 The February 1845 edition of the [Bangkok Recorder](https://markhollow.com/2016/12/23/the-bangkok-recorder/) contained a first for Siam: the country’s first newspaper classified advertisement.
+
+<!--more-->
+
+![Quinine Bottles](/blog/2017/05/quinine-for-sale/quinine-bottle.jpg)
 
 The item for sale is Quinine which at the time was considered a treatment for a range of conditions including malaria, fever, indigestion, varicose veins, mouth and throat diseases, and cancer.
 
@@ -75,7 +77,7 @@ Notable is the use of the now obsolete letters [ฃ ขวด](https://en.wikipe
 > ฃวด = ขวด – using the now-obsolete letter ฃ ขวด instead of the modern-day spelling with ข ไข่
 >
 > ฃาย = ชาย – ditto
-> 
+>
 > หฤๅ = หรือ
 
 In this particular ad, the one use of the word คน uses the letter ค คน instead of ฅ คน. The demise of ค คน and ฃ ขวด didn’t really start until over 50 year’s later when the first Siamese 84-key typewriters would be imported with those 2 letters missing as there were [not enough keys](http://www.t-h-a-i-l-a-n-d.org/smithpremier/smithpremierorigin.html) on a standard typewriter mechanism to include all the letters of the alphabet [3]:

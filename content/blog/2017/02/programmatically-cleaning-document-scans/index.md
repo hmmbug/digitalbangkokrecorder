@@ -5,6 +5,8 @@ draft: false
 ---
 This technical post describes a few simple steps for programmatically cleaning document scans with the [python](http://python.org) programming language. The concepts can be used for batch processing hundreds of images quickly and consistently.
 
+<!--more-->
+
 As well as python we also use the [OpenCV](http://opencv.org) 3.x image processing library. This tutorial assumes familiarity with both python and how to install software libraries.
 
 To load a image into a script with OpenCV, use the cv2.imread() function. Here the image is loaded as greyscale:

@@ -5,6 +5,8 @@ draft: false
 ---
 Although this blog has been silent for a few months, progress has continued as time permits. This article gives a summary update of the current status.
 
+<!--more-->
+
 ## Template Matching
 
 [Template matching](https://docs.opencv.org/3.1.0/d4/dc6/tutorial_py_template_matching.html) is the search for a small image within a larger image. In this project we can use them to detect common features such as the titles on page 1 of each edition as well as the decorative column dividers. These features can be used to appropriately tag pages (eg. as a first page) to help with structural analysis.
