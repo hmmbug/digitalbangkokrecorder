@@ -5,7 +5,7 @@ draft: false
 ---
 
 Smallpox was rife throughout Siam and returned every year, affecting much of
-the population -- Dr Bradley himself lost his daughter to it. He worked on a
+the population -- Dr Bradley himself lost a daughter to it. He worked on a
 vaccination and documented his efforts in his treatise of 1844.
 
 <!--more-->
