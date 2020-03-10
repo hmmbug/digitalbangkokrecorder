@@ -6,7 +6,7 @@ draft: false
 layout: publication_index
 ---
 _The following text is a transcription of Dr. Bradley's Treatise on Vaccination
-from high resolution scans of original prints. Please notify any transcription
+taken from scans of the original prints. Please notify any transcription
 inaccuracies to [DigitalBangkokRecorder](https://www.facebook.com/DigitalBangkokRecorder)_
 
 ---
