@@ -12,10 +12,10 @@ vaccination and documented his efforts in his treatise of 1844.
 
 The complete "[Treatise on Vaccination](/publications/treatise_on_vaccination/)" has been transcribed from scans of the original documents and published on this site.
 
-To give some context to the document, inoculation had been practised in Siam
+To give some context to this document, inoculation had been practised in Siam
 before Bradley's arrival with the Chinese, Indians and Europeans having their
 own methods for it. Terwiel [1] gives a detailed account of the history of
-these practises and a balanced account Bradley's role in the vaccination
+these practises and a balanced account of Bradley's role in the vaccination
 campaigns from the 1830s and into the mid-1840s.
 
 An English translation of the treatise by [Pearson](http://www.siamese-heritage.org/jsspdf/2011/JSS_104_0h_Bradley_TreatiseOnSmallpoxVaccination.pdf) [2] was printed in 2016
