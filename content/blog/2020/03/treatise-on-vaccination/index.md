@@ -21,6 +21,7 @@ campaigns from the 1830s and into the mid-1840s.
 An English translation of the treatise by [Pearson](http://www.siamese-heritage.org/jsspdf/2011/JSS_104_0h_Bradley_TreatiseOnSmallpoxVaccination.pdf) [2] was printed in 2016
 and available online.
 
+[Read "Treatise on Vaccination"...](/publications/treatise_on_vaccination/)
 
 **References**
 
