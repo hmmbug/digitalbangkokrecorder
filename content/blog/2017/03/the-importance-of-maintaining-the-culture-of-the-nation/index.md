@@ -24,7 +24,7 @@ At this time Britain’s colonies had expanded from India into Burma, the French
 
 While there may be other copies of this book in private collections, there only appears to be [a](http://www.search.nlt.go.th:1701/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=NLT&frbg=&vl%28freeText0%29=ความสำคัญในการบำรุงวัฒนธรรมของชาติ&scp.scps=scope%3A%28ALEPH_MONO%29) [few](http://search.library.tu.ac.th/cgi-bin/koha/opac-detail.pl?biblionumber=95557) copies in Thai public libraries, hence the reason it is being made available for download here. As there is no accredited author, the copyright would have expired 50 years after publication, in 1991.
 
-[Click to download the complete book (PDF)](https://static.markhollow.com/blog/books/ความสำคัญในการบำรุงวัฒนธรรมของชาติ%20(2484).pdf)
+{{< nofollowlink "https://static.markhollow.com/blog/books/ความสำคัญในการบำรุงวัฒนธรรมของชาติ%20(2484).pdf" "Link to PDF" "Click to download the complete book (PDF)" >}}
 
 ## Further Reading
 

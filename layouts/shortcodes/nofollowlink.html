@@ -1,0 +1,6 @@
+{{ $orig := .Get 0 }}
+{{ $alt := .Get 1 }}
+{{ $content := .Get 2 }}
+
+<a href="{{ $orig }}"
+	 target="_blank" title="{{ $alt }}" rel="nofollow">{{ $content }}</a>
