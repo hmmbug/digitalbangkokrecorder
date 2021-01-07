@@ -1,0 +1,13 @@
+<!--
+If you want to include any custom html just before </head>, put it in /layouts/partials/head_custom.html
+Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/head_custom.html doesn't exist.
+-->
+// css 
+{{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}
+
+// javascript
+{{ range .Site.Params.custom_js -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}

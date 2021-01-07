@@ -1,0 +1,11 @@
+img[src$='#floatleft'] {
+	float:left;
+	max-width: 30%;
+	height: auto;
+}
+
+img[src$='#floatright'] {
+	float:right;
+	max-width: 30%;
+	height: auto;
+}

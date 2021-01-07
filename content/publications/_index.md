@@ -1,9 +1,14 @@
 ---
 title: "Publications"
+description: "Publications"
 date: 2019-02-02T00:00:00Z
 draft: false
+layout: publications
 ---
 The following publications have been reproduced on this site:
+
+* _Bradley, D. B. (1844-45)_ Bangkok Recorder 1844-1845. _American Board of Commissioners for Foreign Missions Press, Bangkok_  
+[Online Newspaper](/publications/bangkok_recorder_1844_1845/)
 
 * _Bradley, D. B. (1844)_ Treatise on Vaccination. _American Board of Commissioners for Foreign Missions Press, Bangkok_  
 [Article](/blog/2020/02/treatise-on-vaccination/)  
