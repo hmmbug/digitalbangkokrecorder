@@ -1,9 +1,13 @@
 {{ define "main" }}
 <div class="container" role="main">
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-    <div class="article-nav" id="article-nav-id">
-      <article role="main" class="blog-post overlay-top">
+    <div class="col-lg-7 col-lg-offset-1 col-md-8 col-md-offset-1">
+      <nav class="hide-on-mobile section-nav">
+       <h3 class="ml-1">สารบัญ</h3>
+	{{ .TableOfContents }}
+      </nav>
+
+      <article role="main" class="blog-post overlay-top news">
         {{ .Content }}
 
         {{ if .Params.tags }}
@@ -40,12 +44,6 @@
           {{ end }}
         {{ end }}
       </article>
-      
-      <nav class="hide-on-mobile section-nav">
-        <h3 class="ml-1">Table of contents</h3>
-        {{ .TableOfContents }}
-      </nav>
-      </div>
     </div>
   </div>
 </div>
@@ -53,6 +51,16 @@
 <script>
   window.addEventListener('DOMContentLoaded', () => {
     const observerForTableOfContentActiveState = new IntersectionObserver(entries => {
+    for(var i=0; i<entries.length; i++) {
+      var entry = entries[i];
+      const id = entry.target.getAttribute('id');
+      if (entry.intersectionRatio > 0) {					
+        clearActiveStatesInTableOfContents();				
+        document.querySelector(`nav li a[href="#${id}"]`).parentElement.classList.add('active');
+        break;
+      }
+    }
+    /*
       entries.forEach(entry => {
         const id = entry.target.getAttribute('id');
 
@@ -61,6 +69,7 @@
           document.querySelector(`nav li a[href="#${id}"]`).parentElement.classList.add('active');
         }
       });
+      */
     });		
     document.querySelectorAll('h3[id]').forEach((section) => {
       observerForTableOfContentActiveState.observe(section);
@@ -73,6 +82,8 @@
     section.classList.remove('active');
   });
 }
+
+window.addEventListener("hashchange", function() { scrollBy(0, -100) });
 </script>
 
 {{ end }}

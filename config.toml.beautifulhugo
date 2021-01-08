@@ -9,6 +9,7 @@ relativeurls = true
   custom_js = []
 
 [Author]
+  name = "Mark Hollow"
   website = "www.digitalbangkokrecorder.com"
   facebook = "digitalbangkokrecorder"
 
@@ -21,7 +22,7 @@ relativeurls = true
   name = "Publications"
   url = "/publications"
   weight = 2
-
+    
 [deployment]
 # order = [".jpg$", ".gif$"]
 
