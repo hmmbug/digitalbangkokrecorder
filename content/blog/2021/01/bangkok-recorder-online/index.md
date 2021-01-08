@@ -8,13 +8,13 @@ This project has now been in progress (on and off) for four years during which t
 
 <!--more-->
 
-![Bangkok Recorder July 1844 Front Page](/blog/2021/01/bangkok-recorder-online/page-1844-07-sml.png#floatright) However, that milestone has been reached the and the first [1844 editions of the Bangkok Recorder](/publications/bangkok_recorder_1844_1845/), starting with the first four editions: July to October 1844.
+![Bangkok Recorder July 1844 Front Page](/blog/2021/01/bangkok-recorder-online/page-1844-07-sml.png#floatright) However, that milestone has been reached and the [first editions of the 1844 Bangkok Recorder are now online](/publications/bangkok_recorder_1844_1845/), starting with July to October 1844.
 
-The remaining 1844-45 editions will follow soon. They're nearly ready, just needing a few tweaks before upload, and should be online by the end of this month (January 2021).
+The remaining editions will follow soon. They're nearly ready, just needing a few tweaks before upload, and should be online by the end of this month.
 
-The 1844-45 editions are just 56 pages but the next challenge –the 1865-67 editions– will be the considerably larger at 520 pages. And there's more than twice that in the Siam Times! All these are scanned and waiting to be processed but I'll need to develop a set of tools for online collaboration for to get that done.
+The 1844-45 editions are just 56 pages in total but the next challenge –the 1865-67 editions– will be the considerably larger at 520 pages. And there's more than twice that in the Siam Times! All these are scanned and waiting to be processed but I'll need to develop a set of tools for online collaboration to get that done.
 
-Anyway, while waiting for the next few editions, just [start reading...](/publications/bangkok_recorder_1844_1845/)
+Anyway, while waiting for the next updates, just [start reading...](/publications/bangkok_recorder_1844_1845/)
 
 ### Links
 - [Bangkok Recorder 1844-1845](/publications/bangkok_recorder_1844_1845/)

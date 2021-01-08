@@ -7,8 +7,11 @@ relativeurls = true
 [params]
   custom_css = ["css/custom.css"]
   custom_js = []
+  hideAuthor = true
+  since = 2016
 
 [Author]
+  name = "Mark Hollow"
   website = "www.digitalbangkokrecorder.com"
   facebook = "digitalbangkokrecorder"
 
