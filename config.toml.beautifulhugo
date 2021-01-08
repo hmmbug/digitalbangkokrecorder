@@ -24,7 +24,7 @@ relativeurls = true
   name = "Publications"
   url = "/publications"
   weight = 2
-
+    
 [deployment]
 # order = [".jpg$", ".gif$"]
 

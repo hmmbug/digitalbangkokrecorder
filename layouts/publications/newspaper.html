@@ -1,9 +1,8 @@
 {{ define "main" }}
 <div class="container" role="main">
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-    <div class="article-nav" id="article-nav-id">
-      <article role="main" class="blog-post overlay-top">
+    <div class="col-lg-9 col-lg-offset-1 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post overlay-top news">
         {{ .Content }}
 
         {{ if .Params.tags }}
@@ -40,39 +39,7 @@
           {{ end }}
         {{ end }}
       </article>
-      
-      <nav class="hide-on-mobile section-nav">
-        <h3 class="ml-1">Table of contents</h3>
-        {{ .TableOfContents }}
-      </nav>
-      </div>
     </div>
   </div>
 </div>
-
-<script>
-  window.addEventListener('DOMContentLoaded', () => {
-    const observerForTableOfContentActiveState = new IntersectionObserver(entries => {
-      entries.forEach(entry => {
-        const id = entry.target.getAttribute('id');
-
-        if (entry.intersectionRatio > 0) {					
-          clearActiveStatesInTableOfContents();				
-          document.querySelector(`nav li a[href="#${id}"]`).parentElement.classList.add('active');
-        }
-      });
-    });		
-    document.querySelectorAll('h3[id]').forEach((section) => {
-      observerForTableOfContentActiveState.observe(section);
-    });
-
-  });
-
-  function clearActiveStatesInTableOfContents() {
-    document.querySelectorAll('nav li').forEach((section) => {
-    section.classList.remove('active');
-  });
-}
-</script>
-
 {{ end }}
