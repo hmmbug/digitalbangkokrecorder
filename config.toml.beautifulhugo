@@ -9,6 +9,7 @@ relativeurls = true
   custom_js = []
   hideAuthor = true
   since = 2016
+  mainSections = ["blog"]
 
 [Author]
   name = "Mark Hollow"

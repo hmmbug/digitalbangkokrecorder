@@ -1,15 +1,27 @@
 img[src$='#floatleft'] {
-	float:left;
-	max-width: 30%;
-	height: auto;
+  float:left;
+  max-width: 30%;
+  height: auto;
 }
 
 img[src$='#floatright'] {
-	float:right;
-	max-width: 30%;
-	height: auto;
+  float:right;
+  max-width: 30%;
+  height: auto;
 }
 
+img[src$='#centre'] {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+  height: auto;
+}
+
+div.caption {
+  font-style: italic;
+  font-size: 18px;
+  max-width=80%;
+}
 
 /* nav */
 @media screen and (max-width: 960px) {
