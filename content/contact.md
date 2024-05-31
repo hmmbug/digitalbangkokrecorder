@@ -6,4 +6,4 @@ weight: 99
 ---
 Content preparation and site developed by Mark Hollow.
 
-Email: mark (at) digitalbangkokrecorder.com
+Feedback, suggestions and questions welcome at {{% emailaddress %}}.
