@@ -34,10 +34,3 @@ menu:
   - name: Publications
     url: /publications
     weight: 2
-    
-deployment:
-  targets:
-  - name: aws-test
-    URL: s3://www-test.digitalbangkokrecorder.com?region=eu-west-2
-  - name: aws-prod
-    URL: s3://www.digitalbangkokrecorder.com?region=eu-west-2
