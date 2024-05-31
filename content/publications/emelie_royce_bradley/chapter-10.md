@@ -1,8 +1,10 @@
 ---
+linkTitle: "X. Concluding Sketch"
 title: "CHAPTER X. Concluding Sketch"
 date: 2019-03-19T00:00:10Z
 draft: false
 layout: publication
+weight: 10
 ---
 _Her personal appearance – Love of truth – Buoyancy of spirit – No looking back – A poetical tribute_
 

@@ -1,8 +1,10 @@
 ---
+linkTitle: "III. Voyage to Singapore"
 title: "CHAPTER III. Voyage to Singapore"
 date: 2019-03-19T00:00:03Z
 draft: false
-layout: publication
+layout: default
+weight: 3
 ---
 _Sails from Boston July’2, 1834 – Her companions – Missionaries to Burmah – Scenes on the voyage – Employments – Religious exercises – Hopeful conversions on board – Magellanic clouds – Arrival at Amherst, in Burmah – Three days at Maulmain – Native funeral – Arrival at Penang – And at Singapore Jan. 18, 1835_
 

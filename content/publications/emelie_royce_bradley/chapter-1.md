@@ -1,8 +1,9 @@
 ---
+linkTitle: "I. Childhood and Early Years."
 title: "CHAPTER I. Childhood and Early Years."
 date: 2019-03-19T00:00:01Z
 draft: false
-layout: publication
+weight: 1
 ---
 _Her birthplace – Natural character – Early religious exercises – Hopeful conversion – Statement of a friend – Two years as a teacher in Manlius_
 

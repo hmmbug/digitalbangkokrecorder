@@ -1,8 +1,10 @@
 ---
+linkTitle: "VII. Missionary Life in Siam"
 title: "CHAPTER VII. Missionary Life in Siam"
 date: 2019-03-19T00:00:07Z
 draft: false
 layout: publication
+weight: 7
 ---
 1838, 1839.
 

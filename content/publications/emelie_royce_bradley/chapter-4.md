@@ -1,8 +1,10 @@
 ---
+linkTitle: "IV. Six Months at Singapore"
 title: "CHAPTER IV. Six Months at Singapore"
 date: 2019-03-19T00:00:04Z
 draft: false
-layout: publication
+layout: default
+weight: 4
 ---
 January to July, 1835.
 

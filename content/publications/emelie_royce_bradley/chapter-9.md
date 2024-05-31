@@ -1,8 +1,10 @@
 ---
+linkTitle: "IX. The Banks of the Jordan"
 title: "CHAPTER IX. The Banks of the Jordan"
 date: 2019-03-19T00:00:09Z
 draft: false
 layout: publication
+weight: 9
 ---
 1844, 1845.
 

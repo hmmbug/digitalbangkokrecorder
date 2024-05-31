@@ -1,6 +1,6 @@
 
 all: clean
-	hugo server --debug -v --ignoreCache --disableFastRender 
+	hugo server --logLevel debug --ignoreCache --buildDrafts --disableFastRender 
 
 dev: clean
 	hugo

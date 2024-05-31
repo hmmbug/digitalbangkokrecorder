@@ -4,6 +4,7 @@ description: "Dr Bradley's 1844 report on the introduction of the Smallpox vacci
 date: 2020-03-10T00:00:00Z
 draft: false
 layout: publication_index
+weight: 1
 ---
 _The following text is a transcription of Dr. Bradley's Treatise on Vaccination
 taken from scans of the original prints. Please notify any transcription

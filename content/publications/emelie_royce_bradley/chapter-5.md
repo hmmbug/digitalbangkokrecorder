@@ -1,8 +1,10 @@
 ---
+linkTitle: "V. First Six Month in Siam"
 title: "CHAPTER V. First Six Month in Siam"
 date: 2019-03-19T00:00:05Z
 draft: false
-layout: publication
+layout: default
+weight: 5
 ---
 July to December,1835.
 

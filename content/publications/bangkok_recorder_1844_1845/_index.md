@@ -3,7 +3,9 @@ title: "Bangkok Recorder 1844-1845"
 description: "Bangkok Recorder 1844-1845"
 date: 2021-01-07T21:00:00Z
 draft: false
-layout: publications
+weight: 2
+cascade:
+  type: docs
 ---
 Originally published by the American Board of Commissioners for Foreign Missions Press, Bangkok.
 

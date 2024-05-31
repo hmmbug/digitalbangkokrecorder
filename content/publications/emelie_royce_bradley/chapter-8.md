@@ -1,8 +1,10 @@
 ---
+linkTitle: "VIII. Missionary Life in Siam – Suggestions"
 title: "CHAPTER VIII. Missionary Life in Siam – Suggestions for Missionaries"
 date: 2019-03-19T00:00:08Z
 draft: false
 layout: publication
+weight: 8
 ---
 1840 – 1843.
 

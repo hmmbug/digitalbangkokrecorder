@@ -1,0 +1,43 @@
+DefaultContentLanguage: "en"
+title: "Digital Bangkok Recorder"
+theme: "hextra"
+relativeurls: true
+
+params:
+  custom_css: 
+  - "css/custom.css"
+  custom_js: []
+  hideAuthor: true
+  since: 2016
+  name: "Mark Hollow"  
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: /images/logo.svg
+      dark: /images/logo-dark.svg
+      link: /
+      width: 20
+      height: 20
+  theme:
+    default: system
+    displayToggle: true
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: wide
+    
+menu:
+  main:
+  - name: Articles
+    url: /articles
+    weight: 1
+  - name: Publications
+    url: /publications
+    weight: 2
+    
+deployment:
+  targets:
+  - name: aws-test
+    URL: s3://www-test.digitalbangkokrecorder.com?region=eu-west-2
+  - name: aws-prod
+    URL: s3://www.digitalbangkokrecorder.com?region=eu-west-2

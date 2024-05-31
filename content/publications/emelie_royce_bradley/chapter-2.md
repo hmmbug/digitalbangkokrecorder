@@ -1,8 +1,9 @@
 ---
+linkTitle: "II. Call to a Missionary Life"
 title: "CHAPTER II. Call to a Missionary Life"
 date: 2019-03-19T00:00:02Z
 draft: false
-layout: publication
+weight: 2
 ---
 _Her interest early awakened – Consecration to this work – Mental exercises concerning it – Engagement to go to Siam – Journey to New England – Catskill mountains – Social character – Feelings in view of leaving America – Preparations – Marriage_
 

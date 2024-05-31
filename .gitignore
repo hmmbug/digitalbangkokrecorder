@@ -1,1 +1,8 @@
+.DS_Store
+._DS_Store
 public/
+content.old
+layouts.old
+config-deploy-test.toml
+config-deploy-prod.toml
+redirects.txt
