@@ -7,9 +7,9 @@ params:
   custom_css: 
   - "css/custom.css"
   custom_js: []
-  hideAuthor: true
+  hideAuthor: false
   since: 2016
-  name: "Mark Hollow"  
+  name: "Mark Hollow"
   navbar:
     displayTitle: true
     displayLogo: true
@@ -20,8 +20,11 @@ params:
       width: 20
       height: 20
   theme:
-    default: system
+    default: hextra
     displayToggle: true
+  footer:
+    displayPoweredBy: false
+    displayCopyright: true
   page:
     # full (100%), wide (90rem), normal (1280px)
     width: wide

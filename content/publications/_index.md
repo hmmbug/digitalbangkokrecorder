@@ -1,9 +1,10 @@
 ---
 title: "Publications"
 date: 2019-02-02T00:00:00Z
-draft: true
+draft: false
 cascade:
   type: docs
+weight: 2
 ---
 The following publications have been digitally preserved and reproduced on this site:
 

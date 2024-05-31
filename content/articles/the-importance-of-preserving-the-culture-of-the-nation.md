@@ -5,6 +5,8 @@ draft: false
 ---
 _ความสำคัญในการบำรุงวัฒนธรรมของชาติ “The Importance of Preserving the Nation's Culture”_ was published by the Department for Publicity in 1941 under the government of [Field Marshal Plaek Phibunsongkhram](https://en.wikipedia.org/wiki/Plaek_Phibunsongkhram) (1897 – 1964).
 
+<!--more-->
+
 Printed for visitors to the Kathina Festival on 30 October 1941 at Wat Buranasirimatyaram, Phranakhon province, it outlines some of the government’s nationalist intentions at the time and alludes to their fears of colonisation by foreign powers.
 
 Phibunsongkhram was a military leader in the People’s Party (คณะราษฎร, [Khana Ratsadon](https://en.wikipedia.org/wiki/Khana_Ratsadon)) that in 1932 overthrew the system of absolute monarchy. In 1938 he became Prime Minister and Commander of the Siamese army and started a period of hyper-nationalism; his [cultural mandates](https://en.wikipedia.org/wiki/Thai_cultural_mandates) are well-known and were used to instill patriotism across the nation.
