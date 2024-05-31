@@ -5,9 +5,7 @@ draft: false
 ---
 A biography of Emelie Royce Bradley (1811-1845), the first wife of Dr Dan Beach Bradley and originally published circa 1856 by the American Tract Society, New York.
 
-<!--more-->
-
-This document is a digital reproduction of an undated, typed manuscript held at the Neilson Hays Library, Bangkok — a copy of _A Sketch of The Life and Character of Mrs. Emelie Royce Bradley_ by Nancy Royce, an aunt of Emelie Royce Bradley.
+This document is a digital reproduction of an undated, typed manuscript held at the Neilson Hays Library, Bangkok, _A Sketch of The Life and Character of Mrs. Emelie Royce Bradley_ by Nancy Royce, an aunt of Emelie Royce Bradley.
 
 The text of this document has been reproduced as faithfully as possible including the original spellings, and what are likely to be a few typing errors. It’s a long text, originally 103 pages, and is split by chapter to make it easier to read online.
 
