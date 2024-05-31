@@ -7,8 +7,8 @@ cascade:
 ---
 This site hosts the digital preservation of the 
 [Bangkok Recorder newspaper](/publications/bangkok_recorder_1844_1845/), the first
-newspaper to be printed in Thailand, other content related to the newspaper and 
-Thai history.
+newspaper to be printed in Thailand, plus other content related to the newspaper 
+and Thai history.
 
 {{< cards >}}
   {{< card link="/articles" title="Articles" icon="document-text" >}}
