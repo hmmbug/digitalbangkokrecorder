@@ -2,6 +2,7 @@
 title: "The Importance of Preserving the Nation's Culture"
 date: 2017-03-07T00:00:00Z
 draft: false
+type: docs
 ---
 _ความสำคัญในการบำรุงวัฒนธรรมของชาติ “The Importance of Preserving the Nation's Culture”_ was published by the Department for Publicity in 1941 under the government of [Field Marshal Plaek Phibunsongkhram](https://en.wikipedia.org/wiki/Plaek_Phibunsongkhram) (1897 – 1964).
 
