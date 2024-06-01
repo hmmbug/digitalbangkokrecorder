@@ -8,7 +8,7 @@ _ความสำคัญในการบำรุงวัฒนธรร�
 
 <!--more-->
 
-Printed for visitors to the Kathina Festival on 30 October 1941 at Wat Buranasirimatyaram, Phranakhon province, it outlines some of the government’s nationalist intentions at the time and alludes to their fears of colonisation by foreign powers.
+Printed for visitors to the Kathina Festival on 30 October 1941 at Wat Buranasirimatyaram, Phra Nakhon province, it outlines some of the government’s nationalist intentions at the time and alludes to their fears of colonisation by foreign powers.
 
 Phibunsongkhram was a military leader in the People’s Party (คณะราษฎร, [Khana Ratsadon](https://en.wikipedia.org/wiki/Khana_Ratsadon)) that in 1932 overthrew the system of absolute monarchy. In 1938 he became Prime Minister and Commander of the Siamese army and started a period of hyper-nationalism; his [cultural mandates](https://en.wikipedia.org/wiki/Thai_cultural_mandates) are well-known and were used to instill patriotism across the nation.
 
