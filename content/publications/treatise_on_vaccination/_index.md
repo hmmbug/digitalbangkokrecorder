@@ -3,12 +3,23 @@ title: "Treatise on Vaccination"
 description: "Dr Bradley's 1844 report on the introduction of the Smallpox vaccination in Siam"
 date: 2020-03-10T00:00:00Z
 draft: false
-layout: publication_index
 weight: 1
 ---
+Smallpox was rife throughout Siam and returned every year, affecting much of
+the population -- Dr Bradley himself lost a daughter to it. He worked on a
+vaccination and documented his efforts in his treatise of 1844.
+
+Inoculation had been practised in Siam before Bradley's arrival with the Chinese, 
+Indians and Europeans having their own methods for it. Terwiel, in [Acceptance and Rejection: The First Inoculation and Vaccination Campaigns in
+Thailand](https://thesiamsociety.org/wp-content/uploads/1988/03/JSS_076_0n_Terwiel_AcceptanceAndRejectionOfInoculationAndVaccination.pdf) gives a detailed 
+account of the history of these practises and a balanced account of Bradley's role 
+in the vaccination campaigns from the 1830s and into the mid-1840s.
+
+An English translation of the treatise, by Quentin (Trais) Pearson, was published in the [Journal of the Siam Society, Vol. 104, 2016](https://thesiamsociety.org/wp-content/uploads/2016/04/JSS_104_0h_Bradley_TreatiseOnSmallpoxVaccination.pdf).
+
 _The following text is a transcription of Dr. Bradley's Treatise on Vaccination
 taken from scans of the original prints. Please notify any transcription
-inaccuracies to [DigitalBangkokRecorder](https://www.facebook.com/DigitalBangkokRecorder)_
+errors to <{{% emailaddress %}}>._
 
 ---
 
