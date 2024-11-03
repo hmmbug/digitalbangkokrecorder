@@ -4,10 +4,10 @@ date: 2024-11-03T00:00:00Z
 draft: false
 type: docs
 ---
-This digital preservation project started some years ago now but has
-been on the back burner for a while due to personal commitments. Recently though
-I've had time to get back to work on it and this time bring some state-of-the-art
-tools to the job, namely LLMs -- Large Language Models.
+This digital preservation project started some years ago now but was paused
+due to other commitments. Recently though I've had time to get back to work
+on it and this time bring some state-of-the-art tools to the job, namely 
+LLMs -- Large Language Models.
 
 <!--more-->
 
@@ -40,7 +40,7 @@ The output of instruction will be compared to a more traditional OCR program, _t
 | ----------- | ----------- |
 | We had hoped to be able to have{{< br >}}‘the Recorder make its re-appear-{{< br >}}ance among the eitizens of Bang-{{< br >}}kok- at the first of the year, so{{< br >}}that it might wish them the com-  | &nbsp;&nbsp;&nbsp;&nbsp;We had hoped to be able to have{{< br >}}the Recorder make its re-appear-{{< br >}}ance among the citizens of Bang-{{< br >}}kok at the first of the year, so{{< br >}}that it might wish them the com-       |
 
-Tesseract confuses some page markings for characters, for example, the start of the second line, 
+Tesseract misinterprets page markings as characters, for example, the start of the second line, 
 and misspells one word (citizens, 3rd line) but otherwise does a good job.
 
 However, the LLM improves on this with perfect spelling, ignoring the page markings and indenting the paragraph.
@@ -116,7 +116,7 @@ to modern equivalents.
 
 ## Conclusion & Next Steps
 
-Although the LLM isn't perfect it's a significant improvement on earlier versions. Clearer text produces
+Although the LLM isn’t flawless, but it significantly outperforms previous versions. Clearer text produces
 significantly better results, as would be expected, and Thai text is mostly read correctly,
 but with more inaccuracies than English.
 
