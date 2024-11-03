@@ -118,7 +118,7 @@ to modern equivalents.
 
 Although the LLM isn't perfect it's a significant improvement on earlier versions. Clearer text produces
 significantly better results, as would be expected, and Thai text is mostly read correctly,
-but with many more inaccuracies.
+but with more inaccuracies than English.
 
 The next step is to introduce an additional processing stage to attempt to correct the errors.
 This will require fine-tuning the LLM with training data of incorrect and correct pairs of lines to
@@ -128,5 +128,5 @@ time of writing, over 13,000 lines of text have already been manually proofread 
 There are [recent reports of similar work](https://review.gale.com/2024/09/03/using-large-language-models-for-post-ocr-correction/) which show a >50% reduction in errors
 from this basic training on scans of 19th century English newspapers.
 
-A first batch of English Bangkok Recorder newspapers covering (January - June 1865) 
+A first batch of English Bangkok Recorder newspapers (January - June 1865)
 is expected to be published on this site within the next few months.
