@@ -4,6 +4,8 @@ date: 2024-11-07T00:00:00Z
 draft: false
 type: docs
 ---
+![Header image: line detection in Thai text](/images/line_detection_2.jpg)
+
 This digital preservation project started some years ago now but was paused
 due to other commitments. Recently though I've had time to get back to work
 on it and this time bring some state-of-the-art tools to the job, namely 
@@ -209,9 +211,9 @@ the desired output. Initially this will be done for the English newspaper as, at
 time of writing, over 13,000 lines of text have already been manually proofread and 
 corrected.
 
-There are [recent reports of similar work](https://review.gale.com/2024/09/03/using-large-language-models-for-post-ocr-correction/) from the University of Sheffield
-which show a >50% error reduction rate from just this basic training, based on scans of
-19th century English newspapers.
+[Recent reports of similar work](https://review.gale.com/2024/09/03/using-large-language-models-for-post-ocr-correction/)
+from the University of Sheffield shows a >50% error reduction rate from just this basic
+training, based their work on 19th century English newspapers.
 
 This project aims to publish online a first batch of the English language Bangkok Recorder
 newspapers (January - June 1865) within the next few months.
