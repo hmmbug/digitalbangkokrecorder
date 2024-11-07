@@ -10,6 +10,7 @@ params:
   hideAuthor: false
   since: 2016
   name: "Mark Hollow"
+  author: "Mark Hollow"
   navbar:
     displayTitle: true
     displayLogo: true
