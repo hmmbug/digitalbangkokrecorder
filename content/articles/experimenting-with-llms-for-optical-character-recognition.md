@@ -3,6 +3,7 @@ title: "Experimenting with LLMs for Optical Character Recognition"
 date: 2024-11-07T00:00:00Z
 draft: false
 type: docs
+authors: "Mark Hollow"
 ---
 ![Header image: line detection in Thai text](/images/line_detection_2.jpg)
 
