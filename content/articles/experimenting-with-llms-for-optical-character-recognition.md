@@ -16,7 +16,7 @@ LLMs -- Large Language Models.
 
 When this project first started publicly accessible LLMs weren't particularly 
 powerful and, in general, many couldn't process images. Google's OCR API at the time
-fell short as the built-in post-processing, often attempted to change the
+fell short as the built-in post-processing often attempted to change the
 printed spellings to modern ones but preservation of the original text is needed for 
 this project. LLMs are now much more capable and revisiting them has yielded positive
 results.
