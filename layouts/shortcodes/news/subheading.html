@@ -1,0 +1,2 @@
+{{ $text := replace ( trim .Inner " \n" ) "\n" "<br/>" }}
+<h2>{{- $text | safeHTML -}}</h2>

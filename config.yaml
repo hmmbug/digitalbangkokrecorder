@@ -6,6 +6,8 @@ relativeurls: true
 params:
   custom_css: 
   - "css/custom.css"
+  table_css:
+  - "css/bkkrec_table_eng.css"
   custom_js: []
   hideAuthor: false
   since: 2016
@@ -29,7 +31,12 @@ params:
   page:
     # full (100%), wide (90rem), normal (1280px)
     width: wide
-    
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 menu:
   main:
   - name: Articles

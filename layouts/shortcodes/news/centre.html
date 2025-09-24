@@ -1,0 +1,2 @@
+{{ $text := replace ( trim .Inner " \n" ) "\n" "<br/>" }}
+<div class="centered">{{- $text | safeHTML -}}</div>

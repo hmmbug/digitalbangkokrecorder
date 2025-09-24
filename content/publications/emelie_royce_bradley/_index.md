@@ -2,7 +2,7 @@
 title: "A Sketch of The Life and Character of Mrs. Emelie Royce Bradley"
 date: 2019-03-19T00:00:00Z
 draft: false
-weight: 3
+weight: 4
 cascade:
   type: docs
 ---

@@ -3,7 +3,7 @@ title: "Treatise on Vaccination"
 description: "Dr Bradley's 1844 report on the introduction of the Smallpox vaccination in Siam"
 date: 2020-03-10T00:00:00Z
 draft: false
-weight: 1
+weight: 3
 ---
 Smallpox was rife throughout Siam and returned every year, affecting much of
 the population -- Dr Bradley himself lost a daughter to it. He worked on a
