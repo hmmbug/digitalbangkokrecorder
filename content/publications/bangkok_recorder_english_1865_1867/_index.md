@@ -24,11 +24,6 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
   * "ult" refers to last month, e.g. _on the 15th ult._ means 15th of last month.
 * A small number of words are illegible in the source material and are instead represented with [...] in the online version.
 
-**Statisticss**
-
-* 320 articles
-* 40,000 text lines
-
 **Content**
 
 **1865**
@@ -106,3 +101,8 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 
 **1866-67**
 - To be published at a later date.
+
+**Statistics**
+
+* 320 articles
+* 40,000 text lines
