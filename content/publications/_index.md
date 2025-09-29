@@ -6,7 +6,7 @@ cascade:
   type: docs
 weight: 2
 ---
-The following publications have been digitally reproduced on this site:
+The following publications have been digitally preserved on this site:
 
 * [Bangkok Recorder (English) 1865-1867](/publications/bangkok_recorder_english_1865_1867/), _Bradley, D. B. (1865-67)_<br/>
   _American Board of Commissioners for Foreign Missions Press, Bangkok_  
