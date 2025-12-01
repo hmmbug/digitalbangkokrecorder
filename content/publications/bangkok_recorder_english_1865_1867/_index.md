@@ -1,12 +1,13 @@
 ---
 title: 'Bangkok Recorder (English) 1865-1867'
-description: 'Bangkok Recorder (English) 1844-1845'
+description: 'Bangkok Recorder (English) 1865-1867'
 date: 2025-09-24T00:00:00Z
 draft: false
 weight: 2
 cascade:
   type: docs
 ---
+
 The 1865-67 English language editions of the Bangkok Recorder are very different from the earlier 1844-45 printings:
 
 * **Content and Focus:** The 1844-45 edition had a more academic and general knowledge focus, with articles on science, philology, and fables, but it contained very little information about Siam itself. The 1865-67 English edition is a true news journal, with a heavy emphasis on local life and current events. It includes editorials commenting on recent events and detailed chronicles of local happenings.
@@ -15,16 +16,35 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 
 * **Purpose:** The original publication's conveyed "useful information" to the Siamese people, while the later English edition was a full-fledged news periodical covering politics, literature, science, and commerce. This shift in purpose also changed its format from a monthly publication to a bi-weekly (and later weekly) journal.
 
-**Reader's Notes**
+**Note**
 
-* The text is reproduced as faithfully as possible including archaic spellings, a few typos and some unusual typesetting. 
-* Text lines are reproduced as per the original newspaper with line breaks, hyphenation etc maintained.
+* The text is reproduced as faithfully as possible including archaic spellings, a few typos and some unusual typesetting. It is possible there may be some mistakes in the transcription that weren't caught in proofreading. Contact me if that's the case.
+* Text lines are reproduced as per the original newspaper with line breaks, hyphenation etc as originally published.
+* Some parts of the text are illegible in the source material due to age/condition of the document. These parts are instead represented with [...] in this online version.
 * A commonly used archaic expression relates to dates:
   * "inst" refers to the current month, e.g. _on the 15th inst._ means 15th of this month. 
   * "ult" refers to last month, e.g. _on the 15th ult._ means 15th of last month.
-* A small number of words are illegible in the source material and are instead represented with [...] in the online version.
+* Note that a few articles discuss slavery (both in Siam and America). There are some graphic descriptions of how people were treated which may be distressing to some readers.
 
-**Content**
+**Content Quick Links:**
+
+| Year | Links |
+| ---- | --- |
+| 1865 | Jan: [16th](1865-01-16) |
+|      | Feb: [1st](1865-02-01), [15th](1865-02-15) |
+|      | Mar: [1st](1865-03-01), [16th](1865-03-16) |
+|      | Apr: [1st](1865-04-01), [15th](1865-04-15) |
+|      | May: [1st](1865-05-01), [16th](1865-05-16) |
+|      | Jun: [1st](1865-06-01), [16th](1865-06-16) |
+|      | Jul: [1st](1865-07-01), [15th](1865-07-15) |
+|      | Aug: [1st](1865-08-01), [16th](1865-08-16) |
+|      | Sep: [1st](1865-09-01), [16th](1865-09-16) |
+|      | Oct: [14th](1865-10-01) |
+|      | Nov: [1st](1865-11-01), [15th](1865-11-15) |
+|      | Dec: [1st](1865-12-01), [16th](1865-12-16) [30th](1865-12-30)|
+| 1866 | Jan: [13th](1866-01-13), [18th](1866-01-18), [25th](1866-01-25) |
+|      | Feb: [1st](1866-02-01), [8th](1866-02-08), [15th](1866-02-15), [22nd](1866-02-22) |
+|      | Mar: [8th](1866-03-08), [15th](1866-03-15), [22nd](1866-03-22), [29th](1866-03-29) |
 
 **1865**
 - [January 16th](1865-01-16)<br/>
@@ -100,9 +120,45 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
   Reflections on the passing year / Health, mortality, & notable deaths in Bangkok / Royal births & deaths in the Siamese royal family / Social class, ancestry, & social commentary / Family reconciliation & Christmas traditions / Economic conditions, rice crop, & business outlook / Steam rice mills & industrial modernization / International relations / British & French political developments / Anecdotes, humor, & social satire
 
 **1866-67**
-- To be published at a later date.
+- [January 13th](1866-01-13)<br/>
+  Publication and Journalistic Principles / Siamese Royal Affairs and Local Governance / International Geopolitics and Colonial Influence / Trade, Commerce, and Maritime Activity / Public Health and Epidemic Control / American Post-Civil War Politics and Civil Rights / Christian Missions and Religious Commentary / Social Customs and Justice in Siam / Law, Order, and Regional Security / Technological and Infrastructure Development / Global News and Current Events
+
+- [January 18th](1866-01-18)<br/>
+  Technological Innovation and Impact / Societal Resistance to Change / Science versus Traditional Religious Beliefs / Critique of Biblical Narratives / Siamese Royal and Religious Traditions / International Diplomacy and Trade Relations / Economic Dynamics and Maritime Commerce / Social Injustice and Legal Systems in Siam / Urban Development and Public Health Initiatives / Entrepreneurship and Industrial Progress / Historical and Archaeological Discoveries / Local Business and Community Services
+
+- [January 25th](1866-01-25)<br/>
+  Scientific observation and astronomical phenomena / Newspaper publication and editorial policies / Post-Civil War American political reconciliation / Abolition of slavery and the efficacy of free labor / Siamese royal hierarchy and traditional ceremonies / Siamese infrastructure development and modernization / Foreign relations and treatment of expatriates in Siam / Religious debate between Christianity and Buddhism / Growth and impact of Christian missionary work / Commercial activity and maritime trade in Bangkok / International political unrest and rebellion (Fenianism) / Agricultural economy and crop reports
+
+- [February 1st](1866-02-01)<br/>
+  Siamese Royal Events and Traditions / Maritime Mutiny and Piracy / Post-Civil War American Politics and Social Justice / Sino-Western Relations and Chinese Governance / International Diplomacy and Geopolitical Tensions / Colonial Economic Management and Currency / Shipping and Port Operations / Natural Disasters and Maritime Accidents / Press and Publishing Industry / Technological Innovation and Crime Prevention / Social Narratives and Everyday Life / Legal and Judicial Proceedings
+
+- [February 8th](1866-02-08)<br/>
+  Cattle plague prevention and quarantine measures / Advocacy for African American suffrage and civil rights / Analysis of British political leadership and economic policy / Theological debate on miracles and religious authenticity / Descriptions of Siamese royal ceremonies and history / Reporting on international diplomatic incidents / Updates on American political and social developments / Local economic activity, shipping, and industrial progress / Meteorological reporting and agricultural concerns / The role of the press in public information and debate / Anecdotes and social commentary
+
+- [February 15th](1866-02-15)<br/>
+  Post-Civil War US Reconstruction / British Royal Engagement and European Politics / Bangkok Urban Development and Modernization / Christian Missionary Advocacy and Anti-Buddhism / Racial Integration and Post-Slavery Society / Suppression of Colonial Rebellions / Social Commentary on Intellect and Custom / Observation of Natural Phenomena / Commercial and Shipping Activities / The Power of Earnestness and Prayer / Anti-Catholic Sentiment in Ireland / Futuristic Technological Speculation
+
+- [February 22nd](1866-02-22)<br/>
+  US Post-Civil War Reconstruction / Siamese Governance and Judicial Authority / International Diplomacy and Conflicts / Global and Local Economic Activity / European Expatriate Social Life / Infrastructure Development and Planning / Public Health and Major Disasters / Race Relations and Freedmen's Rights / Maritime Piracy and Security / Press Freedom and Government Control / Siamese Royal Family News
+
+- [March 8th](1866-03-08)<br/>
+  Religious Faith and Moral Conduct / Technological and Infrastructure Advancement / Government Policy and Administration / Maritime Trade and Security / Social Critique and Reform Movements / Post-Civil War American Political Landscape / Journalism, Publication, and Media / Education and Missionary Endeavors / Philosophical Reflections on Life and Progress / Local Bangkok Affairs and Urban Life / International Relations and Conflicts / Commercial Enterprise and Services
+
+- [March 15th](1866-03-15)<br/>
+  Siamese Royal Family and History / The Bangkok Recorder Operations and Business / Post-Civil War American Reconstruction and Racial Injustice / European Political and Diplomatic Developments / Justice, Corruption, and Social Inequality / Public Health Crises / International Trade and Shipping / Social and Cultural Commentary / Photography Services and Ethics / Local Commercial Infrastructure and Services / Financial Markets and Economic Anxiety
+
+- [March 22nd](1866-03-22)<br/>
+  Regional Conflict and Instability / Colonial Administration and Critique / Maritime Piracy and Security / Social Vices and Moral Decay / Religious Faith and Skepticism / Economic Affairs and Commerce / Infrastructure and Technological Advance / Military and Naval Readiness / Justice, Rights, and Repression / Journalism and Editorial Life / Health, Disease, and Lifestyle / Personal Ethics and Human Character
+
+- [March 29th](1866-03-29)<br/>
+  Economic Development and International Trade / Siamese Royal and Cultural Traditions / Colonialism and Foreign Influence / Social and Political Reform / Individual Perseverance and Achievement / The Value of Labor and Intellectual Pursuit / Government Accountability and Justice / Moral and Philosophical Discourse / Importance of Education / Local Conditions and National Aspirations / The Impact of Miscommunication / Maritime Security and Piracy
+
+The remaining editions (April 1866 - January 1867) to be published at a later date.
 
 **Statistics**
 
-* 320 articles
-* 40,000 text lines
+* 371,996 words
+* 68,900 lines of text
+* 591 articles
+* 594 advertisements (88 unique)
+* 53 data tables with 2,184 data rows
