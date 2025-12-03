@@ -25,26 +25,24 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
   * "inst" refers to the current month, e.g. _on the 15th inst._ means 15th of this month. 
   * "ult" refers to last month, e.g. _on the 15th ult._ means 15th of last month.
 * Note that a few articles discuss slavery (both in Siam and America). There are some graphic descriptions of how people were treated which may be distressing to some readers.
+* There are some use of language that is no longer considered acceptable. This has been reproduced verbatim as these publications are an historical record.
 
 **Content Quick Links:**
 
-| Year | Links |
-| ---- | --- |
-| 1865 | Jan: [16th](1865-01-16) |
-|      | Feb: [1st](1865-02-01), [15th](1865-02-15) |
-|      | Mar: [1st](1865-03-01), [16th](1865-03-16) |
-|      | Apr: [1st](1865-04-01), [15th](1865-04-15) |
-|      | May: [1st](1865-05-01), [16th](1865-05-16) |
-|      | Jun: [1st](1865-06-01), [16th](1865-06-16) |
-|      | Jul: [1st](1865-07-01), [15th](1865-07-15) |
-|      | Aug: [1st](1865-08-01), [16th](1865-08-16) |
-|      | Sep: [1st](1865-09-01), [16th](1865-09-16) |
-|      | Oct: [14th](1865-10-01) |
-|      | Nov: [1st](1865-11-01), [15th](1865-11-15) |
-|      | Dec: [1st](1865-12-01), [16th](1865-12-16) [30th](1865-12-30)|
-| 1866 | Jan: [13th](1866-01-13), [18th](1866-01-18), [25th](1866-01-25) |
-|      | Feb: [1st](1866-02-01), [8th](1866-02-08), [15th](1866-02-15), [22nd](1866-02-22) |
-|      | Mar: [8th](1866-03-08), [15th](1866-03-15), [22nd](1866-03-22), [29th](1866-03-29) |
+|      | 1865 | 1866 | 1867 |
+| ---- | ---- | ---- | ---- |
+| January   | [16th](1865-01-16) | [13th](1866-01-13) [18th](1866-01-18) [25th](1866-01-25) | |
+| February  | [1st](1865-02-01) [15th](1865-02-15) | [1st](1866-02-01) [8th](1866-02-08) [15th](1866-02-15) [22nd](1866-02-22) | |
+| March     | [1st](1865-03-01) [16th](1865-03-16) | [8th](1866-03-08) [15th](1866-03-15) [22nd](1866-03-22) [29th](1866-03-29) | |
+| April     | [1st](1865-04-01) [15th](1865-04-15) | [5th](1866-04-05) [12th](1866-04-12) [19th](1866-04-19) [26th](1866-04-26) | |
+| May       | [1st](1865-05-01) [16th](1865-05-16) | | |
+| June      | [1st](1865-06-01) [16th](1865-06-16) | | |
+| July      | [1st](1865-07-01) [15th](1865-07-15) | | |
+| August    | [1st](1865-08-01) [16th](1865-08-16) | | |
+| September | [1st](1865-09-01) [16th](1865-09-16) | | |
+| October   | [14th](1865-10-01) | | |
+| November  | [1st](1865-11-01) [15th](1865-11-15) | | |
+| December  | [1st](1865-12-01) [16th](1865-12-16) [30th](1865-12-30)| | |
 
 **1865**
 - [January 16th](1865-01-16)<br/>
@@ -119,7 +117,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 - [December 30th](1865-12-30)<br/>
   Reflections on the passing year / Health, mortality, & notable deaths in Bangkok / Royal births & deaths in the Siamese royal family / Social class, ancestry, & social commentary / Family reconciliation & Christmas traditions / Economic conditions, rice crop, & business outlook / Steam rice mills & industrial modernization / International relations / British & French political developments / Anecdotes, humor, & social satire
 
-**1866-67**
+**1866**
 - [January 13th](1866-01-13)<br/>
   Publication and Journalistic Principles / Siamese Royal Affairs and Local Governance / International Geopolitics and Colonial Influence / Trade, Commerce, and Maritime Activity / Public Health and Epidemic Control / American Post-Civil War Politics and Civil Rights / Christian Missions and Religious Commentary / Social Customs and Justice in Siam / Law, Order, and Regional Security / Technological and Infrastructure Development / Global News and Current Events
 
@@ -153,12 +151,24 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 - [March 29th](1866-03-29)<br/>
   Economic Development and International Trade / Siamese Royal and Cultural Traditions / Colonialism and Foreign Influence / Social and Political Reform / Individual Perseverance and Achievement / The Value of Labor and Intellectual Pursuit / Government Accountability and Justice / Moral and Philosophical Discourse / Importance of Education / Local Conditions and National Aspirations / The Impact of Miscommunication / Maritime Security and Piracy
 
-The remaining editions (April 1866 - January 1867) to be published at a later date.
+- [April 5th](1866-04-05)<br/>
+  International Politics and Diplomacy / Commerce and Industry / Infrastructure and Technology / Colonialism and Western Influence / Religious Missions and Debates / Government Policies and Law / Social Justice and Civil Rights / Journalism and Public Information / Biography and Personal Endeavor / Local Community and Expatriate Life / Natural Phenomena and Environment
+
+- [April 12th](1866-04-12)<br/>
+  Modernization and Infrastructure Development / International Relations and Diplomacy / Social Commentary and Morality / The Role and Influence of the Press / Education and Intellectual Development / Siamese Politics and Royal Affairs / Commerce and Maritime Activities / Law Enforcement and Anti-Piracy / Technological Advancement and Engineering / Cultural Exchange and Western Influence
+
+- [April 19th](1866-04-19)<br/>
+  Parenting and child development / Personal character and moral conduct / Post-Civil War American racial justice and reconstruction / International relations and diplomatic protocol / Critique of governmental and colonial oppression / Local Siamese governance, law, and public safety / Siamese cultural practices and beliefs / Historical progress and societal change / Religious and philosophical contemplation / The role and responsibility of journalism / Practical wisdom and observations on life / Wealth and true happiness
+
+- [April 26th](1866-04-26)<br/>
+  Religious Faith and Morality / Critique of Religious Dogma / Racial Injustice and Post-Slavery Issues / Colonialism and International Relations / Commerce and Infrastructure Development / Journalism and Public Discourse / Domestic Life and Relationships / Peril, Resilience, and Heroism / Observation of Nature and Local Culture / Reasoning and Human Fallibility / Social and Political Commentary
+
+The remaining editions (May 1866 - January 1867) to be published at a later date.
 
 **Statistics**
 
-* 371,996 words
-* 68,900 lines of text
-* 591 articles
-* 594 advertisements (88 unique)
+* 471,954 words
+* 78,994 lines of text
+* 788 articles
+* 657 advertisements (89 unique)
 * 53 data tables with 2,184 data rows
