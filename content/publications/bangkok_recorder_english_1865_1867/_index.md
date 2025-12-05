@@ -178,7 +178,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 - [May 31st](1866-05-31)<br/>
   Spiritual and Philosophical Reflections on Creation / Appreciation of Nature and its Moral Influence / Comparative Societal Structures and Lifestyles / Geological Observation and Modern Scientific Theory / International Geopolitics and Conflicts / Post-Civil War American Politics and Racial Justice / Monetary Policy and Economic Stability / Maritime Industry and Incidents / Critique of Governance and Societal Corruption / Personal Morality and Business Ethics / Importance of Family Dialogue and Education / Local Commerce, Services, and Urban Development
 
-The remaining editions (May 1866 - January 1867) to be published at a later date.
+The remaining editions, up to January 1867, to be published at a later date.
 
 **Statistics**
 
