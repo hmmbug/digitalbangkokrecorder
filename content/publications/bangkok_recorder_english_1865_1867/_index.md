@@ -25,24 +25,24 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
   * "inst" refers to the current month, e.g. _on the 15th inst._ means 15th of this month. 
   * "ult" refers to last month, e.g. _on the 15th ult._ means 15th of last month.
 * Note that a few articles discuss slavery (both in Siam and America). There are some graphic descriptions of how people were treated which may be distressing to some readers.
-* There are some use of language that is no longer considered acceptable. This has been reproduced verbatim as these publications are an historical record.
+* There is some use of language that is no longer considered acceptable. This has been reproduced verbatim as these publications are an historical record.
 
 **Content Quick Links:**
 
 |      | 1865 | 1866 | 1867 |
 | ---- | ---- | ---- | ---- |
-| January   | [16th](1865-01-16) | [13th](1866-01-13) [18th](1866-01-18) [25th](1866-01-25) | |
-| February  | [1st](1865-02-01) [15th](1865-02-15) | [1st](1866-02-01) [8th](1866-02-08) [15th](1866-02-15) [22nd](1866-02-22) | |
-| March     | [1st](1865-03-01) [16th](1865-03-16) | [8th](1866-03-08) [15th](1866-03-15) [22nd](1866-03-22) [29th](1866-03-29) | |
-| April     | [1st](1865-04-01) [15th](1865-04-15) | [5th](1866-04-05) [12th](1866-04-12) [19th](1866-04-19) [26th](1866-04-26) | |
-| May       | [1st](1865-05-01) [16th](1865-05-16) | | |
-| June      | [1st](1865-06-01) [16th](1865-06-16) | | |
-| July      | [1st](1865-07-01) [15th](1865-07-15) | | |
-| August    | [1st](1865-08-01) [16th](1865-08-16) | | |
-| September | [1st](1865-09-01) [16th](1865-09-16) | | |
-| October   | [14th](1865-10-01) | | |
-| November  | [1st](1865-11-01) [15th](1865-11-15) | | |
-| December  | [1st](1865-12-01) [16th](1865-12-16) [30th](1865-12-30)| | |
+| January   | [16th](1865-01-16) | [13th](1866-01-13) [18th](1866-01-18) [25th](1866-01-25) | 16th |
+| February  | [1st](1865-02-01) [15th](1865-02-15) | [1st](1866-02-01) [8th](1866-02-08) [15th](1866-02-15) [22nd](1866-02-22) | -- |
+| March     | [1st](1865-03-01) [16th](1865-03-16) | [8th](1866-03-08) [15th](1866-03-15) [22nd](1866-03-22) [29th](1866-03-29) | -- |
+| April     | [1st](1865-04-01) [15th](1865-04-15) | [5th](1866-04-05) [12th](1866-04-12) [19th](1866-04-19) [26th](1866-04-26) | -- |
+| May       | [1st](1865-05-01) [16th](1865-05-16) | [3rd](1866-05-03) [10th](1866-05-10) [17th](1866-05-17) [24th](1866-05-24) [31st](1866-05-31)| -- |
+| June      | [1st](1865-06-01) [16th](1865-06-16) | 14th 21st 28th | -- |
+| July      | [1st](1865-07-01) [15th](1865-07-15) | 5th 12th 19th 26th | -- |
+| August    | [1st](1865-08-01) [16th](1865-08-16) | 2nd 9th 16th 23rd 30th | -- |
+| September | [1st](1865-09-01) [16th](1865-09-16) | 4th 11th 18th 25th | -- |
+| October   | [14th](1865-10-01) | 4th 11th 18th 25th | -- |
+| November  | [1st](1865-11-01) [15th](1865-11-15) | 1st 8th 15th 22nd 29th | -- |
+| December  | [1st](1865-12-01) [16th](1865-12-16) [30th](1865-12-30)| 6th 13th 20th 27th | -- |
 
 **1865**
 - [January 16th](1865-01-16)<br/>
@@ -162,6 +162,21 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 
 - [April 26th](1866-04-26)<br/>
   Religious Faith and Morality / Critique of Religious Dogma / Racial Injustice and Post-Slavery Issues / Colonialism and International Relations / Commerce and Infrastructure Development / Journalism and Public Discourse / Domestic Life and Relationships / Peril, Resilience, and Heroism / Observation of Nature and Local Culture / Reasoning and Human Fallibility / Social and Political Commentary
+
+- [May 3rd](1866-05-03)<br/>
+  International Geopolitics and European Affairs / Domestic Political Instability and Security Measures / Colonial Administration and Accountability / Philanthropy and Social Welfare Initiatives / Post-Civil War US Reconstruction and Civil Rights / Siamese Governance, Administration, and Justice / Religious and Philosophical Debates / Journalism, Press Freedom, and Editorial Policy / Ethnographic Descriptions and Cultural Practices / Commerce, Shipping, and Local Business Services / Public Health Crises and Disease Management / Promotion of Science and Intellectual Development
+
+- [May 10th](1866-05-10)<br/>
+  International Geopolitics / US Post-Civil War Reconstruction / Racial Equality and Civil Rights / Colonialism and Imperialism / Social Ills and Reform / Siam's Modernization and Foreign Relations / Nationalist Movements and Internal Unrest / The Role of Law and Governance / Trade, Commerce, and Economic Development / Personal Resilience and Overcoming Adversity / Freedom of Speech and Press / Cultural and Artistic Development
+
+- [May 17th](1866-05-17)<br/>
+  Journalism and the Power of the Press / Political Instability and Conflict / Trade and Economic Challenges / Social Injustice and Inequality / Human Resilience and Achievement / Moral and Ethical Conduct / Religious Faith and Changing Theology / Colonialism and International Relations / Local Bangkok Life and Environment / The American Reconstruction Debate / Public Services and Infrastructure
+
+- [May 24th](1866-05-24)<br/>
+  Journalism and Local Affairs / British Politics and Imperial Relations / American Post-Civil War Reconstruction / Philosophical and Intellectual Discourse / Science, Religion, and Creationism / Siamese Cultural Practices and Traditions / Economic Modernization and Commerce in Siam / Colonial Injustice and Human Rights / Theological and Spiritual Reflection / Entrepreneurship and Industrial Innovation / Social Commentary and Morality / Natural History and Scientific Inquiry
+
+- [May 31st](1866-05-31)<br/>
+  Spiritual and Philosophical Reflections on Creation / Appreciation of Nature and its Moral Influence / Comparative Societal Structures and Lifestyles / Geological Observation and Modern Scientific Theory / International Geopolitics and Conflicts / Post-Civil War American Politics and Racial Justice / Monetary Policy and Economic Stability / Maritime Industry and Incidents / Critique of Governance and Societal Corruption / Personal Morality and Business Ethics / Importance of Family Dialogue and Education / Local Commerce, Services, and Urban Development
 
 The remaining editions (May 1866 - January 1867) to be published at a later date.
 
