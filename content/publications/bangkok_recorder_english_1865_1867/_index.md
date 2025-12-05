@@ -182,8 +182,8 @@ The remaining editions (May 1866 - January 1867) to be published at a later date
 
 **Statistics**
 
-* 471,954 words
-* 78,994 lines of text
-* 788 articles
-* 657 advertisements (89 unique)
+* 546,664 words
+* 91,793 lines of text
+* 918 articles
+* 726 advertisements (95 unique)
 * 53 data tables with 2,184 data rows
