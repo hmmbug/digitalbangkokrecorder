@@ -37,7 +37,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 | April     | [1st](1865-04-01) [15th](1865-04-15) | [5th](1866-04-05) [12th](1866-04-12) [19th](1866-04-19) [26th](1866-04-26) | -- |
 | May       | [1st](1865-05-01) [16th](1865-05-16) | [3rd](1866-05-03) [10th](1866-05-10) [17th](1866-05-17) [24th](1866-05-24) [31st](1866-05-31) | -- |
 | June      | [1st](1865-06-01) [16th](1865-06-16) | [7th](1866-06-07) [14th](1866-06-14) [21st](1866-06-21) [28th](1866-06-28) | -- |
-| July      | [1st](1865-07-01) [15th](1865-07-15) | 5th 12th 19th 26th | -- |
+| July      | [1st](1865-07-01) [15th](1865-07-15) | [5th](1866-07-05) [12th](1866-07-12) [19th](1866-07-19) [26th](1866-07-26) | -- |
 | August    | [1st](1865-08-01) [16th](1865-08-16) | 2nd 9th 16th 23rd 30th | -- |
 | September | [1st](1865-09-01) [16th](1865-09-16) | 4th 11th 18th 25th | -- |
 | October   | [14th](1865-10-01) | 4th 11th 18th 25th | -- |
@@ -192,12 +192,24 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 - [June 28th](1866-06-28)<br/>
   Geopolitical Conflicts and Alliances / Justice, Mercy, and Human Rights / Faith and Religious Practice / Education and Scholarship / Monarchy and Governance / Community and Local Journalism / Public Health and Social Issues / Personal Courage and Family Devotion / Infrastructure and Economic Development / Political Extremism and Social Reform / Travel and Natural Scenery / International Trade and Maritime Commerce
 
+- [July 5th](1866-07-05)<br/>
+  Impending European War / United States Reconstruction Challenges / Widespread Financial Crisis / Colonial Power Dynamics and Interventions / International Crime and Violence / Diplomatic Maneuvers and Treaty Disputes / Siam's Modernization and Foreign Relations / Local Social and Community Life / Public Health and Medical Advances / The Role of the Press and Communication / Native Governance and Indigenous Rights / Cultural Exchange and Education
+
+- [July 12th](1866-07-12)<br/>
+  Public Health and Disease Management / Government Corruption and Reform in Siam / Indigenous Mythologies and Beliefs / International Financial Crises / Development of Communication and Shipping Infrastructure / Foreign Diplomacy and Consular Affairs / The Role and Influence of the Press / Famine and Social Hardship / Post-Civil War US Political Tensions / Comparative East Asian Modernization / Local Commerce and Market Information
+
+- [July 19th](1866-07-19)<br/>
+  Religious Faith and Conversion / Moral Character and Virtue / Public Health and Hygiene / Political Debate and Governance / Indigenous Culture and Mythology / Commerce and Local Economy / Social Norms and Critiques / Language and Literature of Siam / Self-Reliance and Industry / The Nature of Wealth and Happiness / Divine Creation and Natural Phenomena / Overcoming Adversity and Resilience
+
+- [July 26th](1866-07-26)<br/>
+  Ethnographic study of Karen culture and beliefs / Christian missionary work and its influence / British colonial impact and modernization in India / Siamese royal protocols and succession / Descriptions of Thai geography and agriculture / Newspaper publishing and local commerce in Bangkok / Critique of language and social conventions / Philosophical reflections on human endeavor / Political analysis of the United States government / Buddhist religious ceremonies and local traditions / European presence and cross-cultural observations in Siam / Science and natural phenomena
+
 The remaining editions, up to January 1867, will be published in the coming months.
 
 ### Statistics
 
-* 609,149 words
-* 102,414 lines of text
-* 953 articles
-* 789 advertisements (99 unique)
+* 670,850 words
+* 112,846 lines of text
+* 1,048 articles
+* 841 advertisements (102 unique)
 * 80 data tables with 3,838 data rows
