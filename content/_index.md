@@ -13,12 +13,12 @@ the [Bangkok Recorder (1844-45)](/publications/bangkok_recorder_1844_1845/), the
   {{< card link="/publications" title="Publications" icon="library" >}}
 {{< /cards >}}
 
-**Update Log**
+## Update Log
 
-*2025*
-- Dec. 3 Publication: [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), 4 editions - April 1866.
-- Dec. 1 Publication: [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), 11 editions - January to March 1866.
-- Sep. 24 Publication: [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), All 1865 editions.
+**2025**
+- Dec. 7 [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), published 13 editions to June 1866.
+- Dec. 1 [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), published 11 editions to March 1866.
+- Sep. 24 [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), All 1865 editions.
 
-*2024*
+**2024**
 - Nov. 24 Article: [Experimenting with LLMs for Optical Character Recognition](/articles/experimenting-with-llms-for-optical-character-recognition/)

@@ -16,7 +16,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 
 * **Purpose:** The original publication's conveyed "useful information" to the Siamese people, while the later English edition was a full-fledged news periodical covering politics, literature, science, and commerce. This shift in purpose also changed its format from a monthly publication to a bi-weekly (and later weekly) journal.
 
-**Note**
+### Project Notes
 
 * The text is reproduced as faithfully as possible including archaic spellings, a few typos and some unusual typesetting. It is possible there may be some mistakes in the transcription that weren't caught in proofreading. Contact me if that's the case.
 * Text lines are reproduced as per the original newspaper with line breaks, hyphenation etc as originally published.
@@ -27,7 +27,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 * Note that a few articles discuss slavery (both in Siam and America). There are some graphic descriptions of how people were treated which may be distressing to some readers.
 * There is some use of language that is no longer considered acceptable. This has been reproduced verbatim as these publications are an historical record.
 
-**Content Quick Links:**
+### Quick Links
 
 |      | 1865 | 1866 | 1867 |
 | ---- | ---- | ---- | ---- |
@@ -35,8 +35,8 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 | February  | [1st](1865-02-01) [15th](1865-02-15) | [1st](1866-02-01) [8th](1866-02-08) [15th](1866-02-15) [22nd](1866-02-22) | -- |
 | March     | [1st](1865-03-01) [16th](1865-03-16) | [8th](1866-03-08) [15th](1866-03-15) [22nd](1866-03-22) [29th](1866-03-29) | -- |
 | April     | [1st](1865-04-01) [15th](1865-04-15) | [5th](1866-04-05) [12th](1866-04-12) [19th](1866-04-19) [26th](1866-04-26) | -- |
-| May       | [1st](1865-05-01) [16th](1865-05-16) | [3rd](1866-05-03) [10th](1866-05-10) [17th](1866-05-17) [24th](1866-05-24) [31st](1866-05-31)| -- |
-| June      | [1st](1865-06-01) [16th](1865-06-16) | 14th 21st 28th | -- |
+| May       | [1st](1865-05-01) [16th](1865-05-16) | [3rd](1866-05-03) [10th](1866-05-10) [17th](1866-05-17) [24th](1866-05-24) [31st](1866-05-31) | -- |
+| June      | [1st](1865-06-01) [16th](1865-06-16) | [7th](1866-06-07) [14th](1866-06-14) [21st](1866-06-21) [28th](1866-06-28) | -- |
 | July      | [1st](1865-07-01) [15th](1865-07-15) | 5th 12th 19th 26th | -- |
 | August    | [1st](1865-08-01) [16th](1865-08-16) | 2nd 9th 16th 23rd 30th | -- |
 | September | [1st](1865-09-01) [16th](1865-09-16) | 4th 11th 18th 25th | -- |
@@ -45,6 +45,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 | December  | [1st](1865-12-01) [16th](1865-12-16) [30th](1865-12-30)| 6th 13th 20th 27th | -- |
 
 **1865**
+
 - [January 16th](1865-01-16)<br/>
   Modernization & political change / Western influence & treaties / Foreign publications & travelogues critiques / Book reviews / Social change & attitudes toward foreigners / International news / American Civil War & slavery / Indigenous peoples & rural life / Satire, humor, & social commentary
 
@@ -118,6 +119,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
   Reflections on the passing year / Health, mortality, & notable deaths in Bangkok / Royal births & deaths in the Siamese royal family / Social class, ancestry, & social commentary / Family reconciliation & Christmas traditions / Economic conditions, rice crop, & business outlook / Steam rice mills & industrial modernization / International relations / British & French political developments / Anecdotes, humor, & social satire
 
 **1866**
+
 - [January 13th](1866-01-13)<br/>
   Publication and Journalistic Principles / Siamese Royal Affairs and Local Governance / International Geopolitics and Colonial Influence / Trade, Commerce, and Maritime Activity / Public Health and Epidemic Control / American Post-Civil War Politics and Civil Rights / Christian Missions and Religious Commentary / Social Customs and Justice in Siam / Law, Order, and Regional Security / Technological and Infrastructure Development / Global News and Current Events
 
@@ -178,12 +180,24 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 - [May 31st](1866-05-31)<br/>
   Spiritual and Philosophical Reflections on Creation / Appreciation of Nature and its Moral Influence / Comparative Societal Structures and Lifestyles / Geological Observation and Modern Scientific Theory / International Geopolitics and Conflicts / Post-Civil War American Politics and Racial Justice / Monetary Policy and Economic Stability / Maritime Industry and Incidents / Critique of Governance and Societal Corruption / Personal Morality and Business Ethics / Importance of Family Dialogue and Education / Local Commerce, Services, and Urban Development
 
-The remaining editions, up to January 1867, to be published at a later date.
+- [June 7th](1866-06-07)<br/>
+  Christian Morality and Salvation / Critique of Rigid Social Norms / Ineffectiveness of Colonial Justice / International Law and State Neutrality / Development of Commerce and Infrastructure / Challenges in Cross-Cultural Translation / Regional Political Instability / The Ethics and Impact of Journalism / Principles of Study and Self-Improvement / Lessons from the Natural World / Colonial Economic Administration / Public Health and Diplomatic Representation
 
-**Statistics**
+- [June 14th](1866-06-14)<br/>
+  International Relations and Imperialism / Missionary Work and Indigenous Cultures / US Post-Civil War Politics / Siamese Governance and Culture / Travel and Geography in Siam / Moral and Ethical Conduct / Lifelong Learning / Urban Demographics and Social Life / Technological and Scientific Progress / Commerce and Local Economy / Press Freedom and Legal Principles / Cultural Observations and Personal Anecdotes
 
-* 546,664 words
-* 91,793 lines of text
-* 918 articles
-* 726 advertisements (95 unique)
-* 53 data tables with 2,184 data rows
+- [June 21st](1866-06-21)<br/>
+  Global Political Tensions and Military Readiness / US Post-Civil War Politics and Reconstruction / European and Indian Financial Crisis / British Imperial Engagement and Colonial Boundaries / Public Health Epidemics and Disease Control / International and Local Trade and Shipping Developments / Missionary Activities and Social Life in Siam / British Domestic Politics and Statesmen Profiles / Philanthropy and Social Welfare Initiatives / Advancements in Military Technology / Socio-Cultural Commentary on Public Morals / Regional Developments in Japan and Southeast Asia
+
+- [June 28th](1866-06-28)<br/>
+  Geopolitical Conflicts and Alliances / Justice, Mercy, and Human Rights / Faith and Religious Practice / Education and Scholarship / Monarchy and Governance / Community and Local Journalism / Public Health and Social Issues / Personal Courage and Family Devotion / Infrastructure and Economic Development / Political Extremism and Social Reform / Travel and Natural Scenery / International Trade and Maritime Commerce
+
+The remaining editions, up to January 1867, will be published in the coming months.
+
+### Statistics
+
+* 609,149 words
+* 102,414 lines of text
+* 953 articles
+* 789 advertisements (99 unique)
+* 80 data tables with 3,838 data rows
