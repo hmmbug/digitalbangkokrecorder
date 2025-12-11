@@ -38,8 +38,8 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 | May       | [1st](1865-05-01) [16th](1865-05-16) | [3rd](1866-05-03) [10th](1866-05-10) [17th](1866-05-17) [24th](1866-05-24) [31st](1866-05-31) | -- |
 | June      | [1st](1865-06-01) [16th](1865-06-16) | [7th](1866-06-07) [14th](1866-06-14) [21st](1866-06-21) [28th](1866-06-28) | -- |
 | July      | [1st](1865-07-01) [15th](1865-07-15) | [5th](1866-07-05) [12th](1866-07-12) [19th](1866-07-19) [26th](1866-07-26) | -- |
-| August    | [1st](1865-08-01) [16th](1865-08-16) | 2nd 9th 16th 23rd 30th | -- |
-| September | [1st](1865-09-01) [16th](1865-09-16) | 4th 11th 18th 25th | -- |
+| August    | [1st](1865-08-01) [16th](1865-08-16) | [2nd](1866-08-02) [9th](1866-08-09) [16th](1866-08-16) [23rd](1866-08-23) [30th](1866-08-30) | -- |
+| September | [1st](1865-09-01) [16th](1865-09-16) | [6th](1866-09-06) [13th](1866-09-13) [20th](1866-09-20) [26th](1866-09-26) | -- |
 | October   | [14th](1865-10-01) | 4th 11th 18th 25th | -- |
 | November  | [1st](1865-11-01) [15th](1865-11-15) | 1st 8th 15th 22nd 29th | -- |
 | December  | [1st](1865-12-01) [16th](1865-12-16) [30th](1865-12-30)| 6th 13th 20th 27th | -- |
@@ -204,12 +204,39 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 - [July 26th](1866-07-26)<br/>
   Ethnographic study of Karen culture and beliefs / Christian missionary work and its influence / British colonial impact and modernization in India / Siamese royal protocols and succession / Descriptions of Thai geography and agriculture / Newspaper publishing and local commerce in Bangkok / Critique of language and social conventions / Philosophical reflections on human endeavor / Political analysis of the United States government / Buddhist religious ceremonies and local traditions / European presence and cross-cultural observations in Siam / Science and natural phenomena
 
+- [August 2nd](1866-08-02)<br/>
+  International Geopolitical Conflicts / European Political and Diplomatic Crises / Colonial Administration and Imperial Expansion / Public Health and Humanitarian Crises / Infrastructure and Technological Development / Philanthropy and Social Reform / Domestic Social and Moral Commentary / Local Siamese Affairs and Development / Commerce and Shipping / Maritime Safety and Navigation / The Role of the Press
+
+- [August 9th](1866-08-09)<br/>
+  Personal Morality and Spiritual Discipline / Political Rivalry and Governance / Social Justice and Equality / Economic Dynamics and Local Commerce / Industrial Innovation and Technological Progress / Philanthropy and Responsible Wealth / Cultural and Religious Observation / Practical Life Skills and Self-Reliance / Law Enforcement and Crime / The Urgency of Time and Purposeful Living / Community Building and Mutual Support / Journalism and Public Discourse
+
+- [August 16th](1866-08-16)<br/>
+  Post-Civil War Political Tensions / Urbanization and Public Health Concerns / Faith and Moral Resilience / Siam's Economic Development and Modernization / Regional Diplomacy and International Relations / Ancient History and Archaeological Exploration / Socio-Economic Inequality and Happiness / The Role of Journalism and Communication / Challenges to Governance and Efficiency / Historical and Contemporary Christianity / Practical Wisdom and Philosophy
+
+- [August 23rd](1866-08-23)<br/>
+  European Geopolitical Conflicts / International Communication and Infrastructure / American Post-Civil War Society and Politics / Siamese Royal and Local Affairs / Global Trade and Economic Activity / Cultural and Social Observations / Scientific and Practical Innovations / Philanthropy and Global Exploration / Journalism and Publishing Business / Colonial Administration and Reform / Military Technology Advancements / Archaeology and Ancient Civilizations
+
+- [August 30th](1866-08-30)<br/>
+  European Geopolitical Conflicts and Peace Efforts / Global Disasters and Public Health / Infrastructure Development and Communication / Military Technology and its Impact / Siam's Internal Governance and Development / Archaeology and Ancient Southeast Asian Civilizations / Ethnographic Studies and Local Customs / Christian Missions and Moral Discourse / International Colonial and Political News / Commerce, Finance, and Business Notices / Advances in Science and Engineering / The Role and Operations of the Press
+
+- [September 6th](1866-09-06)<br/>
+  European Geopolitics and Warfare / Military Technology and Innovation / American Post-Civil War Reconstruction / Colonial Accountability and International Diplomacy / Siamese Internal Affairs and Social Conditions / Global Economics and National Debt / Public Health and Wellness Advocacy / Evolution of News Reporting / Regional Geography and Demographics / Local Commerce and Shipping / Literary and Philosophical Commentary / Natural History and Linguistic Observations
+
+- [September 13th](1866-09-13)<br/>
+  Austro-Prussian War consequences and German unification / Italian independence and annexation of Venetia / Protestant missionary expansion into Northern Siam / Tension between press freedom and Siamese government / Prevalence of bribery and official corruption / Western modernization efforts by Siam's Second King / Royal rebellion and political instability in Burma / Bangkok commercial shipping, exports, and market rates / Social benefits of universal public education / Global spread of cholera and health concerns / British colonial governance and the Jamaica Rebellion
+
+- [September 20th](1866-09-20)<br/>
+  Christian evangelism and domestic religious conversion / Progress of global telegraphic communication systems / British colonial governance and administrative appointments / Siamese treaty obligations regarding foreign property / Royal cremation ceremonies and Buddhist funeral rites / Missionary critique of Buddhist priesthood and idols / Local crime, police corruption, and judicial failure / Political significance of the Siamese Second King / Prussian military victories in Seven Days' War / Geopolitical relations between Britain and America / Commercial shipping notices and local business advertisements / Western influence on Japanese military training
+
+- [September 26th](1866-09-26)<br/>
+  Christian missionary work and biblical encouragement / European peace treaties and border disputes / Global communication via the Atlantic Telegraph / American reconstruction and civil rights debates / Corruption within the Siamese judicial system / Geographical and historical account of Hawaii / Commercial shipping, insurance, and local advertising / Biography and policies of King Mongkut / Local travelogues and descriptions of Ayuthia / Spread of cholera and public health / Moral lessons illustrating conscience and duty / Meteorological observations and the solar eclipse
+
 The remaining editions, up to January 1867, will be published in the coming months.
 
 ### Statistics
 
-* 670,850 words
-* 112,846 lines of text
-* 1,048 articles
-* 841 advertisements (102 unique)
+* 805,437 words
+* 136,241 lines of text
+* 1,307 articles
+* 959 advertisements (115 unique)
 * 80 data tables with 3,838 data rows
