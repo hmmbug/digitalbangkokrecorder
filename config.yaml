@@ -26,7 +26,8 @@ params:
     default: hextra
     displayToggle: true
   footer:
-    displayPoweredBy: false
+    # change copyright msg in i18n/footer.yaml
+    displayPoweredBy: true
     displayCopyright: true
   page:
     # full (100%), wide (90rem), normal (1280px)
