@@ -41,7 +41,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 | August    | [1st](1865-08-01) [16th](1865-08-16) | [2nd](1866-08-02) [9th](1866-08-09) [16th](1866-08-16) [23rd](1866-08-23) [30th](1866-08-30) | -- |
 | September | [1st](1865-09-01) [16th](1865-09-16) | [6th](1866-09-06) [13th](1866-09-13) [20th](1866-09-20) [26th](1866-09-26) | -- |
 | October   | [14th](1865-10-01) | [4th](1866-10-04) [11th](1866-10-11) [18th](1866-10-18) [25th](1866-10-25) | -- |
-| November  | [1st](1865-11-01) [15th](1865-11-15) | 1st 8th 15th 22nd 29th | -- |
+| November  | [1st](1865-11-01) [15th](1865-11-15) | [1st](1866-11-01) [8th](1866-11-08) [15th](1866-11-15) [22nd](1866-11-22) [29th](1866-11-29) | -- |
 | December  | [1st](1865-12-01) [16th](1865-12-16) [30th](1865-12-30)| 6th 13th 20th 27th | -- |
 
 **1865**
@@ -243,16 +243,31 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 - [October 25th](1866-10-25)<br/>
   Christian missionary work and Protestant church services / Criticism of President Johnson and Reconstruction policy / Carlyle’s tribute to John Knox and Puritans / Siamese Buddhist holidays and traditional river festivals / Bangkok market prices and commercial shipping reports / Critique of royal polygamy and harem customs / Impact of telegraphy and modern military weaponry / Description of fish curing and rice hulling / Accounts of natural curiosities like two-legged hogs / Reports on New Orleans riots and Lincoln’s assassination / Severe famine conditions reported in Orissa, India / Local events regarding Prince Chula Longkorn’s ordination
 
+- [November 1st](1866-11-01)<br/>
+  Post-Civil War racial tension and education efforts / Protestant missionary activities and religious conversion / Modernizing Siamese legal and administrative systems / Political character and demeanor of William Gladstone / Spiritual reflections on death and the afterlife / Bangkok commercial shipping and economic development / Personal integrity and moral courage in daily life / Natural history observations of Siamese wildlife / Skepticism regarding Roman Catholic miracles and practices / Total abstinence and strict religious observance / Diplomatic relations and cooperation between nations / Religious and social debates regarding slavery
+
+- [November 8th](1866-11-08)<br/>
+  European political shifts after Austro-Prussian War / Conflict between President Johnson and US Congress / Rebellion and royal power struggles in Burma / Civil war and political transition in Japan / Siamese economic potential and resource management / Corruption and injustice in Siamese legal system / Expansion of telegraphs and global communication / Fenian raids causing alarm in Canada / French and British rivalry over infrastructure projects / Instability and French involvement in Mexican politics / Promotion of health resorts and sea bathing / Commercial shipping and local merchant advertisements
+
+- [November 15th](1866-11-15)<br/>
+  Protestant missionary activities and weekly religious services / Rise of Prussian military power and influence / Southern loyalists’ appeal against President Johnson’s policy / Condemnation of gambling, lotteries, and alcohol consumption / King of Siam’s royal temple visitations and processions / History of Christian missions in the Sandwich Islands / Bangkok market prices, shipping news, and trade / Proposed telegraph line construction through Malay Peninsula / Critique of government corruption and debt slavery / Public demand for a Bangkok Post Office / Delays and speculation regarding T'achcen Canal construction / Spiritual poetry and reflections on personal influence
+
+- [November 22nd](1866-11-22)<br/>
+  US Reconstruction politics and conflict with President Johnson / Social evils and mechanics of Bangkok lottery gambling / Critique of Royal polygamy and call for reform / Urgent need for improved Bangkok roads and infrastructure / Naval experiments testing heavy guns against turret ironclads / Historical accounts and legends of the Buddha Gaudama / Humorous poetic depiction of chaotic house cleaning / Local steamship accidents and loss of royal timber / Cultural observations regarding Dutch and French cleanliness / Moral admonitions and Christian advice for daily living / American ladies expedition detained by Spanish fleet / Commercial advertisements for local Bangkok businesses and services
+
+- [November 29th](1866-11-29)<br/>
+  Post-war treaties and territorial annexations in Europe / Christian evangelism and conversion in rural China / Missionary influence on Hawaiian civilization and culture / King of Siam’s perspective on American politics / Promoting commercial development and infrastructure in Siam / Social ruin caused by legalized gambling farms / Reconstruction politics and unrest in America / Insurrection in Crete and Turkish military response / Madness and diplomacy regarding Mexican royalty / Maritime regulations, shipping news, and piracy / Local Bangkok religious services and community events / Commercial advertisements for local Bangkok businesses
+
 The remaining editions, up to January 1867, will be published in the coming months.
 
 ### Statistics
 
 | Attribute |  Count |
 | --- | ---: |
-| Word count | 869,268|
-| Lines of text | 146,961 |
-| Articles | 1,420 |
-| Total advertisements | 1,009 |
-| Unique advertisements | 118 |
+| Word count | 945,358|
+| Lines of text | 160,289 |
+| Articles | 1,548 |
+| Total advertisements | 1,068 |
+| Unique advertisements | 123 |
 | Data tables | 80 |
 | Data rows | 3,838 |
