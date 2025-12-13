@@ -25,7 +25,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
   * "inst" refers to the current month, e.g. _on the 15th inst._ means 15th of this month. 
   * "ult" refers to last month, e.g. _on the 15th ult._ means 15th of last month.
 * Note that a few articles discuss slavery (both in Siam and America). There are some graphic descriptions of how people were treated which may be distressing to some readers.
-* There is some use of language that is no longer considered acceptable. This has been reproduced verbatim as these publications are an historical record.
+* A small number of articles in this historical publication includes language that reflects the era of its creation and is not considered appropriate today. It is presented verbatim as a historical record.
 
 ### Quick Links
 
@@ -40,7 +40,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 | July      | [1st](1865-07-01) [15th](1865-07-15) | [5th](1866-07-05) [12th](1866-07-12) [19th](1866-07-19) [26th](1866-07-26) | -- |
 | August    | [1st](1865-08-01) [16th](1865-08-16) | [2nd](1866-08-02) [9th](1866-08-09) [16th](1866-08-16) [23rd](1866-08-23) [30th](1866-08-30) | -- |
 | September | [1st](1865-09-01) [16th](1865-09-16) | [6th](1866-09-06) [13th](1866-09-13) [20th](1866-09-20) [26th](1866-09-26) | -- |
-| October   | [14th](1865-10-01) | 4th 11th 18th 25th | -- |
+| October   | [14th](1865-10-01) | [4th](1866-10-04) [11th](1866-10-11) [18th](1866-10-18) [25th](1866-10-25) | -- |
 | November  | [1st](1865-11-01) [15th](1865-11-15) | 1st 8th 15th 22nd 29th | -- |
 | December  | [1st](1865-12-01) [16th](1865-12-16) [30th](1865-12-30)| 6th 13th 20th 27th | -- |
 
@@ -231,12 +231,28 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 - [September 26th](1866-09-26)<br/>
   Christian missionary work and biblical encouragement / European peace treaties and border disputes / Global communication via the Atlantic Telegraph / American reconstruction and civil rights debates / Corruption within the Siamese judicial system / Geographical and historical account of Hawaii / Commercial shipping, insurance, and local advertising / Biography and policies of King Mongkut / Local travelogues and descriptions of Ayuthia / Spread of cholera and public health / Moral lessons illustrating conscience and duty / Meteorological observations and the solar eclipse
 
+- [October 4th](1866-10-04)<br/>
+  Account of violent royal rebellion in Mandalay / Invention rendering gunpowder safe using ground glass / Success of Atlantic Cable connecting Europe and America / Military and population statistics of Austria and Prussia / Call for educational reform and literacy in Siam / History of infanticide and kings in Sandwich Islands / Political analysis of British influence in Burma / Observation of traditional Laos medical practices and cures / Skeptical report on Buddhist superstitions and alleged miracles / Local Bangkok news regarding accidents and court cases / Post-Civil War political tensions between US and Britain / Commercial shipping advertisements and market price currents
+
+- [October 11th](1866-10-11)<br/>
+  Missionary efforts to subvert Siamese idolatry / Political shifts and liberalism in Great Britain / Decline of Papal temporal power in Europe / Infrastructure improvements and road construction in Bangkok / Local crime and need for police protection / Advocacy for women's education and social elevation / Health warnings regarding tobacco and alcohol use / Political instability and rebellion in neighboring Burma / Geopolitical shifts within the German Confederation / Religious reflections on death and the afterlife / Commercial growth and shipping updates in Siam / Critique of fashion and dress reform advocacy
+
+- [October 18th](1866-10-18)<br/>
+  Peace treaties following the Austro-Prussian War / King of Siam’s birthday and diplomatic etiquette / French political pressure and encroachment on Siam / Modernization via gas lighting and steam mills / Natural history description of the Tookkaa lizard / US political reconstruction and cholera epidemic updates / Insurrection in Candia against Turkish rule / Violent piracy and murder near Hong Kong / History of missions in the Sandwich Islands / Critique of polygamy in the Siamese monarchy / Italian unification and acquisition of Venetia / Religious services and local commercial advertisements
+
+- [October 25th](1866-10-25)<br/>
+  Christian missionary work and Protestant church services / Criticism of President Johnson and Reconstruction policy / Carlyle’s tribute to John Knox and Puritans / Siamese Buddhist holidays and traditional river festivals / Bangkok market prices and commercial shipping reports / Critique of royal polygamy and harem customs / Impact of telegraphy and modern military weaponry / Description of fish curing and rice hulling / Accounts of natural curiosities like two-legged hogs / Reports on New Orleans riots and Lincoln’s assassination / Severe famine conditions reported in Orissa, India / Local events regarding Prince Chula Longkorn’s ordination
+
 The remaining editions, up to January 1867, will be published in the coming months.
 
 ### Statistics
 
-* 805,437 words
-* 136,241 lines of text
-* 1,307 articles
-* 959 advertisements (115 unique)
-* 80 data tables with 3,838 data rows
+| Attribute |  Count |
+| --- | ---: |
+| Word count | 869,268|
+| Lines of text | 146,961 |
+| Articles | 1,420 |
+| Total advertisements | 1,009 |
+| Unique advertisements | 118 |
+| Data tables | 80 |
+| Data rows | 3,838 |
