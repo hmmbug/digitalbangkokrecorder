@@ -42,7 +42,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 | September | [1st](1865-09-01) [16th](1865-09-16) | [6th](1866-09-06) [13th](1866-09-13) [20th](1866-09-20) [26th](1866-09-26) | -- |
 | October   | [14th](1865-10-01) | [4th](1866-10-04) [11th](1866-10-11) [18th](1866-10-18) [25th](1866-10-25) | -- |
 | November  | [1st](1865-11-01) [15th](1865-11-15) | [1st](1866-11-01) [8th](1866-11-08) [15th](1866-11-15) [22nd](1866-11-22) [29th](1866-11-29) | -- |
-| December  | [1st](1865-12-01) [16th](1865-12-16) [30th](1865-12-30)| 6th 13th 20th 27th | -- |
+| December  | [1st](1865-12-01) [16th](1865-12-16) [30th](1865-12-30)| [6th](1866-12-06) [13th](1866-12-13) [20th](1866-12-20) [27th](1866-12-27) | -- |
 
 **1865**
 
@@ -258,16 +258,27 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 - [November 29th](1866-11-29)<br/>
   Post-war treaties and territorial annexations in Europe / Christian evangelism and conversion in rural China / Missionary influence on Hawaiian civilization and culture / King of Siam’s perspective on American politics / Promoting commercial development and infrastructure in Siam / Social ruin caused by legalized gambling farms / Reconstruction politics and unrest in America / Insurrection in Crete and Turkish military response / Madness and diplomacy regarding Mexican royalty / Maritime regulations, shipping news, and piracy / Local Bangkok religious services and community events / Commercial advertisements for local Bangkok businesses
 
-The remaining editions, up to January 1867, will be published in the coming months.
+- [December 6th](1866-12-06)<br/>
+  French exploration of the Mekong River region / Success of transatlantic telegraph cable communication / Political critique of Austrian and Prussian relations / Post-Civil War reconstruction challenges in America / Steamship lines connecting America with Asia / History and geography of Siamese Shan lands / Editorial defense regarding Siamese language usage / Detailed mechanics of traditional Siamese ox carts / Constitutional history of the Sandwich Islands / US consular and naval strategy in China / Local Bangkok commercial and agricultural news / Christian religious instruction and mission updates
+
+- [December 13th](1866-12-13)<br/>
+  US political conflict over post-war reconstruction / International political updates and military telegrams / Bangkok local events, social gatherings, and regulations / Reports on maritime piracy and violent crimes / Christian missionary activities and religious service announcements / Siamese royal decrees and government administration news / Scientific exploration, travelogues, and technological progress / Educational progress and literacy in Sandwich Islands / Maritime statistics, shipping news, and naval specifications / Moral essays, literary excerpts, and philosophical questions / Commercial advertisements, market reports, and business notices / International diplomatic relations and consular affairs in Siam
+
+- [December 20th](1866-12-20)<br/>
+  Protestant church services and missionary activities / International political updates from Europe and America / French consular aggression against Siamese administration / Advancements in ironclads and naval artillery / Commercial and geographical tour of Bangkok river / Philosophical reflections on aging, character, and childhood / Persecution and propaganda against Jews in Russia / Descriptions of Cambodian ruins and Shanland geography / Biography and political rise of Count Bismark / American post-war elections and reconstruction politics / French naval expedition and conflict in Korea / Local shipping, business advertisements, and legal notices
+
+- [December 27th](1866-12-27)<br/>
+  Protestant religious instruction and missionary activities / Political criticism of American Reconstruction violence / Reports on mistreatment of American freedmen / Geographic descriptions of Bangkok riverfront architecture / Notice of the newspaper’s impending suspension / Moral guidance on marriage and domestic duties / Temperance warnings against the dangers of alcohol / Accounts of international conflicts in Korea and Abyssinia / Local commercial shipping and business advertisements / Local community social events and obituaries / Christian theological essays on salvation and surrender / Humorous anecdotes, poetry, and literary excerpts
 
 ### Statistics
 
-| Attribute |  Count |
-| --- | ---: |
-| Word count | 945,358|
-| Lines of text | 160,289 |
-| Articles | 1,548 |
-| Total advertisements | 1,068 |
-| Unique advertisements | 123 |
-| Data tables | 80 |
-| Data rows | 3,838 |
+| Attribute             | Count      |
+| --------------------- | ---------: |
+| Word count            |  1,006,199 |
+| Lines of text         |    170,769 |
+| Articles              |      1,657 |
+| Total advertisements  |      1,177 |
+| Unique advertisements |        130 |
+| Data tables           |        333 |
+| Data rows             |      3,884 |
+| Data points           |     26,052 |
