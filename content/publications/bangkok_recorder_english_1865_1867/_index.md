@@ -31,7 +31,7 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 
 |      | 1865 | 1866 | 1867 |
 | ---- | ---- | ---- | ---- |
-| January   | [16th](1865-01-16) | [13th](1866-01-13) [18th](1866-01-18) [25th](1866-01-25) | 16th |
+| January   | [16th](1865-01-16) | [13th](1866-01-13) [18th](1866-01-18) [25th](1866-01-25) | ?? [16th](1867-01-16) |
 | February  | [1st](1865-02-01) [15th](1865-02-15) | [1st](1866-02-01) [8th](1866-02-08) [15th](1866-02-15) [22nd](1866-02-22) | -- |
 | March     | [1st](1865-03-01) [16th](1865-03-16) | [8th](1866-03-08) [15th](1866-03-15) [22nd](1866-03-22) [29th](1866-03-29) | -- |
 | April     | [1st](1865-04-01) [15th](1865-04-15) | [5th](1866-04-05) [12th](1866-04-12) [19th](1866-04-19) [26th](1866-04-26) | -- |
@@ -40,9 +40,11 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 | July      | [1st](1865-07-01) [15th](1865-07-15) | [5th](1866-07-05) [12th](1866-07-12) [19th](1866-07-19) [26th](1866-07-26) | -- |
 | August    | [1st](1865-08-01) [16th](1865-08-16) | [2nd](1866-08-02) [9th](1866-08-09) [16th](1866-08-16) [23rd](1866-08-23) [30th](1866-08-30) | -- |
 | September | [1st](1865-09-01) [16th](1865-09-16) | [6th](1866-09-06) [13th](1866-09-13) [20th](1866-09-20) [26th](1866-09-26) | -- |
-| October   | [14th](1865-10-01) | [4th](1866-10-04) [11th](1866-10-11) [18th](1866-10-18) [25th](1866-10-25) | -- |
+| October   | ?? [14th](1865-10-01) | [4th](1866-10-04) [11th](1866-10-11) [18th](1866-10-18) [25th](1866-10-25) | -- |
 | November  | [1st](1865-11-01) [15th](1865-11-15) | [1st](1866-11-01) [8th](1866-11-08) [15th](1866-11-15) [22nd](1866-11-22) [29th](1866-11-29) | -- |
 | December  | [1st](1865-12-01) [16th](1865-12-16) [30th](1865-12-30)| [6th](1866-12-06) [13th](1866-12-13) [20th](1866-12-20) [27th](1866-12-27) | -- |
+
+'??' denotes unavailable publications.
 
 **1865**
 
@@ -270,15 +272,21 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 - [December 27th](1866-12-27)<br/>
   Protestant religious instruction and missionary activities / Political criticism of American Reconstruction violence / Reports on mistreatment of American freedmen / Geographic descriptions of Bangkok riverfront architecture / Notice of the newspaper’s impending suspension / Moral guidance on marriage and domestic duties / Temperance warnings against the dangers of alcohol / Accounts of international conflicts in Korea and Abyssinia / Local commercial shipping and business advertisements / Local community social events and obituaries / Christian theological essays on salvation and surrender / Humorous anecdotes, poetry, and literary excerpts
 
+**1867**
+
+- [January 16th](1867-01-16)<br/>
+  Global political unrest and military movements reported / Geography and economic resources of Borneo described / Detailed survey of Bangkok riverfront and architecture / Proposals for Bangkok urban planning and modernization / Editor's farewell and gratitude to subscribers expressed / Public apology regarding libel suit by French Consul / Arrival and specifications of US frigate Shenandoah / Essays regarding human character, gait, and morality / Christian missionary movements and religious moral instruction / Local commercial advertisements and shipping intelligence provided / Regional news updates from China and Japan / Diplomatic relations and foreign consulates in Siam
+
+
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |  1,006,199 |
-| Lines of text         |    170,769 |
-| Articles              |      1,657 |
-| Total advertisements  |      1,177 |
+| Word count            |  1,024,144 |
+| Lines of text         |    173,432 |
+| Articles              |      1,675 |
+| Total advertisements  |      1,185 |
 | Unique advertisements |        130 |
-| Data tables           |        333 |
-| Data rows             |      3,884 |
-| Data points           |     26,052 |
+| Data tables           |        343 |
+| Data rows             |      4,333 |
+| Data points           |     28,268 |
