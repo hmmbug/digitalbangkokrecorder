@@ -8,6 +8,9 @@ weight: 2
 ---
 The following publications have been digitally preserved on this site:
 
+* [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/), _Bradley, D. B. (1865-67)_<br/>
+  _American Board of Commissioners for Foreign Missions Press, Bangkok_  
+
 * [Bangkok Recorder (English) 1865-1867](/publications/bangkok_recorder_english_1865_1867/), _Bradley, D. B. (1865-67)_<br/>
   _American Board of Commissioners for Foreign Missions Press, Bangkok_  
 
