@@ -5,8 +5,11 @@ draft: false
 cascade:
   type: docs
 ---
-This site hosts the digital preservation of the first newspaper to be printed in Thailand,
-the [Bangkok Recorder (1844-45)](/publications/bangkok_recorder_1844_1845/), the later [English language 1865-67 edition](/publications/bangkok_recorder_english_1865_1867/) and [related content](/publications/).
+This site hosts a digital preservation of the first newspapers to be printed in Thailand 
+including the Thai language Bangkok Recorder, <!-- both the [1844-45](/publications/bangkok_recorder_1844_1845/) 
+and [1865-67](/publications/bangkok_recorder_thai_1865_1867/) editions, --> the English language
+[1865-67](/publications/bangkok_recorder_english_1865_1867/) edition and other
+[related content](/publications/).
 
 {{< cards >}}
   {{< card link="/articles" title="Articles" icon="document-text" >}}
@@ -15,11 +18,13 @@ the [Bangkok Recorder (1844-45)](/publications/bangkok_recorder_1844_1845/), the
 
 ## Update Log
 
-**2025**
-- Dec. 14 [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), published all remaining editions.
-- Dec. 7 [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), published 13 editions to June 1866.
-- Dec. 1 [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), published 11 editions to March 1866.
-- Sep. 24 [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), All 1865 editions.
+- December, 2025
+  - [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), published all remaining editions.
+- September, 2025
+  - [Bangkok Recorder (English)](/publications/bangkok_recorder_english_1865_1867/), all 1865 editions.
+- November, 2024
+  - Article: [Experimenting with LLMs for Optical Character Recognition](/articles/experimenting-with-llms-for-optical-character-recognition/)
 
-**2024**
-- Nov. 24 Article: [Experimenting with LLMs for Optical Character Recognition](/articles/experimenting-with-llms-for-optical-character-recognition/)
+<!-- 
+  - [Bangkok Recorder (Thai)](/publications/bangkok_recorder_thai_1865_1867/), published the first 3 editions.
+-->

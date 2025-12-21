@@ -1,7 +1,7 @@
 ---
 title: "Document Preparation Workflow"
 date: 2025-11-20T00:00:00Z
-draft: false
+draft: true
 type: docs
 authors: "Mark Hollow"
 ---
