@@ -46,6 +46,8 @@ The 1865-67 English language editions of the Bangkok Recorder are very different
 
 '??' denotes unavailable publications.
 
+### Index
+
 **1865**
 
 - [January 16th](1865-01-16)<br/>
