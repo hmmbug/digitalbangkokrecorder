@@ -2,18 +2,31 @@
 title: 'Bangkok Recorder (Thai) 1865-1867'
 description: 'Bangkok Recorder (Thai) 1865-1867'
 date: 2025-12-14T00:00:00Z
-draft: true
+draft: false
 weight: 2
 cascade:
   type: docs
 ---
 
-The 1865-67 Thai language editions of the Bangkok Recorder:
+The Bangkok Recorder began to be published in a second phase between 1865 and 1867, two decades later than the 
+[first phase](/publications/bangkok_recorder_thai_1844_1845/) and under more liberal conditions. It was written 
+and published by Dr. Dan Beach Bradley and N. A. McDonald.
 
-**TODO**
-- incorrect dates
-- In these newspapers ๗ is used as a diacritic for ไม้ไต่คู้ (-็) due to a limitation of the typeface. 
-This can't be preserved with modern unicode, so ไม้ไต่คู้ is used.
+* **Language & Format:** The Thai-language edition was produced alongside its [English counterpart](/publications/bangkok_recorder_english_1865_1867/), making it one of the earliest regularly printed Thai newspapers. It used a two-column layout and was physically smaller than the English version. The first English editions contained a small number of Thai language articles but after a few months the newspapers were separated into monolingual English and Thai editions.
+
+* **Content & Context:** The Thai edition shared local news, commentary, and general topics with its readers during the reign of King Mongkut (Rama IV), when Siam was engaging more with Western ideas. Although it provided information about current events and broader subjects> Financial difficulties and mixed reception among subscribers led to its eventual end in early 1867.
+
+* **Legacy:** The Bangkok Recorder laid the foundation of modern Thai journalism and public discourse. As one of the earliest sustained Thai-language newspapers, it introduced regular news reporting, editorials, and the idea of print as a medium for social debate to a Siamese readership. It helped familiarize Thai society with Western concepts of journalism, rational inquiry, and public opinion during the period of reforms under King Mongkut (Rama IV), promoting Western science and education, expanding diplomacy and trade, supporting printing and the press, and starting administrative reforms that helped preserve the country’s independence. Although short-lived, the newspaper set important precedents in language, format, and intellectual openness that influenced later Thai publications and marked a transition from traditional court chronicles to modern mass communication in Thailand.
+
+### Project Notes
+
+* The text is reproduced as faithfully as possible including archaic spellings, a few typos and (where practical) some unusual typesetting. It is possible there may be some mistakes in the transcription that weren’t caught in proofreading. Contact me if that’s the case.
+
+* Text lines are reproduced as per the original newspaper with line breaks, hyphenation etc as originally published.
+
+* Some parts of the text are illegible in the source material due to age/condition of the document. These parts are instead represented with […] in this online version.
+
+* The Chulasakarat publication dates on some editions are incorrect. Corrections are provided below.
 
 ### Quick Links 
 
@@ -22,9 +35,9 @@ This can't be preserved with modern unicode, so ไม้ไต่คู้ is u
 | January   | --                                   | 1st  17th 31st | 5th 20th |
 | February  | --                                   | 15th           | 16th     |
 | March     | [1st](1865-03-01) [16th](1865-03-16) | 1st  17th      | --       |
-| April     | [1st](1865-04-01) [15th](1865-04-15) | 29th | --       |
+| April     | [1st](1865-04-01) [15th](1865-04-15) | 29th           | --       |
 | May       | [1st](1865-05-01) [15th](1865-05-15) | 15th 30th*     | --       |
-| June      | [1st](1865-06-01) [16th](1865-06-16) | 12th 27th      | --       |
+| June      | [1st](1865-06-01) 16th | 12th 27th      | --       |
 | July      | 1st 22nd                             | 12th 27th      | --       |
 | August    | 7th 21st                             | 11th 27th      | --       |
 | September | 9th 20th                             | 9th  24th      | --       |
@@ -34,8 +47,10 @@ This can't be preserved with modern unicode, so ไม้ไต่คู้ is u
 
 The dates below are presented as the Gregorian and Chulasakarat dates as printed in the 
 newspaper. Where a third date is also given, it is either the complete Chulasakarat date
-(from where only a month is printed in the newspaper) or the correct date where it has
-been miscalculated for the newspaper.
+(from where only a month is printed in the newspaper) or the correct date where it had
+been miscalculated.
+
+### Index
 
 **1865**
 
@@ -55,16 +70,20 @@ been miscalculated for the newspaper.
   History of Mexico and French military intervention / Siam and France treaty regarding Cambodia status / Regulations on French alcohol imports and taxation / Canal excavation project for agriculture and transport / Critique of using gambling to fund infrastructure / Obituary of Robert Hunter and alcoholism warning / Local crime statistics and police arrest reports / Market prices for commodities in Bangkok trade / Updates on American Civil War and victories / Underground transportation developments in Western cities / Travels and health updates of American missionaries / Printing press services and newspaper subscription details
 
 * [May 15th, 1865 - เดือน ๖ แรม ๖ ค่ำ จ.ศ.๑๒๒๗](1865-05-15)<br/>
+  Scientific explanation of electricity and lightning rods / First aid methods for lightning strike victims / Disputes over French treaty and alcohol trade / Moral condemnation of alcohol consumption and sales / Obstructions and hazards in Bangkok waterways / Traffic congestion problems in local canals / Police raids on illegal opium smuggling dens / International news on wars and foreign politics / Safety warnings regarding steamship boiler explosions / Weekly report of local crimes and arrests / Market prices for commodities in Chinese ports / Shipping movement lists and printing advertisements
 
-* [June 1st, 1865 - เดือน ๗ ขื้น ๘ ค่ำ จ.ศ.๑๒๒๗](1865-05-01)<br/>
-
+* [June 1st, 1865 - เดือน ๗ ขื้น ๘ ค่ำ จ.ศ.๑๒๒๗](1865-06-01)<br/>
+  Origins and customs of Native American tribes / Scientific explanation of atmospheric pressure and weight / Philanthropy for higher education institutions in Bombay / Advocacy for modern education and languages in Siam / French infrastructure and school developments in Saigon / Warning against physical and moral evils of alcohol / Report on steamboat collision with Royal barge / Police investigation into burglary and stolen goods / Public safety hazards caused by river fishing traps / Reception of Siamese Consul visiting from Singapore / Brightness and photographic utility of magnesium light / Current market prices and local crime statistics
+<!--
 * [June 16th, 1865 - เดือน ๗ แรม ๘ ค่ำ จ.ศ.๑๒๒๗](1865-06-16)<br/>
-
+-->
 
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |     14,643 |
-| Lines of text         |      1,319 |
-
+| Word count            |     33,474 |
+| Lines of text         |      3,201 |
+| Data tables           |         13 |
+| Data rows             |         93 |
+| Data points           |        473 |
