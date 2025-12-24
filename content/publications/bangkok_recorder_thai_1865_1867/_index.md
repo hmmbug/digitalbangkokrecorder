@@ -37,7 +37,7 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | March     | [1st](1865-03-01) [16th](1865-03-16) | 1st  17th      | --       |
 | April     | [1st](1865-04-01) [15th](1865-04-15) | 29th           | --       |
 | May       | [1st](1865-05-01) [15th](1865-05-15) | 15th 30th*     | --       |
-| June      | [1st](1865-06-01) 16th | 12th 27th      | --       |
+| June      | [1st](1865-06-01) [16th](1865-06-16) | 12th 27th      | --       |
 | July      | 1st 22nd                             | 12th 27th      | --       |
 | August    | 7th 21st                             | 11th 27th      | --       |
 | September | 9th 20th                             | 9th  24th      | --       |
@@ -74,16 +74,16 @@ been miscalculated.
 
 * [June 1st, 1865 - เดือน ๗ ขื้น ๘ ค่ำ จ.ศ.๑๒๒๗](1865-06-01)<br/>
   Origins and customs of Native American tribes / Scientific explanation of atmospheric pressure and weight / Philanthropy for higher education institutions in Bombay / Advocacy for modern education and languages in Siam / French infrastructure and school developments in Saigon / Warning against physical and moral evils of alcohol / Report on steamboat collision with Royal barge / Police investigation into burglary and stolen goods / Public safety hazards caused by river fishing traps / Reception of Siamese Consul visiting from Singapore / Brightness and photographic utility of magnesium light / Current market prices and local crime statistics
-<!--
+
 * [June 16th, 1865 - เดือน ๗ แรม ๘ ค่ำ จ.ศ.๑๒๒๗](1865-06-16)<br/>
--->
+  Scientific principles of air pressure and water pumps / Confederate surrender ending the American Civil War / Assassination details of US President Abraham Lincoln / Legal disputes involving theft and foreign consuls / Public notices regarding bankruptcy and lost property / Technical specifications and crew of British warships / Police reports on local arrests and crimes / Market prices for commodities in Bangkok and China / International shipping logs and export cargo manifests / Anecdote concerning President Lincoln's personal Christian faith / Maritime schedules of ship arrivals and departures
 
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |     33,474 |
-| Lines of text         |      3,201 |
-| Data tables           |         13 |
-| Data rows             |         93 |
-| Data points           |        473 |
+| Word count            |     40,758 |
+| Lines of text         |      3,963 |
+| Data tables           |         17 |
+| Data rows             |        162 |
+| Data points           |        796 |

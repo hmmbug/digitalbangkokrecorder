@@ -33,6 +33,14 @@
   <link href="{{ $custom.RelPermalink }}" rel="stylesheet" />
 {{- end }}
 
+{{- $custom := resources.Get "css/bkkrec_table_thai.css" }}
+{{- if hugo.IsProduction -}}
+  {{- $custom = $custom | minify | fingerprint }}
+  <link href="{{ $custom.RelPermalink }}" rel="stylesheet" integrity="{{ $custom.Data.Integrity }}" />
+{{- else }}
+  <link href="{{ $custom.RelPermalink }}" rel="stylesheet" />
+{{- end }}
+
 <!-- javascript -->
 {{ range .Site.Params.custom_js -}}
     <link rel="stylesheet" href="{{ . | absURL }}">
