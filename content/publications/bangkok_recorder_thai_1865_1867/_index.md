@@ -38,7 +38,7 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | April     | [1st](1865-04-01) [15th](1865-04-15) | 29th           | --       |
 | May       | [1st](1865-05-01) [15th](1865-05-15) | 15th 30th*     | --       |
 | June      | [1st](1865-06-01) [16th](1865-06-16) | 12th 27th      | --       |
-| July      | [1st](1865-08-01)] 22nd                             | 12th 27th      | --       |
+| July      | [1st](1865-07-01) [22nd](1865-07-22) | 12th 27th      | --       |
 | August    | 7th 21st                             | 11th 27th      | --       |
 | September | 9th 20th                             | 9th  24th      | --       |
 | October   | 5th 19th                             | 9th  24th      | --       |
@@ -78,15 +78,24 @@ been miscalculated.
 * [June 16th, 1865 - เดือน ๗ แรม ๘ ค่ำ จ.ศ.๑๒๒๗](1865-06-16)<br/>
   Scientific principles of air pressure and water pumps / Confederate surrender ending the American Civil War / Assassination details of US President Abraham Lincoln / Legal disputes involving theft and foreign consuls / Public notices regarding bankruptcy and lost property / Technical specifications and crew of British warships / Police reports on local arrests and crimes / Market prices for commodities in Bangkok and China / International shipping logs and export cargo manifests / Anecdote concerning President Lincoln's personal Christian faith / Maritime schedules of ship arrivals and departures
 
-* [July 1st, 1865 - เดือน ๘ ขึ้น ๘ ค่ำ จุลศักราช ๑๒๒๗](1865-08-01)]<br/>
+* [July 1st, 1865 - เดือน ๘ ขึ้น ๘ ค่ำ จ.ศ.๑๒๒๗](1865-08-01)<br/>
   Principles of air pressure and weather forecasting / Assassination of President Lincoln and Booth's capture / Fall of Richmond and Confederate Army retreat / Lives of Siamese Twins in North Carolina / Manufacturing processes of American machine-made watches / Biography and rise of President Andrew Johnson / Funeral procession and mourning for President Lincoln / Comparison of Western progress versus Eastern tradition / Local police reports on theft and crime / Market prices for local and export commodities / Bangkok commercial advertisements and shipping schedules / Critique of Papal authority and modern progress
+
+* [July 22nd, 1865 - เดือน ๘ แรม ๑๒ ค่ำ จ.ศ.๑๒๒๗ - เดือน ๘ แรม ๑๔ ค่ำ ปีฉลู จ.ศ.๑๒๒๗](1865-07-22)<br/>
+  Explaining chemical elements and composition of air / Anatomy and blood circulation of the human heart / Religious influence and illiteracy in Southern Italy / Historical overview of early British civilizations / Siamese skepticism regarding American Civil War stability / Editorial defense of American democratic government / Celebration of American Independence and abolition / Personal reflections on missionary life in Siam / Reports on local fires and criminal activities / International updates on US Civil War aftermath / News concerning Royal Family births and deaths / Issues with counterfeit currency and monetary reform
+
+<!--
+* [August 7th, 1865](1865-08-07)<br/>
+
+* [August 21st, 1865](1865-07-21)<br/>
+-->
 
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |     52,007 |
-| Lines of text         |      4,997 |
-| Data tables           |         20 |
-| Data rows             |        184 |
-| Data points           |        878 |
+| Word count            |     61,587 |
+| Lines of text         |      5,888 |
+| Data tables           |         21 |
+| Data rows             |        200 |
+| Data points           |        965 |
