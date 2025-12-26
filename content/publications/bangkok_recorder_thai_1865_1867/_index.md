@@ -60,7 +60,7 @@ been miscalculated.
 * [March 16th, 1865 - เดือน ๔ จ.ศ.๑๒๒๕ (เดือน ๔ แรม ๕ ค่ำ จ.ศ.๑๒๒๖)](1865-03-16)<br/>
   Early European fear of the Atlantic Ocean / Quest for Eastern wealth driving exploration / Columbus’s conviction in a spherical earth / Queen Isabella financing Columbus’s 1492 voyage / Discovery of San Salvador and Native Americans / Columbus’s subsequent misfortune and burial history / America named after Vespucci, not Columbus / Bhutan’s geography, economy, and British war / Japanese justice regarding murdered British officers / Rapid expansion of the United States Navy / Effectiveness of the Union coastal blockade / British analysis of American ironclad warships
 
-* [April 1st, 1865 - เดือน ๕ จ.ศ.๑๒๒๗](1865-04-01)<br/>
+* [April 1st, 1865 - เดือน ๕ จ.ศ.๑๒๒๗ (เดือน ๕ ขึ้น ๖ ค่ำ ปีชวด จ.ศ.๑๒๒๖)](1865-04-01)<br/>
   History of American independence and territorial expansion / Nevada’s geography, mining resources, and population growth / Union victory at Fort Fisher during Civil War / Appointment of new American Consul to Bangkok / Union naval pursuit of Confederate raiders in Asia / Progress on Transatlantic and global telegraph networks / Expansion of petroleum discoveries and railway infrastructure / Devastating cyclone destruction and death toll in Calcutta / Cholera and smallpox outbreaks in Singapore and India / Bank robbery in Hong Kong and Penang riots / Nile drought causing grain shortages in Egypt / Rice market prices in China and Hong Kong
 
 * [April 15th, 1865 - เดือน ๕ แรม ๕ ค่ำ จ.ศ.๑๒๒๗](1865-04-15)<br/>
@@ -75,13 +75,13 @@ been miscalculated.
 * [June 1st, 1865 - เดือน ๗ ขื้น ๘ ค่ำ จ.ศ.๑๒๒๗](1865-06-01)<br/>
   Origins and customs of Native American tribes / Scientific explanation of atmospheric pressure and weight / Philanthropy for higher education institutions in Bombay / Advocacy for modern education and languages in Siam / French infrastructure and school developments in Saigon / Warning against physical and moral evils of alcohol / Report on steamboat collision with Royal barge / Police investigation into burglary and stolen goods / Public safety hazards caused by river fishing traps / Reception of Siamese Consul visiting from Singapore / Brightness and photographic utility of magnesium light / Current market prices and local crime statistics
 
-* [June 16th, 1865 - เดือน ๗ แรม ๘ ค่ำ จ.ศ.๑๒๒๗](1865-06-16)<br/>
+* [June 16th, 1865 - เดือน ๗ แรม ๘ ค่ำ จ.ศ.๑๒๒๗ (เดือน ๗ แรม ๘ ค่ำ ปีฉลู จ.ศ.๑๒๒๗)](1865-06-16)<br/>
   Scientific principles of air pressure and water pumps / Confederate surrender ending the American Civil War / Assassination details of US President Abraham Lincoln / Legal disputes involving theft and foreign consuls / Public notices regarding bankruptcy and lost property / Technical specifications and crew of British warships / Police reports on local arrests and crimes / Market prices for commodities in Bangkok and China / International shipping logs and export cargo manifests / Anecdote concerning President Lincoln's personal Christian faith / Maritime schedules of ship arrivals and departures
 
 * [July 1st, 1865 - เดือน ๘ ขึ้น ๘ ค่ำ จ.ศ.๑๒๒๗](1865-08-01)<br/>
   Principles of air pressure and weather forecasting / Assassination of President Lincoln and Booth's capture / Fall of Richmond and Confederate Army retreat / Lives of Siamese Twins in North Carolina / Manufacturing processes of American machine-made watches / Biography and rise of President Andrew Johnson / Funeral procession and mourning for President Lincoln / Comparison of Western progress versus Eastern tradition / Local police reports on theft and crime / Market prices for local and export commodities / Bangkok commercial advertisements and shipping schedules / Critique of Papal authority and modern progress
 
-* [July 22nd, 1865 - เดือน ๘ แรม ๑๒ ค่ำ จ.ศ.๑๒๒๗ - เดือน ๘ แรม ๑๔ ค่ำ ปีฉลู จ.ศ.๑๒๒๗](1865-07-22)<br/>
+* [July 22nd, 1865 - เดือน ๘ แรม ๑๒ ค่ำ จ.ศ.๑๒๒๗ (เดือน ๘ แรม ๑๔ ค่ำ ปีฉลู จ.ศ.๑๒๒๗)](1865-07-22)<br/>
   Explaining chemical elements and composition of air / Anatomy and blood circulation of the human heart / Religious influence and illiteracy in Southern Italy / Historical overview of early British civilizations / Siamese skepticism regarding American Civil War stability / Editorial defense of American democratic government / Celebration of American Independence and abolition / Personal reflections on missionary life in Siam / Reports on local fires and criminal activities / International updates on US Civil War aftermath / News concerning Royal Family births and deaths / Issues with counterfeit currency and monetary reform
 
 <!--
