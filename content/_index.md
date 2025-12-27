@@ -19,6 +19,7 @@ and [1865-67](/publications/bangkok_recorder_thai_1865_1867/) editions, the Engl
 ## Update Log
 
 - December, 2025
+  - [Thai Lunar Calendar 101](/articles/thai-lunar-calendar-101/) article published to provide a basic understanding of the dates in Thai newspapers.
   - [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/), published March 1st--June 16th 1865 editions.
   - [Bangkok Recorder (English) 1865-1867](/publications/bangkok_recorder_english_1865_1867/), published all remaining editions.
 - September, 2025
