@@ -233,3 +233,6 @@ Example
 * Eade, J.C. (1995). _The Calendrical Systems of Mainland South-East Asia_ (illustrated ed.). Brill
 * Busyakul, Visudh (2004). "Calendar and Era in use in Thailand" (PDF). Journal of the Royal Institute of Thailand (in Thai). 29 (2, April–June). Bangkok: Royal Institute of Thailand: 468–78
 
+## Credits
+
+* [Moon phase image](https://commons.wikimedia.org/wiki/File:Moon_Phase_Diagram_for_Simple_English_Wikipedia.GIF) used under Creative Commons license. 
