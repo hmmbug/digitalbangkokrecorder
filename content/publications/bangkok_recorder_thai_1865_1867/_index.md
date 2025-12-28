@@ -30,8 +30,8 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 
 ### Quick Links 
 
-|           | 1865 | 1866 | 1867 |
-| --------- | ---- | ---- | ---- |
+|           | 1865                                 | 1866           | 1867     |
+| --------- | ------------------------------------ | -------------- | -------- |
 | January   | --                                   | 1st  17th 31st | 5th 20th |
 | February  | --                                   | 15th           | 16th     |
 | March     | [1st](1865-03-01) [16th](1865-03-16) | 1st  17th      | --       |
@@ -39,7 +39,7 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | May       | [1st](1865-05-01) [15th](1865-05-15) | 15th 30th*     | --       |
 | June      | [1st](1865-06-01) [16th](1865-06-16) | 12th 27th      | --       |
 | July      | [1st](1865-07-01) [22nd](1865-07-22) | 12th 27th      | --       |
-| August    | 7th 21st                             | 11th 27th      | --       |
+| August    | [7th](1865-08-07) [21st](1865-08-21) | 11th 27th      | --       |
 | September | 9th 20th                             | 9th  24th      | --       |
 | October   | 5th 19th                             | 9th  24th      | --       |
 | November  | 3rd 18th                             | 7th  22nd      | --       |
@@ -84,18 +84,36 @@ been miscalculated.
 * [July 22nd, 1865 - เดือน ๘ แรม ๑๒ ค่ำ จ.ศ.๑๒๒๗ (เดือน ๘ แรม ๑๔ ค่ำ ปีฉลู จ.ศ.๑๒๒๗)](1865-07-22)<br/>
   Explaining chemical elements and composition of air / Anatomy and blood circulation of the human heart / Religious influence and illiteracy in Southern Italy / Historical overview of early British civilizations / Siamese skepticism regarding American Civil War stability / Editorial defense of American democratic government / Celebration of American Independence and abolition / Personal reflections on missionary life in Siam / Reports on local fires and criminal activities / International updates on US Civil War aftermath / News concerning Royal Family births and deaths / Issues with counterfeit currency and monetary reform
 
-<!--
-* [August 7th, 1865](1865-08-07)<br/>
+* [August 7th, 1865 - เดือนเก้า ขึ้น สิบห้า ค่ำ จ.ศ.๑๒๒๗](1865-08-07)<br/>
+  Corruption disputes regarding iron taxation monopolies / Slavery as primary cause of American Civil War / Private funding for new public canal construction / Moral opposition to lottery financing public works / Local rice farming reports and weather conditions / Commodity price lists for Bangkok and China / Piracy attacks threatening regional maritime trade routes / International political updates and financial bankruptcy reports / Detailed account of Jefferson Davis's capture / Public consultation on tolls versus lottery funding / Arrivals and departures of international merchant vessels / Newspaper subscription rates and printing service advertisements
 
-* [August 21st, 1865](1865-07-21)<br/>
+* [August 21st, 1865 - เดือน ๙ แรม ๑๔ ค่ำ จุลศักราช ๑๒๒๗](1865-08-21)<br/>
+  Anatomical explanation of heart function and blood circulation / Scientific experiments regarding oxygen, fire, and respiration / Legal dispute regarding tax collection and corruption / Trade statistics for Singapore, Penang, and Burma / Editorial critique on Buddhist bans against cattle slaughter / Discovery of camphor trees and petroleum utility / Public complaints about canal traffic and congestion / Rumors of Chinese rebellion and government censorship / Impact of US Civil War on international finance / Analysis of American national debt and economic recovery / Commercial shipping movements and commodity price lists / Advertisements for printing services, books, and merchants
+
+<!--
+* [September 9th, 1865](1865-09-09)<br/>
+
+* [September 20th, 1865](1865-09-20)<br/>
+
+* [October 5th, 1865](1865-10-05)<br/>
+
+* [October 19th, 1865](1865-10-19)<br/>
+
+* [November 3rd, 1865](1865-11-03)<br/>
+
+* [November 18th, 1865](1865-11-18)<br/>
+
+* [December 4th, 1865](1865-12-04)<br/>
+
+* [December 18th, 1865](1865-12-18)<br/>
 -->
 
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |     61,587 |
-| Lines of text         |      5,888 |
-| Data tables           |         21 |
-| Data rows             |        200 |
-| Data points           |        965 |
+| Word count            |     80,259 |
+| Lines of text         |      7,682 |
+| Data tables           |         26 |
+| Data rows             |        248 |
+| Data points           |      1,199 |
