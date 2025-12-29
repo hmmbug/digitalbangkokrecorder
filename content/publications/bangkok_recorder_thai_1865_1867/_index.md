@@ -41,7 +41,7 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | July      | [1st](1865-07-01) [22nd](1865-07-22) | 12th 27th      | --       |
 | August    | [7th](1865-08-07) [21st](1865-08-21) | 11th 27th      | --       |
 | September | [9th](1865-09-09) [20th](1865-09-20) | 9th  24th      | --       |
-| October   | 5th 19th                             | 9th  24th      | --       |
+| October   | [5th](1865-10-05) [19th](1865-10-19) | 9th  24th      | --       |
 | November  | 3rd 18th                             | 7th  22nd      | --       |
 | December  | 4th 18th                             | 7th  22nd      | --       |
 
@@ -96,11 +96,13 @@ been miscalculated.
 * [September 20th, 1865 - เดือน ๑๐ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๗](1865-09-20)<br/>
   Government policies on currency and combating counterfeiting / Clarification of rumors regarding Thai-French relations / Adjusting coconut taxes to encourage agricultural planting / Debates regarding corruption in tax collection systems / Reports of extortion and abuse at checkpoints / Historical accounts of the American Civil War / Post-war American politics and abolition of slavery / Updates on European politics and technological inventions / Asian natural disasters causing regional food shortages / Development of Bangkok dry dock infrastructure / Commercial market prices for various commodities / Moral fables regarding greed and resignation
 
-<!--
-* [October 5th, 1865](1865-10-05)<br/>
+* [October 5th, 1865 - เดือน สิบเบ็ด[sic] ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๗ (เดือน ๑๑ ขึ้น ๑๕ ค่ำ จ.ศ.๑๓๔๘)](1865-10-05)<br/>
+  King Alfred’s military victories and wise governance / History of wars between England and America / US Consul establishes diplomatic relations with Siam / Educational lessons on oxygen, nitrogen, and chemistry / New chemical methods for extracting gold from ore / Criticism of corrupt tax collectors and defending royalty / Reports on rebellions in China and Japan / Moral condemnation of the government opium trade / Praise for Bangkok’s improved roads and public safety / Commercial advertisements for shipping, docks, and goods / Editor refuses to print Buddhist religious texts / Traditional cures for rabies and termite prevention
 
 * [October 19th, 1865](1865-10-19)<br/>
+  Explaining the American Constitution and government structure / Medical explanation of human blood circulation system / Debate on Western education threatening Buddhist beliefs / King Mongkut’s Royal Kathin ceremony activities / Christian missionary refusal to worship Buddhist idols / Reports on cattle theft and local corruption / Improvements to Sampeng market road infrastructure / Shipping intelligence and international commodity market prices / Diplomatic dispute during the King’s birthday celebration / Advertisements for new dry dock and printing services / Promotion of Western science over Buddhist tradition / Subscription details and purpose of the newspaper
 
+<!--
 * [November 3rd, 1865](1865-11-03)<br/>
 
 * [November 18th, 1865](1865-11-18)<br/>
@@ -114,8 +116,9 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |     99,882 |
-| Lines of text         |      9,654 |
-| Data tables           |         30 |
-| Data rows             |        277 |
-| Data points           |      1,347 |
+| Word count            |    118,605 |
+| Lines of text         |     11,401 |
+| Data tables           |         32 |
+| Data rows             |        294 |
+| Data points           |      1,436 |
+
