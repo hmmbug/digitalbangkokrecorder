@@ -42,7 +42,7 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | August    | [7th](1865-08-07) [21st](1865-08-21) | 11th 27th      | --       |
 | September | [9th](1865-09-09) [20th](1865-09-20) | 9th  24th      | --       |
 | October   | [5th](1865-10-05) [19th](1865-10-19) | 9th  24th      | --       |
-| November  | 3rd 18th                             | 7th  22nd      | --       |
+| November  | [3rd](1865-11-03) [18th](1865-11-18) | 7th  22nd      | --       |
 | December  | 4th 18th                             | 7th  22nd      | --       |
 
 The dates below are presented as the Gregorian and [Thai Lunar Calendar dates](/articles/thai-lunar-calendar-101/) 
@@ -96,17 +96,19 @@ been miscalculated.
 * [September 20th, 1865 - เดือน ๑๐ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๗](1865-09-20)<br/>
   Government policies on currency and combating counterfeiting / Clarification of rumors regarding Thai-French relations / Adjusting coconut taxes to encourage agricultural planting / Debates regarding corruption in tax collection systems / Reports of extortion and abuse at checkpoints / Historical accounts of the American Civil War / Post-war American politics and abolition of slavery / Updates on European politics and technological inventions / Asian natural disasters causing regional food shortages / Development of Bangkok dry dock infrastructure / Commercial market prices for various commodities / Moral fables regarding greed and resignation
 
-* [October 5th, 1865 - เดือน สิบเบ็ด[sic] ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๗ (เดือน ๑๑ ขึ้น ๑๕ ค่ำ จ.ศ.๑๓๔๘)](1865-10-05)<br/>
+* [October 5th, 1865 - เดือน สิบเบ็ด ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๗ (เดือน ๑๑ ขึ้น ๑๕ ค่ำ จ.ศ.๑๓๔๘)](1865-10-05)<br/>
   King Alfred’s military victories and wise governance / History of wars between England and America / US Consul establishes diplomatic relations with Siam / Educational lessons on oxygen, nitrogen, and chemistry / New chemical methods for extracting gold from ore / Criticism of corrupt tax collectors and defending royalty / Reports on rebellions in China and Japan / Moral condemnation of the government opium trade / Praise for Bangkok’s improved roads and public safety / Commercial advertisements for shipping, docks, and goods / Editor refuses to print Buddhist religious texts / Traditional cures for rabies and termite prevention
 
-* [October 19th, 1865](1865-10-19)<br/>
+* [October 19th, 1865 - เดือน สิบเบ็ด แรม ๑๔ ค่ำ จ.ศ.๑๒๒๗ (เดือน ๑๑ แรม ๑๔ ค่ำ ปีฉลู จ.ศ.๑๒๒๗)](1865-10-19)<br/>
   Explaining the American Constitution and government structure / Medical explanation of human blood circulation system / Debate on Western education threatening Buddhist beliefs / King Mongkut’s Royal Kathin ceremony activities / Christian missionary refusal to worship Buddhist idols / Reports on cattle theft and local corruption / Improvements to Sampeng market road infrastructure / Shipping intelligence and international commodity market prices / Diplomatic dispute during the King’s birthday celebration / Advertisements for new dry dock and printing services / Promotion of Western science over Buddhist tradition / Subscription details and purpose of the newspaper
 
+* [November 3rd, 1865 - เดือน ๑๒ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๗](1865-11-03)<br/>
+  Encouraging modern education and foreign language learning / Translation of US Constitution and legislative procedures / Comparative debate defending Buddhism against Christian criticisms / Population statistics for Burma and international regions / Observations on religious practices in Japan and Ceylon / Parable urging Siam to adopt modern technology / Royal decrees naming new Bangkok canals and roads / International reports on disasters, wars, and shipping / Scientific method for calculating distance of thunderstorms / Advertisement for new Bangkok Dock Company services / Current market prices for various local commodities / Miscellaneous anecdotes about longevity and animal encounters
+
+* [November 18th, 1865 - เดือน ๑๒ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๗](1865-11-18)<br/>
+  Critique of Buddhist merit-making versus public utility / Theological arguments for Christianity over Buddhism / Western prosperity attributed to Biblical teachings / Historical accounts of Spanish conquests in America / Natural history description of lions and behavior / Market price lists for Penang and Bangkok trade / Updates on Siamese Twins and British cattle plague / Advertisement for Bangkok Dock Company engineering services / Movements of diplomats and foreign residents in Bangkok / Shipping intelligence regarding vessel arrivals and departures / Scientific facts about ocean depths and population statistics / Editorial policy explained through a donkey fable
+
 <!--
-* [November 3rd, 1865](1865-11-03)<br/>
-
-* [November 18th, 1865](1865-11-18)<br/>
-
 * [December 4th, 1865](1865-12-04)<br/>
 
 * [December 18th, 1865](1865-12-18)<br/>
@@ -116,9 +118,9 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    118,605 |
-| Lines of text         |     11,401 |
-| Data tables           |         32 |
-| Data rows             |        294 |
-| Data points           |      1,436 |
+| Word count            |    137,357 |
+| Lines of text         |     13,155 |
+| Data tables           |         37 |
+| Data rows             |        341 |
+| Data points           |      1,771 |
 
