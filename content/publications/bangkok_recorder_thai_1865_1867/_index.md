@@ -35,18 +35,18 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | January   | --                                   | 1st  17th 31st | 5th 20th |
 | February  | --                                   | 15th           | 16th     |
 | March     | [1st](1865-03-01) [16th](1865-03-16) | 1st  17th      | --       |
-| April     | [1st](1865-04-01) [15th](1865-04-15) | 29th           | --       |
-| May       | [1st](1865-05-01) [15th](1865-05-15) | 15th 30th*     | --       |
+| April     | [1st](1865-04-01) [15th](1865-04-15) | ??   29th      | --       |
+| May       | [1st](1865-05-01) [15th](1865-05-15) | 15th 30th      | --       |
 | June      | [1st](1865-06-01) [16th](1865-06-16) | 12th 27th      | --       |
 | July      | [1st](1865-07-01) [22nd](1865-07-22) | 12th 27th      | --       |
 | August    | [7th](1865-08-07) [21st](1865-08-21) | 11th 27th      | --       |
 | September | [9th](1865-09-09) [20th](1865-09-20) | 9th  24th      | --       |
 | October   | [5th](1865-10-05) [19th](1865-10-19) | 9th  24th      | --       |
 | November  | [3rd](1865-11-03) [18th](1865-11-18) | 7th  22nd      | --       |
-| December  | 4th 18th                             | 7th  22nd      | --       |
+| December  | [4th](1865-12-04) [18th](1865-12-18) | 7th  22nd      | --       |
 
 The dates below are presented as the Gregorian and [Thai Lunar Calendar dates](/articles/thai-lunar-calendar-101/) 
-as printed in the newspaper. Where a third date is also given, it is either the complete Chulasakarat date
+as printed in the newspaper. Where a third date is also given, it is either the complete Thai Lunar date
 (from where only a month is printed in the newspaper) or the correct date where it had
 been miscalculated.
 
@@ -108,19 +108,79 @@ been miscalculated.
 * [November 18th, 1865 - เดือน ๑๒ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๗](1865-11-18)<br/>
   Critique of Buddhist merit-making versus public utility / Theological arguments for Christianity over Buddhism / Western prosperity attributed to Biblical teachings / Historical accounts of Spanish conquests in America / Natural history description of lions and behavior / Market price lists for Penang and Bangkok trade / Updates on Siamese Twins and British cattle plague / Advertisement for Bangkok Dock Company engineering services / Movements of diplomats and foreign residents in Bangkok / Shipping intelligence regarding vessel arrivals and departures / Scientific facts about ocean depths and population statistics / Editorial policy explained through a donkey fable
 
-<!--
-* [December 4th, 1865](1865-12-04)<br/>
+* [December 4th, 1865 - เดือน ๑ แรม ค่ำ ๑ จ.ศ.๑๒๒๗](1865-12-04)<br/>
+  US Congressional powers and constitutional laws / Narrative of British officers hunting lions / Defense of Christianity regarding national progress / Public complaint about theft by nobility / Commercial market reports on Asian commodities / News regarding Chinese rebellions and piracy / US foreign policy regarding French intervention / Proposals for infrastructure and abolishing lottery / Obituaries for foreigners and Thai royalty / Christian marriage customs and wedding announcement / Advertisement for new Bangkok ship dockyard / Use of hot air balloons in warfare
 
-* [December 18th, 1865](1865-12-18)<br/>
+* [December 18th, 1865 - เดือน ๒ ขึ้น ค่ำ ๑ จ.ศ.๑๒๒๗](1865-12-18)<br/>
+  US Constitutional law and civil rights / Christian principles versus Western secular behavior / Maritime safety and steamship fire disasters / Valuation and authentication of precious gemstones / Global missionary activities and religious growth / Western banking systems and financial institutions / Agricultural reports and regional crop yields / Advancements in medicine and scientific inventions / International news and foreign political leaders / Commercial shipping and trade logistics reports / Legal ethics and local judicial complaints / Printing services and educational book sales
+
+<!--
+**1866**
+
+* [January 1st, 1866]<br/>
+
+* [January 17th, 1866]<br/>
+
+* [January 31st, 1866]<br/>
+
+* [February 15th, 1866]<br/>
+
+* [March 1st, 1866]<br/>
+
+* [March 17th, 1866]<br/>
+
+* [April 29th, 1866]<br/>
+
+* [May 15th, 1866]<br/>
+
+* [May 30th, 1866]<br/>
+
+* [June 12th, 1866]<br/>
+
+* [June 27th, 1866]<br/>
+
+* [July 12th, 1866]<br/>
+
+* [July 27th, 1866]<br/>
+
+* [August 11th, 1866]<br/>
+
+* [August 27th, 1866]<br/>
+
+* [September 9th, 1866]<br/>
+
+* [September 24th, 1866]<br/>
+
+* [October 9th, 1866]<br/>
+
+* [October 24th, 1866]<br/>
+
+* [November 7th, 1866]<br/>
+
+* [November 22nd, 1866]<br/>
+
+* [December 7th, 1866]<br/>
+
+* [December 22nd, 1866]<br/>
+
+**1867**
+
+* [January 5th, 1867]<br/>
+
+* [January 20th, 1867]<br/>
+
+* [February 16tth, 1867]<br/>
+
 -->
 
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    137,357 |
-| Lines of text         |     13,155 |
-| Data tables           |         37 |
-| Data rows             |        341 |
-| Data points           |      1,771 |
+| Word count            |    156,195 |
+| Lines of text         |     14,957 |
+| Data tables           |         24 |
+| Data rows             |        421 |
+| Data points           |      2,394 |
+
 
