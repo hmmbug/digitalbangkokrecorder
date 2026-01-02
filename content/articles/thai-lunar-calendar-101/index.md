@@ -171,7 +171,7 @@ newspapers all use the Sukothai, 5-based numbering system.
 | 11th  | มาฆ    | 3  | 4  | 5 |
 | 12th  | ผัคคุณ   | 4  | 5  | 6 |
 
-Intercalary months would normally be listed (for 5-based month numbering) as ๘/๘ or simply ๘๘.
+Intercalary months would normally be listed (for 5-based month numbering) as ๘/๘, ๘๘ or in เดือนแปดหลัง.
 
 
 ## Reading Chulasakarat Dates
