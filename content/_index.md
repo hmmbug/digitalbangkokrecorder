@@ -16,7 +16,7 @@ and [1865-67](/publications/bangkok_recorder_thai_1865_1867/) editions, the Engl
   {{< card link="/publications" title="Publications" icon="library" >}}
 {{< /cards >}}
 
-## Update Log
+### Updates
 
 - January, 2026
   - [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/), published to February 1866, completing Volume 1 (of 2).
