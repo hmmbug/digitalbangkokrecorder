@@ -32,8 +32,8 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 
 |           | 1865                                 | 1866           | 1867     |
 | --------- | ------------------------------------ | -------------- | -------- |
-| January   | --                                   | 1st  17th 31st | 5th 20th |
-| February  | --                                   | 15th           | 16th     |
+| January   | --                                   | [1st](1866-01-01) [17th](1866-01-17) [31st](1866-01-31) | 5th 20th |
+| February  | --                                   | [15th](1866-02-15)                   | 16th     |
 | March     | [1st](1865-03-01) [16th](1865-03-16) | 1st  17th      | --       |
 | April     | [1st](1865-04-01) [15th](1865-04-15) | ??   29th      | --       |
 | May       | [1st](1865-05-01) [15th](1865-05-15) | 15th 30th      | --       |
@@ -114,17 +114,21 @@ been miscalculated.
 * [December 18th, 1865 - เดือน ๒ ขึ้น ค่ำ ๑ จ.ศ.๑๒๒๗](1865-12-18)<br/>
   US Constitutional law and civil rights / Christian principles versus Western secular behavior / Maritime safety and steamship fire disasters / Valuation and authentication of precious gemstones / Global missionary activities and religious growth / Western banking systems and financial institutions / Agricultural reports and regional crop yields / Advancements in medicine and scientific inventions / International news and foreign political leaders / Commercial shipping and trade logistics reports / Legal ethics and local judicial complaints / Printing services and educational book sales
 
-<!--
 **1866**
 
-* [January 1st, 1866]<br/>
+* [January 1st, 1866 - เดียน ยี่ ขึ้น สิบ ห้า ค่ำ จ.ศ.๑๒๒๗](1866-01-01)<br/>
+  United States presidential election and constitutional laws / Natural history and behaviors of wild animals / Global trade reports and international commodity prices / Local market rates for Siamese agricultural goods / Moral fables teaching wisdom and social conduct / Foreign military conflicts and regional piracy updates / Diplomatic efforts to open Japanese trade ports / Royal births and significant state ceremonies in Siam / Obituaries of royal family members and missionaries / Theological debates regarding the Bible and science / Editorial announcements and local commercial shipping logs / Public health news and medical historical achievements
 
-* [January 17th, 1866]<br/>
+* [January 17th, 1866 - เดือน แรม ๑๕ ค่ำ จ.ศ.๑๒๒๗ (เดือน ๓ ขึ้น ๑ ค่ำ จ.ศ.๑๒๒๗)](1866-01-17)<br/>
+  Thai royal hierarchy and ceremonial traditions / State patronage of diverse religious faiths / King's scientific views on celestial phenomena / Local crime and judicial corruption reports / Public morality and social scandal accounts / Global spread of cholera from Mecca / Naval piracy incidents in Asian waters / International trade and opening of Japan / Mourning for the Second King's passing / Fluctuating market prices for regional commodities / Development of maritime infrastructure and services / Registry of international ship movements in Bangkok
 
-* [January 31st, 1866]<br/>
+* [January 31st, 1866 - เดือน ๓ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๗](1866-01-31)<br/>
+  Royal ceremonies and lineage of Chakri dynasty / Modern technology for canal dredging and infrastructure / Bangkok maritime trade and rice export market / Historical site documentation through early European photography / Social issues and legal corruption in provinces / International political tensions and conflicts in China / Regional commodity prices and global trade data / Growth of modern ship maintenance and dry-docks / Debates between Christianity and traditional Eastern beliefs / Reports on maritime accidents and violent mutinies / Western social influence and community news events / Newspaper administration and royal patron subscription lists
 
-* [February 15th, 1866]<br/>
+* [February 15th, 1866 - เดือน ๔ ขึ้น ค่ำ ๑ จ.ศ.๑๒๒๗](1866-02-15)<br/>
+  Proper legal petitioning instead of public shaming / Corruption and bribery within provincial legal systems / Criticizing royal public drunkenness for social reform / Promoting clean urban architecture and riverside aesthetics / Diplomatic tensions involving the French Consul Aubaret / Maritime technology enhancing regional trade and travel / Infrastructure development through new docks and dredging / Reports on international commodity prices and shipping / Global political updates from Ireland to Japan / Western religious perspectives on Ireland’s social challenges / Challenges of managing newspaper subscriptions and payments / Didactic fables promoting empathy and honoring loyalty
 
+<!--
 * [March 1st, 1866]<br/>
 
 * [March 17th, 1866]<br/>
@@ -177,10 +181,11 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    156,195 |
-| Lines of text         |     14,957 |
-| Data tables           |         24 |
-| Data rows             |        421 |
-| Data points           |      2,394 |
+| Word count            |    189,075 |
+| Lines of text         |     18,184 |
+| Data tables           |         41 |
+| Data rows             |        865 |
+| Data points           |      4,994 |
+
 
 
