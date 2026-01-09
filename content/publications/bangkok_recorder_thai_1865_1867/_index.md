@@ -33,10 +33,10 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 |           | 1865                                 | 1866           | 1867     |
 | --------- | ------------------------------------ | -------------- | -------- |
 | January   | --                                   | [1st](1866-01-01) [17th](1866-01-17) [31st](1866-01-31) | 5th 20th |
-| February  | --                                   | [15th](1866-02-15)                   | 16th     |
-| March     | [1st](1865-03-01) [16th](1865-03-16) | 1st  17th      | --       |
-| April     | [1st](1865-04-01) [15th](1865-04-15) | ??   29th      | --       |
-| May       | [1st](1865-05-01) [15th](1865-05-15) | 15th 30th      | --       |
+| February  | --                                   | [15th](1866-02-15) | 16th     |
+| March     | [1st](1865-03-01) [16th](1865-03-16) | [1st](1866-03-01) [17th](1866-03-17) | --       |
+| April     | [1st](1865-04-01) [15th](1865-04-15) | 15th† [29th](1866-04-29) | --       |
+| May       | [1st](1865-05-01) [15th](1865-05-15) | 15th 29th      | --       |
 | June      | [1st](1865-06-01) [16th](1865-06-16) | 12th 27th      | --       |
 | July      | [1st](1865-07-01) [22nd](1865-07-22) | 12th 27th      | --       |
 | August    | [7th](1865-08-07) [21st](1865-08-21) | 11th 27th      | --       |
@@ -44,6 +44,8 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | October   | [5th](1865-10-05) [19th](1865-10-19) | 9th  24th      | --       |
 | November  | [3rd](1865-11-03) [18th](1865-11-18) | 7th  22nd      | --       |
 | December  | [4th](1865-12-04) [18th](1865-12-18) | 7th  22nd      | --       |
+
+† Edition not available
 
 The dates below are presented as the Gregorian and [Thai Lunar Calendar dates](/articles/thai-lunar-calendar-101/) 
 as printed in the newspaper. Where a third date is also given, it is either the complete Thai Lunar date
@@ -128,12 +130,16 @@ been miscalculated.
 * [February 15th, 1866 - เดือน ๔ ขึ้น ค่ำ ๑ จ.ศ.๑๒๒๗](1866-02-15)<br/>
   Proper legal petitioning instead of public shaming / Corruption and bribery within provincial legal systems / Criticizing royal public drunkenness for social reform / Promoting clean urban architecture and riverside aesthetics / Diplomatic tensions involving the French Consul Aubaret / Maritime technology enhancing regional trade and travel / Infrastructure development through new docks and dredging / Reports on international commodity prices and shipping / Global political updates from Ireland to Japan / Western religious perspectives on Ireland’s social challenges / Challenges of managing newspaper subscriptions and payments / Didactic fables promoting empathy and honoring loyalty
 
+* [March 1st, 1866 - เดือน ๔ แรม ค่ำ ๑ จ.ศ.๑๒๒๗ - เดือน ๔ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๗](1866-03-01)<br/>
+  Royal topknot ceremonies across different reigns / History of English kings and clergy / Reports of piracy in local waterways / Criticism of ineffective criminal justice system / International news updates via telegraph reports / Market price fluctuations for global commodities / Massive gold mine discovery in Montana / Post-Civil War US politics and rights / Advocating for press freedom and transparency / Commercial shipyard services and property auctions / Detailed shipping logs for Bangkok port / British socio-economic news and public health
+
+* [March 17th, 1866 - เดือน ๔ แรม ค่ำ ๑ จ.ศ.๑๒๒๗ - เดือน ๕ ขึ้น ๑ ค่ำ จ.ศ.๑๒๒๗](1866-03-17)<br/>
+  History of English Monarchy and Danish Invasions / Scientific Proof of Earth's Shape and Geography / Infrastructure Development and Modernization in Siam / Regional Rebellions in China and the West / Piracy Threats to Maritime Trade in Asia / Market Prices for Global Trade Commodities / Royal Activities and Legislative Changes in Bangkok / Legal Abolition of Slavery in the United States / Modern Maritime Services and Ship Dock Operations / Exploration and Archaeological Journeys in Cambodia / Local Security Concerns and Criminal Activity Reports / International Shipping Logistics and Port Activity
+
+* [April 29th, 1866 - เดือน ๖ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-04-29)<br/>
+  History and procedures for appointing foreign consuls / Legal limits regarding foreign flags and protection / Maritime security and battles against Chinese pirates / Plans for regional railways and telegraph networks / Local banditry and concerns for public safety / Royal reforms allowing citizens to submit petitions / Current market prices for regional trade goods / Commercial services for ship repair and construction / Exploration and preservation of the Angkor Wat / Recent urban fires and public safety warnings / Urban development of new roads and markets / Social events and moral lessons through fables
+
 <!--
-* [March 1st, 1866]<br/>
-
-* [March 17th, 1866]<br/>
-
-* [April 29th, 1866]<br/>
 
 * [May 15th, 1866]<br/>
 
@@ -181,11 +187,12 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    189,075 |
-| Lines of text         |     18,184 |
-| Data tables           |         41 |
-| Data rows             |        865 |
-| Data points           |      4,994 |
+| Word count            |    216,180 |
+| Lines of text         |     20,779 |
+| Data tables           |         47 |
+| Data rows             |        976 |
+| Data points           |      5,749 |
+
 
 
 
