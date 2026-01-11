@@ -30,13 +30,13 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 
 ### Quick Links 
 
-|           | 1865                                 | 1866           | 1867     |
-| --------- | ------------------------------------ | -------------- | -------- |
-| January   | --                                   | [1st](1866-01-01) [17th](1866-01-17) [31st](1866-01-31) | 5th 20th |
-| February  | --                                   | [15th](1866-02-15) | 16th     |
-| March     | [1st](1865-03-01) [16th](1865-03-16) | [1st](1866-03-01) [17th](1866-03-17) | --       |
-| April     | [1st](1865-04-01) [15th](1865-04-15) | 15th† [29th](1866-04-29) | --       |
-| May       | [1st](1865-05-01) [15th](1865-05-15) | 15th 29th      | --       |
+|           | 1865                                 | 1866                                  | 1867     |
+| --------- | ------------------------------------ | ------------------------------------- | -------- |
+| January   | --                                   | [1st](1866-01-01)  [17th](1866-01-17) [31st](1866-01-31) | 5th 20th |
+| February  | --                                   | [15th](1866-02-15)                    | 16th     |
+| March     | [1st](1865-03-01) [16th](1865-03-16) | [1st](1866-03-01)  [17th](1866-03-17) | --       |
+| April     | [1st](1865-04-01) [15th](1865-04-15) | 15th†              [29th](1866-04-29) | --       |
+| May       | [1st](1865-05-01) [15th](1865-05-15) | [15th](1866-05-15) [29th](1866-05-30) | --       |
 | June      | [1st](1865-06-01) [16th](1865-06-16) | 12th 27th      | --       |
 | July      | [1st](1865-07-01) [22nd](1865-07-22) | 12th 27th      | --       |
 | August    | [7th](1865-08-07) [21st](1865-08-21) | 11th 27th      | --       |
@@ -139,12 +139,13 @@ been miscalculated.
 * [April 29th, 1866 - เดือน ๖ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-04-29)<br/>
   History and procedures for appointing foreign consuls / Legal limits regarding foreign flags and protection / Maritime security and battles against Chinese pirates / Plans for regional railways and telegraph networks / Local banditry and concerns for public safety / Royal reforms allowing citizens to submit petitions / Current market prices for regional trade goods / Commercial services for ship repair and construction / Exploration and preservation of the Angkor Wat / Recent urban fires and public safety warnings / Urban development of new roads and markets / Social events and moral lessons through fables
 
+* [May 15th, 1866 - เดือน ๖ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๘ - เดือน ๗ ขึ้น ๑ ค่ำ จ.ศ.๑๒๒๘](1866-05-15)<br/>
+  English royal history and power struggles / Life and inventions of George Stephenson / Legal rights and status of international consuls / Importance of translating international law for Siam / Mutiny and tragic disaster on passenger ships / Diplomatic relations between Siam and foreign nations / Global political conflicts and international news updates / Royal ceremonies and local events in Bangkok / Crime and social issues in local communities / Market commodity prices and international trade records / Development of modern shipping and repair facilities / Promotion of literature and educational journals
+
+* [May 30th, 1866 - เดือน ๗ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-05-30)<br/>
+  History of British monarchy and political power / Development of steam locomotives and modern railways / Public skepticism toward early technological innovations / Advancements in civil engineering and industrial safety / Moral lessons taught through classic animal fables / Critique of astrology and traditional superstitious beliefs / Detailed economic reports on global trade prices / Reports of piracy and corrupt government officials / International news regarding political conflicts in Asia / Growth of industrial shipping infrastructure in Bangkok / Maritime dangers caused by crew intoxication and negligence / Legal reforms implemented for better social governance
+
 <!--
-
-* [May 15th, 1866]<br/>
-
-* [May 30th, 1866]<br/>
-
 * [June 12th, 1866]<br/>
 
 * [June 27th, 1866]<br/>
@@ -187,11 +188,12 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    216,180 |
-| Lines of text         |     20,779 |
-| Data tables           |         47 |
-| Data rows             |        976 |
-| Data points           |      5,749 |
+| Word count            |    234,187 |
+| Lines of text         |     22,465 |
+| Data tables           |         51 |
+| Data rows             |      1,059 |
+| Data points           |      6,267 |
+
 
 
 
