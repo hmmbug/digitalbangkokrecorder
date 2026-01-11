@@ -188,11 +188,12 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    234,187 |
-| Lines of text         |     22,465 |
-| Data tables           |         51 |
-| Data rows             |      1,059 |
-| Data points           |      6,267 |
+| Word count            |    238,686 |
+| Lines of text         |     22,848 |
+| Data tables           |         54 |
+| Data rows             |      1,099 |
+| Data points           |      6,522 |
+
 
 
 
