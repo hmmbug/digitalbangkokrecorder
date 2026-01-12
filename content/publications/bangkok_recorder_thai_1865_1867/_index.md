@@ -36,8 +36,8 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | February  | --                                   | [15th](1866-02-15)                    | 16th     |
 | March     | [1st](1865-03-01) [16th](1865-03-16) | [1st](1866-03-01)  [17th](1866-03-17) | --       |
 | April     | [1st](1865-04-01) [15th](1865-04-15) | 15th†              [29th](1866-04-29) | --       |
-| May       | [1st](1865-05-01) [15th](1865-05-15) | [15th](1866-05-15) [29th](1866-05-30) | --       |
-| June      | [1st](1865-06-01) [16th](1865-06-16) | 12th 27th      | --       |
+| May       | [1st](1865-05-01) [15th](1865-05-15) | [15th](1866-05-15) [29th](1866-05-29) | --       |
+| June      | [1st](1865-06-01) [16th](1865-06-16) | [12th](1866-06-12) [27th](1866-06-27) | --       |
 | July      | [1st](1865-07-01) [22nd](1865-07-22) | 12th 27th      | --       |
 | August    | [7th](1865-08-07) [21st](1865-08-21) | 11th 27th      | --       |
 | September | [9th](1865-09-09) [20th](1865-09-20) | 9th  24th      | --       |
@@ -142,14 +142,16 @@ been miscalculated.
 * [May 15th, 1866 - เดือน ๖ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๘ - เดือน ๗ ขึ้น ๑ ค่ำ จ.ศ.๑๒๒๘](1866-05-15)<br/>
   English royal history and power struggles / Life and inventions of George Stephenson / Legal rights and status of international consuls / Importance of translating international law for Siam / Mutiny and tragic disaster on passenger ships / Diplomatic relations between Siam and foreign nations / Global political conflicts and international news updates / Royal ceremonies and local events in Bangkok / Crime and social issues in local communities / Market commodity prices and international trade records / Development of modern shipping and repair facilities / Promotion of literature and educational journals
 
-* [May 30th, 1866 - เดือน ๗ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-05-30)<br/>
+* [May 29th, 1866 - เดือน ๗ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-05-29)<br/>
   History of British monarchy and political power / Development of steam locomotives and modern railways / Public skepticism toward early technological innovations / Advancements in civil engineering and industrial safety / Moral lessons taught through classic animal fables / Critique of astrology and traditional superstitious beliefs / Detailed economic reports on global trade prices / Reports of piracy and corrupt government officials / International news regarding political conflicts in Asia / Growth of industrial shipping infrastructure in Bangkok / Maritime dangers caused by crew intoxication and negligence / Legal reforms implemented for better social governance
 
+* [June 12th, 1866 - เดือน ๗ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๘ - เดือน ๗ แรม ๑๔ ค่ำ จ.ศ.๑๒๒๘](1866-06-12)<br/>
+  Political struggles and succession in European monarchies / Ancient history of the Assyrian and Nineveh empires / Biblical accounts of human creation and global dispersion / Royal justice and legal fairness in Siamese society / Commercial advertisements for modern products and services / Moral fables providing ethical guidance for daily life / Comparative study of agricultural methods and tool innovation / Commemoration of the lives of significant political leaders / Developments in Bangkok’s international maritime industry / Market commodity prices and trade logistics reports / Cultural education regarding geography and foreign customs / Military conflicts and diplomacy during the Crusades era
+
+* [June 27th, 1866 - เดือน ๘ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-06-27)<br/>
+  English monarchy power struggles and legal foundations / Local law enforcement failures regarding bandit activities / Economic burden and corruption in salt taxation / Modernizing agricultural practices with foreign technical tools / International political tensions in Europe and America / Scientific geography of world oceans and climates / Market price reports for regional trade goods / Obstacles and disputes in local canal navigation / Diplomatic relations and foreign naval ship arrivals / Steamship maritime accidents and emergency rescue efforts / Advocating for national mapping and geographic exploration / Promotion of modern commercial services and advertisements
+
 <!--
-* [June 12th, 1866]<br/>
-
-* [June 27th, 1866]<br/>
-
 * [July 12th, 1866]<br/>
 
 * [July 27th, 1866]<br/>
@@ -188,14 +190,8 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    238,686 |
-| Lines of text         |     22,848 |
-| Data tables           |         54 |
-| Data rows             |      1,099 |
-| Data points           |      6,522 |
-
-
-
-
-
-
+| Word count            |    252,353 |
+| Lines of text         |     24,109 |
+| Data tables           |         56 |
+| Data rows             |      1,125 |
+| Data points           |      6,705 |
