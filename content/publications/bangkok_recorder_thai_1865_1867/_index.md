@@ -28,7 +28,7 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 
 * The [Thai Lunar dates](/articles/thai-lunar-calendar-101/) on some editions are incorrect. Corrections are provided in the listings below.
 
-### Quick Links 
+### Quick Links
 
 |           | 1865                                 | 1866                                  | 1867     |
 | --------- | ------------------------------------ | ------------------------------------- | -------- |
@@ -38,7 +38,7 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | April     | [1st](1865-04-01) [15th](1865-04-15) | 15th†              [29th](1866-04-29) | --       |
 | May       | [1st](1865-05-01) [15th](1865-05-15) | [15th](1866-05-15) [29th](1866-05-29) | --       |
 | June      | [1st](1865-06-01) [16th](1865-06-16) | [12th](1866-06-12) [27th](1866-06-27) | --       |
-| July      | [1st](1865-07-01) [22nd](1865-07-22) | 12th 27th      | --       |
+| July      | [1st](1865-07-01) [22nd](1865-07-22) | [12th](1866-07-12) [27th](1866-07-27) | --       |
 | August    | [7th](1865-08-07) [21st](1865-08-21) | 11th 27th      | --       |
 | September | [9th](1865-09-09) [20th](1865-09-20) | 9th  24th      | --       |
 | October   | [5th](1865-10-05) [19th](1865-10-19) | 9th  24th      | --       |
@@ -151,11 +151,13 @@ been miscalculated.
 * [June 27th, 1866 - เดือน ๘ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-06-27)<br/>
   English monarchy power struggles and legal foundations / Local law enforcement failures regarding bandit activities / Economic burden and corruption in salt taxation / Modernizing agricultural practices with foreign technical tools / International political tensions in Europe and America / Scientific geography of world oceans and climates / Market price reports for regional trade goods / Obstacles and disputes in local canal navigation / Diplomatic relations and foreign naval ship arrivals / Steamship maritime accidents and emergency rescue efforts / Advocating for national mapping and geographic exploration / Promotion of modern commercial services and advertisements
 
+* [July 12th, 1866 - เดือน ๘ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-07-12)<br/>
+  Noble servants involved in river theft crimes. / Debating dredging river mouths for maritime trade. / International scientific discoveries and medical theories. / Chronicles of English history and territorial wars. / Addressing corruption in local opium law enforcement. / Global statistics on mail and transportation technology. / Foreign assassination attempts on world leaders. / Diplomatic relations between Siam and European nations. / Commodity price updates and international market news. / Legal disputes involving sailors and foreign treaties. / Social events and local boat racing competitions. / Advertising modern industrial services and new shops.
+
+* [July 27th, 1866 - เดือน ๘ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘ - เดือน ๘/๘ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-07-27)<br/>
+  Natural intelligence and cooperative animal behavior. / Physical consequences of extreme sleep deprivation. / Distinguishing animal instinct from human intelligence. / Utilizing surplus crops as alternative fuel. / British history involving royal power and war. / Scientific technology assisting in criminal investigations. / Early law enforcement techniques across borders. / Medical advice for treating and preventing cholera. / Business ethics and integrity in local trade. / Industrial progress in maritime shipping and docks. / Human longevity and observations on elderly health. / Moral lessons through traditional fables and metaphors.
+
 <!--
-* [July 12th, 1866]<br/>
-
-* [July 27th, 1866]<br/>
-
 * [August 11th, 1866]<br/>
 
 * [August 27th, 1866]<br/>
@@ -190,8 +192,8 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    252,353 |
-| Lines of text         |     24,109 |
-| Data tables           |         56 |
-| Data rows             |      1,125 |
-| Data points           |      6,705 |
+| Word count            |    271,316 |
+| Lines of text         |     25,733 |
+| Data tables           |         63 |
+| Data rows             |      1,260 |
+| Data points           |      7,547 |
