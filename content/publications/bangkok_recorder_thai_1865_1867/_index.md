@@ -39,7 +39,7 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | May       | [1st](1865-05-01) [15th](1865-05-15) | [15th](1866-05-15) [29th](1866-05-29) | --       |
 | June      | [1st](1865-06-01) [16th](1865-06-16) | [12th](1866-06-12) [27th](1866-06-27) | --       |
 | July      | [1st](1865-07-01) [22nd](1865-07-22) | [12th](1866-07-12) [27th](1866-07-27) | --       |
-| August    | [7th](1865-08-07) [21st](1865-08-21) | 11th 27th      | --       |
+| August    | [7th](1865-08-07) [21st](1865-08-21) | [11th](1866-08-11) [27th](1866-08-27) | --       |
 | September | [9th](1865-09-09) [20th](1865-09-20) | 9th  24th      | --       |
 | October   | [5th](1865-10-05) [19th](1865-10-19) | 9th  24th      | --       |
 | November  | [3rd](1865-11-03) [18th](1865-11-18) | 7th  22nd      | --       |
@@ -157,11 +157,13 @@ been miscalculated.
 * [July 27th, 1866 - เดือน ๘ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘ - เดือน ๘/๘ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-07-27)<br/>
   Natural intelligence and cooperative animal behavior. / Physical consequences of extreme sleep deprivation. / Distinguishing animal instinct from human intelligence. / Utilizing surplus crops as alternative fuel. / British history involving royal power and war. / Scientific technology assisting in criminal investigations. / Early law enforcement techniques across borders. / Medical advice for treating and preventing cholera. / Business ethics and integrity in local trade. / Industrial progress in maritime shipping and docks. / Human longevity and observations on elderly health. / Moral lessons through traditional fables and metaphors.
 
+* [August 11th, 1866 - เดือน ๘ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๘ - เดือน ๘/๘ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-08-11)<br/>
+  Promoting cleanliness to prevent cholera in Bangkok / Government roles in maintaining urban sanitation systems / War updates from Europe via the telegraph / Expanding telegraph networks through Thailand and Singapore / British royal history and historical power struggles / Lifestyles and survival in the Earth's frigid zones / Tensile strength measurements of metals and materials / International market prices for rice and commodities / The Prince of Chiang Mai's visit to Bangkok / Maintaining religious discipline and reporting monk misconduct / Solving commercial disputes and reporting local thefts / Extreme weather and famine reports from India
+
+* [August 27th, 1866 - เดือน ๙ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘ - เดือน ๙ แรม ๑ ค่ำ จ.ศ.๑๒๒๘](1866-08-27)<br/>
+  Ethical professional behavior and social patience / Moral parables regarding honesty and greed / Social warnings against the consumption of alcohol / Historical narratives of English royal successions / Comparisons of global climates and industry / Systemic corruption within the labor tax system / Unfair exploitation by monopolistic tax farmers / Crime reports and identifying local thieves / Global news via new telegraph technology / Shipping logs and current market commodity prices / Religious missions and conduct of the monkhood / Advertisements for modern services and imports
+
 <!--
-* [August 11th, 1866]<br/>
-
-* [August 27th, 1866]<br/>
-
 * [September 9th, 1866]<br/>
 
 * [September 24th, 1866]<br/>
@@ -192,8 +194,8 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    271,316 |
-| Lines of text         |     25,733 |
-| Data tables           |         63 |
-| Data rows             |      1,260 |
-| Data points           |      7,547 |
+| Word count            |    291,267 |
+| Lines of text         |     27,567 |
+| Data tables           |         67 |
+| Data rows             |      1,336 |
+| Data points           |      8,063 |
