@@ -40,7 +40,7 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | June      | [1st](1865-06-01) [16th](1865-06-16) | [12th](1866-06-12) [27th](1866-06-27) | --       |
 | July      | [1st](1865-07-01) [22nd](1865-07-22) | [12th](1866-07-12) [27th](1866-07-27) | --       |
 | August    | [7th](1865-08-07) [21st](1865-08-21) | [11th](1866-08-11) [27th](1866-08-27) | --       |
-| September | [9th](1865-09-09) [20th](1865-09-20) | 9th  24th      | --       |
+| September | [9th](1865-09-09) [20th](1865-09-20) | [9th](1866-09-09)  [24th](1866-09-24) | --       |
 | October   | [5th](1865-10-05) [19th](1865-10-19) | 9th  24th      | --       |
 | November  | [3rd](1865-11-03) [18th](1865-11-18) | 7th  22nd      | --       |
 | December  | [4th](1865-12-04) [18th](1865-12-18) | 7th  22nd      | --       |
@@ -163,11 +163,13 @@ been miscalculated.
 * [August 27th, 1866 - เดือน ๙ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘ - เดือน ๙ แรม ๑ ค่ำ จ.ศ.๑๒๒๘](1866-08-27)<br/>
   Ethical professional behavior and social patience / Moral parables regarding honesty and greed / Social warnings against the consumption of alcohol / Historical narratives of English royal successions / Comparisons of global climates and industry / Systemic corruption within the labor tax system / Unfair exploitation by monopolistic tax farmers / Crime reports and identifying local thieves / Global news via new telegraph technology / Shipping logs and current market commodity prices / Religious missions and conduct of the monkhood / Advertisements for modern services and imports
 
+* [September 9th, 1866 - เดือน ๑๐ แรม ๑๔ ค่ำ จ.ศ.๑๒๒๘](1866-09-09)<br/>
+  New military technology impacting European warfare / Global political updates from London and America / Geographical comparisons of Nile and local rivers / Social reform petitions regarding polygamy in India / Historical chronicles of English and French royalty / Personal disputes publicized through the printing press / Judicial corruption and bribery in criminal cases / Economic issues within the tax farming system / Infrastructure challenges in new canal construction projects / Political instability and royal rebellion in Burma / Editorial defense of public media and criticism / International shipping schedules and local commercial news
+
+* [September 24th, 1866 - เดือน ๑๐ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-09-24)<br/>
+  Cholera origin and spread through human travel / Phonetic methods for teaching English to Thais / Succession and conflicts in British royal history / Siam's modern healthcare facilities and foreign praise / Geography of world continents and colonial territories / Discovery and chemical properties of quinine medicine / Industrial sugar mill production and canal infrastructure / Criticism of corruption and legal system exploitation / Missionary efforts to spread Christianity in Chiang Mai / International laws regarding political asylum for refugees / Export shipping data and commodity market prices / Judicial ethics and debate over bribery allegations
+
 <!--
-* [September 9th, 1866]<br/>
-
-* [September 24th, 1866]<br/>
-
 * [October 9th, 1866]<br/>
 
 * [October 24th, 1866]<br/>
@@ -194,8 +196,8 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    291,267 |
-| Lines of text         |     27,567 |
-| Data tables           |         67 |
-| Data rows             |      1,336 |
-| Data points           |      8,063 |
+| Word count            |    312,393 |
+| Lines of text         |     29,409 |
+| Data tables           |         69 |
+| Data rows             |      1,377 |
+| Data points           |      8,384 |
