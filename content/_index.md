@@ -19,13 +19,14 @@ and [1865-67](/publications/bangkok_recorder_thai_1865_1867/) editions, the Engl
 ### Updates
 
 - January, 2026
-  - [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/), published to October 1866.
+  - [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/): published to October 1866.
+  - [Bangkok Recorder (Thai) 1844-1845](/publications/bangkok_recorder_thai_1844_1845/): fixed links & added summaries 
 - December, 2025
-  - [Thai Lunar Calendar 101](/articles/thai-lunar-calendar-101/) article published to provide a basic understanding of the dates in Thai newspapers.
-  - [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/), published all 1865 editions (March-December).
-  - [Bangkok Recorder (English) 1865-1867](/publications/bangkok_recorder_english_1865_1867/), published all remaining editions.
+  - [Thai Lunar Calendar 101](/articles/thai-lunar-calendar-101/): article published to provide a basic understanding of the dates in Thai newspapers.
+  - [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/): published all 1865 editions (March-December).
+  - [Bangkok Recorder (English) 1865-1867](/publications/bangkok_recorder_english_1865_1867/): published all remaining editions.
 - September, 2025
-  - [Bangkok Recorder (English) 1865-1867](/publications/bangkok_recorder_english_1865_1867/), all 1865 editions.
+  - [Bangkok Recorder (English) 1865-1867](/publications/bangkok_recorder_english_1865_1867/): all 1865 editions.
 - November, 2024
-  - Article: [Experimenting with LLMs for Optical Character Recognition](/articles/experimenting-with-llms-for-optical-character-recognition/)
+  - [Experimenting with LLMs for Optical Character Recognition](/articles/experimenting-with-llms-for-optical-character-recognition/): documenting OCR experiments with LLMs 
 
