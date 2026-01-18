@@ -41,7 +41,7 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | July      | [1st](1865-07-01) [22nd](1865-07-22) | [12th](1866-07-12) [27th](1866-07-27) | --       |
 | August    | [7th](1865-08-07) [21st](1865-08-21) | [11th](1866-08-11) [27th](1866-08-27) | --       |
 | September | [9th](1865-09-09) [20th](1865-09-20) | [9th](1866-09-09)  [24th](1866-09-24) | --       |
-| October   | [5th](1865-10-05) [19th](1865-10-19) | 9th  24th      | --       |
+| October   | [5th](1865-10-05) [19th](1865-10-19) | [9th](1866-10-09)  [24th](1866-10-24) | --       |
 | November  | [3rd](1865-11-03) [18th](1865-11-18) | 7th  22nd      | --       |
 | December  | [4th](1865-12-04) [18th](1865-12-18) | 7th  22nd      | --       |
 
@@ -169,11 +169,13 @@ been miscalculated.
 * [September 24th, 1866 - เดือน ๑๐ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-09-24)<br/>
   Cholera origin and spread through human travel / Phonetic methods for teaching English to Thais / Succession and conflicts in British royal history / Siam's modern healthcare facilities and foreign praise / Geography of world continents and colonial territories / Discovery and chemical properties of quinine medicine / Industrial sugar mill production and canal infrastructure / Criticism of corruption and legal system exploitation / Missionary efforts to spread Christianity in Chiang Mai / International laws regarding political asylum for refugees / Export shipping data and commodity market prices / Judicial ethics and debate over bribery allegations
 
+* [October 9th, 1866 - เดือน ๑๐ แรม ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-10-09)<br/>
+  New fireproof gunpowder storage using glass powder / Military rifle advancements between Britain and Prussia / Completion of the Atlantic telegraph cable system / Historical accounts of British kings and rebellions / Violent political rebellion and conflict in Burma / Medical explanations for causes of poisonous fevers / Market price reports for commodities in Asia / Diplomatic updates on European treaties and power / Missionary efforts and pirate suppression in China / Shipping logistics and trade movements from Bangkok / Lessons for learning basic English conversational phrases / Moral parables regarding the dangers of stubbornness
+
+* [October 24th, 1866 - เดือน ๑๑ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-10-24)<br/>
+  Political unrest and instability in Burma / Burmese trade restrictions and economic pressure / English monarchy and religious reform history / Legal disputes involving illegal liquor trade / Corruption among local Siamese provincial officials / Advancements in global communication and technology / International conflicts and shifting European powers / Modernization and industrial changes in Bangkok / Local criminal activities and public security / Commercial trade and commodity price tracking / Moral fables and traditional social lessons / Tensions between foreign powers and locals
+
 <!--
-* [October 9th, 1866]<br/>
-
-* [October 24th, 1866]<br/>
-
 * [November 7th, 1866]<br/>
 
 * [November 22nd, 1866]<br/>
@@ -196,8 +198,8 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    312,393 |
-| Lines of text         |     29,409 |
-| Data tables           |         69 |
-| Data rows             |      1,377 |
-| Data points           |      8,384 |
+| Word count            |    333,842 |
+| Lines of text         |     31,343 |
+| Data tables           |         73 |
+| Data rows             |      1,453 |
+| Data points           |      8,883 |
