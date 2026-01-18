@@ -42,8 +42,8 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 | August    | [7th](1865-08-07) [21st](1865-08-21) | [11th](1866-08-11) [27th](1866-08-27) | --       |
 | September | [9th](1865-09-09) [20th](1865-09-20) | [9th](1866-09-09)  [24th](1866-09-24) | --       |
 | October   | [5th](1865-10-05) [19th](1865-10-19) | [9th](1866-10-09)  [24th](1866-10-24) | --       |
-| November  | [3rd](1865-11-03) [18th](1865-11-18) | 7th  22nd      | --       |
-| December  | [4th](1865-12-04) [18th](1865-12-18) | 7th  22nd      | --       |
+| November  | [3rd](1865-11-03) [18th](1865-11-18) | [7th](1866-11-07)  [22nd](1866-11-22) | --       |
+| December  | [4th](1865-12-04) [18th](1865-12-18) | [7th](1866-12-07)  [22nd](1866-12-22) | --       |
 
 † Edition not available
 
@@ -175,15 +175,19 @@ been miscalculated.
 * [October 24th, 1866 - เดือน ๑๑ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-10-24)<br/>
   Political unrest and instability in Burma / Burmese trade restrictions and economic pressure / English monarchy and religious reform history / Legal disputes involving illegal liquor trade / Corruption among local Siamese provincial officials / Advancements in global communication and technology / International conflicts and shifting European powers / Modernization and industrial changes in Bangkok / Local criminal activities and public security / Commercial trade and commodity price tracking / Moral fables and traditional social lessons / Tensions between foreign powers and locals
 
+* [November 7th, 1866 - เดือน ๑๑ แรม ๑๔ ค่ำ จ.ศ.๑๒๒๘](1866-11-07)<br/>
+  Geopolitical shifts in 19th-century European nations / Military and naval statistics of global powers / American natural resources and infrastructure expansion / Historical religious conflicts within the British monarchy / British colonial governance and treaties in India / Public health warnings and social regulations abroad / Technological modernization and infrastructure within Siam / Regional diplomatic relations and conflicts in Asia / Geography and cultural history of Hawaii islands / Global commodity prices and maritime shipping reports / Proposed social reforms regarding marriage and polygamy / Scientific advancements in mapping and civil engineering
+
+* [November 22nd, 1866 - เดือน ๑๒ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1866-11-24)<br/>
+  French diplomatic tensions and Kra Canal rumors / British colonial expansion and rule in India / Political history and succession of English monarchs / Negative social impacts of state-sponsored gambling / A religious miracle saving a prisoner’s life / The history and cultural changes in Hawaii / Bangkok maritime trade and international shipping news / King Mongkut’s royal travels and temple ceremonies / Global news reports via the international telegraph / Legal justice and corruption in Siamese provinces / Progress in book printing and local literature / Moral fables regarding animal and human intelligence
+
+* [December 7th, 1866 - เดือน ๑๒ แรม ๑๕ ค่ำ ปี ขาล อัฐ ศก จ.ศ.๑๒๒๘](1866-12-07)<br/>
+  Judicial ruling against corrupt port officials / Historical rise of the Prussian Empire / Reporting gang violence and local robberies / British civil war and monarchical shifts / Infrastructure development and elite land monopolies / International laws regarding public transport routes / Logistics for the royal funeral ceremony / Global telegraph updates and foreign conflicts / Maritime trade and shipping logistics records / Market price fluctuations for regional commodities / Scientific warnings about alcohol health risks / Socioeconomic reports from Nakhon Si Thammarat
+
+* [December 22nd, 1866 - เดือน อ้าย ขึ้น ๑๕ ค่ำ ปี ขาน อัฐศก จ.ศ.๑๒๒๘](1866-12-22)<br/>
+  Infrastructure development and modernization in Bangkok / British colonial administration and education in India / Legal disputes regarding liquor taxation and corruption / Trader grievances over unfair boat tax collection / Impact of maritime privateers during American warfare / International political developments and global conflict reports / Modernizing Bangkok through iron bridges and technology / Economic trade logistics and shipping industry updates / Diplomatic tensions between foreign consuls and Siam / Advancements in global undersea telegraph cable technology / Internal civil strife and power struggles in Burma / Local social news and community legal announcements
+
 <!--
-* [November 7th, 1866]<br/>
-
-* [November 22nd, 1866]<br/>
-
-* [December 7th, 1866]<br/>
-
-* [December 22nd, 1866]<br/>
-
 **1867**
 
 * [January 5th, 1867]<br/>
@@ -198,8 +202,8 @@ been miscalculated.
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    333,842 |
-| Lines of text         |     31,343 |
-| Data tables           |         73 |
-| Data rows             |      1,453 |
-| Data points           |      8,883 |
+| Word count            |    372,710 |
+| Lines of text         |     34,862 |
+| Data tables           |         88 |
+| Data rows             |      1,730 |
+| Data points           |     10,647 |
