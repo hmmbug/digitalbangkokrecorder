@@ -114,10 +114,10 @@ table.headerDateTable {
 
 /* ***** indent ***** */
 
-div.news .indent1 { display: inline-block; width: 0.66em; }
-div.news .indent2 { display: inline-block; width: 1.33em; }
-div.news .indent3 { display: inline-block; width: 2em; }
-div.news .indent4 { display: inline-block; width: 2.66em; }
+div.news .indent1 { display: inline-block; width: 0.5em; }
+div.news .indent2 { display: inline-block; width: 1.0em; }
+div.news .indent3 { display: inline-block; width: 1.5em; }
+div.news .indent4 { display: inline-block; width: 2.0em; }
 
 /* ***** text ***** */
 
