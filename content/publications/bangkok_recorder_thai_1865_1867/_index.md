@@ -32,8 +32,8 @@ and published by Dr. Dan Beach Bradley and N. A. McDonald.
 
 |           | 1865                                 | 1866                                  | 1867     |
 | --------- | ------------------------------------ | ------------------------------------- | -------- |
-| January   | --                                   | [1st](1866-01-01)  [17th](1866-01-17) [31st](1866-01-31) | 5th 20th |
-| February  | --                                   | [15th](1866-02-15)                    | 16th     |
+| January   | --                                   | [1st](1866-01-01)  [17th](1866-01-17) [31st](1867-01-31) | [5th](1867-01-05) [20th](1867-01-20) |
+| February  | --                                   | [15th](1866-02-15)                    | [16th](1867-02-16) |
 | March     | [1st](1865-03-01) [16th](1865-03-16) | [1st](1866-03-01)  [17th](1866-03-17) | --       |
 | April     | [1st](1865-04-01) [15th](1865-04-15) | 15th†              [29th](1866-04-29) | --       |
 | May       | [1st](1865-05-01) [15th](1865-05-15) | [15th](1866-05-15) [29th](1866-05-29) | --       |
@@ -187,23 +187,23 @@ been miscalculated.
 * [December 22nd, 1866 - เดือน อ้าย ขึ้น ๑๕ ค่ำ ปี ขาน อัฐศก จ.ศ.๑๒๒๘](1866-12-22)<br/>
   Infrastructure development and modernization in Bangkok / British colonial administration and education in India / Legal disputes regarding liquor taxation and corruption / Trader grievances over unfair boat tax collection / Impact of maritime privateers during American warfare / International political developments and global conflict reports / Modernizing Bangkok through iron bridges and technology / Economic trade logistics and shipping industry updates / Diplomatic tensions between foreign consuls and Siam / Advancements in global undersea telegraph cable technology / Internal civil strife and power struggles in Burma / Local social news and community legal announcements
 
-<!--
 **1867**
 
-* [January 5th, 1867]<br/>
+* [January 5th, 1867 - เดือน อ้าย แรม ๑๔ ค่ำ จ.ศ.๑๒๒๘](1867-01-05)<br/>
+  Hawaii religious transition and idol destruction / Royal influence on Thai religious reform proposals / Legal disputes over corruption and tax collection / Animal intelligence in solving local theft cases / Historical account of English monarchy and succession / Impact of advanced artillery on naval warfare / Christian missionary expansion to Northern Thailand regions / Financial difficulties facing the Bangkok Recorder publication / Shipping records and international commerce in Bangkok / Commercial announcements for various local business services / Birthday celebrations for high-ranking Thai government officials / Moral parables regarding obedience and personal consequences
 
-* [January 20th, 1867]<br/>
+* [January 20th, 1867 - เดือน ยี่ ขึ้น ๑๕ ค่ำ จ.ศ.๑๒๒๘](1867-01-20)<br/>
+  European monarchy and political succession struggles / Global current events reported via telegraph / Corruption and misconduct within royal service / International maritime trade and shipping logistics / Diplomatic relations and treaties with Western powers / Modernization of domestic infrastructure and transport / Economic data on local and regional commodities / Legal disputes involving foreign consuls and press / Moral fables promoting ethical social conduct / Territorial management and border survey efforts / Regional news of conflict and disasters / Local commercial advertisements and business updates
 
-* [February 16tth, 1867]<br/>
-
--->
+* [February 16th, 1867 - เดือน ๓ ขึ้น ๑๒ ค่ำ จ.ศ.๑๒๒๘](1867-02-16)<br/>
+  Arrival and reception of American warships / Siam's diplomacy versus Burma's territorial loss / Regional trade and fluctuating rice prices / Global political updates via international telegraphs / Technological progress in European military weaponry / Austrian diplomatic mission to Asian monarchs / Conflicts regarding press freedom and censorship / Libel trial between Bradley and France / Observations of remarkable global natural phenomena / Royal funerals and traditional state ceremonies / Expansion of international steamship trade routes / Financial closure of The Bangkok Recorder
 
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    372,710 |
-| Lines of text         |     34,862 |
-| Data tables           |         88 |
-| Data rows             |      1,730 |
-| Data points           |     10,647 |
+| Word count            |    398,354 |
+| Lines of text         |     37,194 |
+| Data tables           |         98 |
+| Data rows             |      1,917 |
+| Data points           |     11,821 |
