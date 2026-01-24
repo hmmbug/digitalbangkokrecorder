@@ -8,8 +8,9 @@ cascade:
 This site hosts a digital preservation of the first newspapers to be printed in Thailand 
 including the Thai language Bangkok Recorder, both the [1844-45](/publications/bangkok_recorder_thai_1844_1845/) 
 and [1865-67](/publications/bangkok_recorder_thai_1865_1867/) editions, the English language
-[1865-67](/publications/bangkok_recorder_english_1865_1867/) edition and other
-[related content](/publications/).
+[1865-67](/publications/bangkok_recorder_english_1865_1867/) edition,
+[จดหมาย เหตุ สยาม ไสมย](/publications/siam_samai_1882_1886/) ("Siam Samai", 1882-1886), 
+and other [related content](/publications/).
 
 {{< cards >}}
   {{< card link="/articles" title="Articles" icon="document-text" >}}
@@ -19,6 +20,7 @@ and [1865-67](/publications/bangkok_recorder_thai_1865_1867/) editions, the Engl
 ### Updates
 
 - January, 2026
+  - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 1.
   - [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/): published all remaining editions.
   - [Bangkok Recorder (Thai) 1844-1845](/publications/bangkok_recorder_thai_1844_1845/): fixed links & added summaries 
 - December, 2025

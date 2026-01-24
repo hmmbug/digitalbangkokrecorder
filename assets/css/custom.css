@@ -185,6 +185,10 @@ div.news p {
   white-space: pre;
 }
 
+div.news p.no-indent {
+  text-indent: 0em;
+}
+
 div.news .centered {
   text-align: center;
 }
@@ -221,7 +225,7 @@ div.news .newsTable td {
   padding: 0.33em;
 }
 
-/* ***** raw table ***** */
+/* ***** raw html ***** */
 
 div.newsRawHtml {
   max-width: 100%;
@@ -252,4 +256,24 @@ div.news .separator {
 
 .dark div.news .separator {
   background: #fff;
+}
+
+/* ***** Siam Samai ***** */
+
+.inlineIcon {
+  display: inline-block;
+  height: 1em;
+  width: auto;
+  vertical-align: middle;
+  position: relative;
+  top: -0.1em;
+}
+
+.iconSSHouse {
+  display: inline-block;
+  height: 2em;
+  width: auto;
+  vertical-align: middle;
+  position: relative;
+  top: -0.1em;
 }

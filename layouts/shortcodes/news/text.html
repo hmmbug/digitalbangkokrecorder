@@ -1,1 +1,4 @@
-<p>{{ .Inner | safeHTML }}</p>
+{{- $class := .Get "class" -}}
+<p {{ with $class }} class="{{ . }}"{{ end }}>
+    {{ .Inner | safeHTML }}
+</p>
