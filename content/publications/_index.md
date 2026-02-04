@@ -17,7 +17,7 @@ The following publications have been digitally preserved on this site:
 * [Bangkok Recorder (English) 1865-1867](/publications/bangkok_recorder_english_1865_1867/), _Bradley, D. B. (1865-67)_<br/>
   _American Board of Commissioners for Foreign Missions Press, Bangkok_  
 
-* [Siam Samai - จดหมาย เหตุ สยาม ไสมย](/publications/siam_samai/), _Smith, Samuel John (1882-86)_<br/>
+* [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai/), _Smith, Samuel John (1882-86)_<br/>
 
 * [Treatise on Vaccination](/publications/treatise_on_vaccination/), _Bradley, D. B. (1844)_<br/>
   _American Board of Commissioners for Foreign Missions Press, Bangkok_  
