@@ -46,3 +46,12 @@ menu:
   - name: Publications
     url: /publications
     weight: 2
+
+services:
+  googleAnalytics:
+    ID: G-6L13WXQFZE
+
+privacy:
+  googleAnalytics:
+    disable: false
+    respectDoNotTrack: true
