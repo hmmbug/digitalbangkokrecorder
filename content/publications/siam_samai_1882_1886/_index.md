@@ -97,9 +97,29 @@ Royal appointments and granting of titles / Hosting high-ranking foreign dignita
 Royal cremation and biographies of monks / Readers praising newspaper's impartiality and truth / Managing silver currency and international exchange / New laws for land and debt / Global telegraph news and military conflicts / French colonial expansion in Southeast Asia / Diplomatic missions and royal gift exchanges / Public health reports regarding cholera outbreaks / Religious and educational books for sale / Promotion of modern schooling in Siam
 
 
+### Volume 2 - ใบ ๒
+* [เดือน ๙ ขึ้น ๕ ค่ำ, ๑๒๔๕](0001-02-01/)<br/>
+King visits Bang Pa-In summer palace / Diplomatic mission sent to Queen Victoria / Royal appointments of high-ranking Buddhist monks / Grand merit-making ceremony honoring past kings / Royal princes ordain as Buddhist monks / Managing provincial governance and foreign relations / Official opening of the national telegraph line / Judicial reports on royal pardons and executions / International reports on disease and global conflicts / Commercial advertisements for photography and books
+
+* [เดือน ๙ แรม ๔ ค่ำ, ๑๒๔๕](0001-02-02/)<br/>
+Royal ceremony honoring the King's long reign / Establishing the national postal and communication system / Criminal justice, law enforcement, and public executions / Diplomatic relations with Western and Asian nations / Global news reports via international telegraph cables / Infrastructure debates regarding the Kra Isthmus canal / Commercial trade, steamboat transport, and public auctions / Public health monitoring and global disease outbreaks / Cultural representation at international exhibitions in Europe / Media industry updates and public service announcements
+
+* [เดือน ๑๐ ขึ้น ๔ ค่ำ, ๑๒๔๕](0001-02-03/)<br/>
+Postal service reduces rates for newspapers / Theft investigation at Smith Printing House / Conflict between palace guards and Europeans / Public health concerns regarding cholera outbreaks / Controversial legal case involving child pawning / Advocacy for banning gambling and opium / Infrastructure development and road paving projects / International political updates via foreign telegraph / Commercial advertisements for photography and shipping / Religious discourse on morality and hygiene
+
+* [เดือน ๑๐ แรม ๓ ค่ำ, ๑๒๔๕](0001-02-04/)<br/>
+Celebrations for King Chulalongkorn's royal birthday / Expansion of telegraph and postal infrastructure / Royal pardons and judicial punishment reports / Economic criticism of wealthy elite hoarding capital / Reports on police misconduct and public grievances / Devastating Krakatoa volcanic eruption and disaster relief / Royal donations for international humanitarian aid / Development of national infrastructure and commerce / International news and global diplomatic updates / Commercial services including photography and steamships
+
+* [เดือน ๑๑ ขึ้น ๒ ค่ำ, ๑๒๔๕](0001-02-05/)<br/>
+Royal birthday celebrations and the King's speech / Economic growth in rice and teak trade / Mourning the death of a senior statesman / Modernizing national telegraph and postal services / Improving public safety and road infrastructure / Strengthening international diplomacy and trade treaties / Military preparedness against regional border threats / Regulating currency exchange and postal laws / Global news on French and Chinese conflicts / Promoting literacy through newspaper and book sales
+
+* [เดือน ๑๑ แรม ค่ำ ๑, ๑๒๔๕](0001-02-06/)<br/>
+Official promotions and administrative appointments in Siam / Prominent figures renouncing wealth for Buddhist monkhood / Report on severe illness outbreak in Chiang Mai / Legal disputes involving Chinese laborers and taxation / Role of journalism in Siamese national development / Global political conflicts and international telegram reports / Traditional moral proverbs and ethical life lessons / Expansion of postal and modern communication services / Commercial advertisements for books and professional services / Local crime reports involving stolen foreign goods
+
+
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |     77,903 |
-| Lines of text         |      9,585 |
+| Word count            |    118,760 |
+| Lines of text         |     14,228 |
