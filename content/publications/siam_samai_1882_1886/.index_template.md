@@ -1,5 +1,5 @@
 ---
-title: 'Siam Samai'
+title: 'Siam Samai 1882-1886'
 description: 'Siam Samai'
 date: 2026-01-19T00:00:00Z
 draft: false
