@@ -7,6 +7,7 @@ weight: 3
 cascade:
   type: docs
 ---
+### Introduction
 
 The จดหมาย เหตุ สยาม ไสมย (Chotmaihet Siam Samai) newspaper, or Siam Samai, was published from 1882 to 1886. 
 
@@ -177,9 +178,89 @@ New regulations for provincial official certificates / Royal warnings against ru
 Defense of Buddhist monks against public criticism / Royal patronage and religious devotion of King / Proposed railway connections from Bangkok to China / Tribute to Henry Alabaster's contributions to Siam / International news summaries via telegraphic reports / Advertisements for liver pills and fever cures / Diplomatic tensions over Siamese and Cambodian borders / Newspaper subscriptions and Thai book sales catalogs / Reports on cholera spreading throughout European cities / Official royal movements and government appointments
 
 
+### ใบ ๓ &mdash; Volume 3
+* [เดือน ๑๐ ขึ้น ๗ ค่ำ, ๑๒๔๖ &mdash; 27th August, 1884 A.D.](0002-03-01/)<br/>
+The suffering and taxes of Siamese commoners / Roles of government in protecting public interests / Fair taxation and transparency in government spending / Siamese diplomatic missions to Europe and America / International news on global wars and conflicts / King Rama V rewarding loyal civil service / Western medicinal advertisements and health advice topics / Publication and subscription of the Siam Samai / Availability of diverse books and educational materials / Laws should follow the consensus of citizens
+
+* [เดือน ๑๐ ขึ้น ๑๔ ค่ำ, ๑๒๔๖ &mdash; 3rd September, 1884 A.D.](0002-03-02/)<br/>
+Royal warnings against believing false cholera rumors / Improving efficiency in processing official government documents / Utilizing modern technology for royal administrative communication / International telegrams reporting on the Sino-French War / Highlighting legal corruption and social class inequality / Public health concerns regarding rabies and outbreaks / Guidance on environmental changes and seasonal weather / Promotion of educational literature and newspaper services / Criticism of officials exploiting citizens for profit / Advertisements for imported remedies and patent medicines
+
+* [เดือน ๑๐ แรม ๖ ค่ำ, ๑๒๔๖ &mdash; 10th September, 1884 A.D.](0002-03-03/)<br/>
+Universal morality and spiritual self-improvement / Social and economic dangers of gambling / Judicial corruption and the need for justice / Developing national education and standardized textbooks / Expansion of foreign missionary and medical services / Improving infrastructure and international postal routes / Reporting global conflicts and international news / Citizen petitions against corrupt local officials / Ethical behavior and civil social conduct / Commercial advertising and distribution of knowledge
+
+* [เดือน ๑๐ แรม ๑๓ ค่ำ, ๑๒๔๖ &mdash; 17th September, 1884 A.D.](0002-03-04/)<br/>
+Moral warnings against opium and addiction / Royal birthday celebrations and sacred oaths / Legislating protection for national telegraph systems / Reports on French-Chinese naval military conflicts / Regulations for public carriage fares and safety / Legal petitions and integrity of government officials / Advertising medicinal treatments for various ailments / Promoting literacy through classical Thai literature / International currency exchange and trade news / Newspaper subscription terms and editorial policies
+
+* [เดือน ๑๑ ขึ้น ๕ ค่ำ, ๑๒๔๖ &mdash; 24th September, 1884 A.D.](0002-03-05/)<br/>
+Thai official's journey and service in Burma / Urban disasters and royal succession in Burma / Elaborate birthday celebrations for the Siamese King / Royal speech addressing national progress and stability / Military reforms and suppression of regional rebels / Expanding telegraph, postal, and transportation infrastructure / International diplomacy and foreign relations with West / Reforming legal systems and advancing national education / Commercial advertisements for medicines and public auctions / Geographical surveying and mapping for border security
+
+* [เดือน ๑๑ ขึ้น ๑๒ ค่ำ, ๑๒๔๖ &mdash; 1st October, 1884 A.D.](0002-03-06/)<br/>
+Defining political economy and the accumulation of wealth / The impact of government laws on trade growth / Human needs and labor as roots of wealth / Utilizing natural resources for industrial and economic productivity / Portuguese consulate regulations for local pawnshop operations / Concerns regarding new gambling practices in provincial towns / The life and missionary work of Dr. Dean / International reports on global conflicts and colonial movements / Public health concerns and advertisements for various medicines / Distribution of educational books and newspaper subscription details
+
+* [เดือน ๑๑ แรม ๔ ค่ำ, ๑๒๔๖ &mdash; 8th October, 1884 A.D.](0002-03-07/)<br/>
+Traditional wisdom for ethical social conduct / Observing Siamese cultural festivals and traditions / Explaining celestial events through scientific lens / Reforming religious practices and monastic behavior / Promoting monogamy and abolition of slavery / Demanding judicial integrity and public safety / Introducing western pharmaceutical and medical advice / Participation in international trade and exhibitions / Disseminating knowledge through newspapers and books
+
+* [เดือน ๑๑ แรม ๑๑ ค่ำ, ๑๒๔๖ &mdash; 15th October, 1884 A.D.](0002-03-08/)<br/>
+Coronation of new Burmese King in Mandalay / British and Burmese diplomatic refugee negotiations / Palace fire interpreted through royal astrology / Defining wealth and labor in political economy / Market value driven by desire and exchange / Ethical concerns regarding local steamboat accidents / Consular efforts to regulate local pawnshop trade / International telegrams and global travel reports / Commercial advertisements for imported patent medicines / Circulation of newspapers and traditional literature
+
+* [เดือน ๑๒ ขึ้น ๔ ค่ำ, ๑๒๔๖ &mdash; 22nd October, 1884 A.D.](0002-03-09/)<br/>
+Confucian moral teachings and social conduct / Biographical tributes to Chakri Dynasty kings / Global military conflicts and international news / Economic theories on price and utility / Royal ceremonies and official state activities / Medical advertisements and health management advice / Promotion of literacy through Thai literature / Journalistic ethics and anonymous public reporting / Impact of transportation on commodity prices / Commercial advertisements and upcoming public auctions
+
+* [เดือน ๑๒ ขึ้น ๑๑ ค่ำ, ๑๒๔๖ &mdash; 29th October, 1884 A.D.](0002-03-10/)<br/>
+Moral advice for family during hardship / Local reports of accidents and crime / International news delivered through the telegraph / Praising monarchs for modernization and development / Strengthening religious practices and Thai literacy / Economic concepts of labor and human motivation / Advertisements for medicinal pills and tonics / Moral tales promoting honesty and diligence / Publication logistics and catalogs of literature / Advancements in legal reforms and infrastructure
+
+* [เดือน ๑๒ แรม ๓ ค่ำ, ๑๒๔๖ &mdash; 5th November, 1884 A.D.](0002-03-11/)<br/>
+Morality and behavioral wisdom for daily living / Social scandals and misconduct among Buddhist monks / Crime reports and safety warnings in Bangkok / International political conflicts and colonial expansion efforts / Corruption and judicial reform in local government / Economic arguments for free labor against slavery / Public infrastructure and river traffic safety concerns / Medical advertisements and instructions for home remedies / Promoting education and scientific literacy through books / Political movements and unrest across various nations
+
+* [เดือน ๑๒ แรม ๑๐ ค่ำ, ๑๒๔๖ &mdash; 12th November, 1884 A.D.](0002-03-12/)<br/>
+Servant loyalty and devotion to masters / Traditional gender roles and household management / Public safety and river police law enforcement / Rehabilitating youth through education and reform / Warnings about gambling risks and street fraud / Global news updates and international political affairs / Principles of good governance and leadership ethics / Economic theories on monopolies and patent rights / Judicial integrity and preventing corruption in court / Advertising medical products and early printed literature
+
+* [เดือน ๑ ขึ้น ๒ ค่ำ, ๑๒๔๖ &mdash; 19th November, 1884 A.D.](0002-03-13/)<br/>
+Missionaries promote Christian salvation and the creator / Debating the first cause and human divinity / Critiquing Buddhist scriptures and religious practices / Miracles and resurrection as evidence for Christ / Reevaluating morality regarding killing animals for food / Reporting on domestic royalty and foreign dignitaries / Global news updates via international telegram reports / Honoring the impact of Dr. Bradley’s journalism / Strategic suggestions for Siamese urban development / Defining government responsibilities toward citizens and justice
+
+* [เดือน ๑ ขึ้น ๙ ค่ำ, ๑๒๔๖ &mdash; 26th November, 1884 A.D.](0002-03-14/)<br/>
+Poetic expression of separation and duty / Royal reception of European diplomatic visitors / Western music and social dance festivities / Local reports of tragedy and accidents / International political news and military conflicts / Moral debates on non-violence and karma / Public warnings against pickpockets and crime / Traditional remedies and commercial medicine ads / Emerging newspaper industry and literary trade / Observance of religious and state ceremonies
+
+* [เดือน ๑ แรม ค่ำ ๑, ๑๒๔๖ &mdash; 3rd December, 1884 A.D.](0002-03-15/)<br/>
+Religious debates regarding killing animals for food / Updates on Thai royal travel and ceremonies / Reports on local crimes and public safety / Global news reports via international telegraph / Promoting trade and domestic economic transparency / Social debates on monogamy and marital justice / Advertisements for medicines and health care / Historical reflections and religious biblical stories / Promoting educational books and printing technology / Local news about fire and market disasters
+
+* [เดือน ๑ แรม ๘ ค่ำ, ๑๒๔๖ &mdash; 10th December, 1884 A.D.](0002-03-16/)<br/>
+Distinctions between human and animal spiritual souls / Ministerial resignations and changes in government roles / International diplomatic tensions and French naval blockades / The efficacy of smallpox vaccinations using cowpox / Economic reports on trade and customs duties / Moral teachings through traditional Thai poetic proverbs / Biblical narratives regarding Moses and Egyptian plagues / Updates on British military operations in Sudan / Commercial advertisements for imported medicines and books / Procedures for newspaper subscriptions and advertising costs
+
+* [เดือน ญี่ ขึ้น ค่ำ ๑, ๑๒๔๖ &mdash; 17th December, 1884 A.D.](0002-03-17/)<br/>
+God created animals to serve human needs / Killing suffering animals is an act of mercy / Human life serves as a spiritual trial / Moral leaders must practice what they preach / Royal patronage supports educational progress in Siam / Laborers and employers should practice mutual respect / Citizens expose official corruption in labor taxes / Proper water storage prevents seasonal health issues / Foreign news covers global conflicts and diplomacy / Animals demonstrate complex emotions like human joy
+
+* [เดือน ญี่ ขึ้น ๘ ค่ำ, ๑๒๔๖ &mdash; 24th December, 1884 A.D.](0002-03-18/)<br/>
+Ethics of eating meat and killing animals / Christian teachings on sin and salvation / Royal traditions and Bangkok’s swing ceremony / Scientific observations of animal emotional expressions / Royal support for education and school systems / International political and military news reports / Local governance and legal accountability issues / Preservation and management of royal property / Biblical origins of humanity and languages / Modern medicine and commercial product advertisements
+
+* [เดือน ญี่ ขึ้น ๑๕ ค่ำ, ๑๒๔๖ &mdash; 31st December, 1884 A.D.](0002-03-19/)<br/>
+Siamese diplomatic mission sent to France / Royal tonsure ceremonies for the princes / Concerns regarding local crime and policing / Societal views on African American history / Ritual importance of the Giant Swing / Peasant grievances against rural government corruption / Global news regarding Sudan and China / Printing services and commercial medicine sales / Christian theological teachings and moral poems / Catalog of available Thai literary works
+
+* [เดือน ญี่ แรม ๗ ค่ำ, ๑๒๔๖ &mdash; 7th January, 1885 A.D.](0002-03-20/)<br/>
+Siamese diplomatic mission voyage to Singapore / International reports on global colonial expansion / Evolving social policies regarding opium addiction / Criminal activities linked to unregulated pawnshops / Legal disputes within the teak wood trade / Public complaints regarding street games and safety / Comparison of newspaper reliability and publication consistency / Religious perspectives on human history and predestination / Advertising books and medicinal products in Bangkok / Reporting on local marriages and foreign celebrations
+
+* [เดือน ญี่ แรม ๑๔ ค่ำ, ๑๒๔๖ &mdash; 14th January, 1885 A.D.](0002-03-21/)<br/>
+Diplomatic protocols and international state relations / Maritime journeys and colonial administrative visits / International news and global military conflicts / Commercial shipping and Bangkok port activities / Import export values and financial trade statistics / Royal honors and medals for meritorious service / Theater performances and urban social activities / Literary publishing and printing house services / Internal administrative matters and local news / Commercial advertisements for medicine and auctions
+
+* [เดือน ๓ ขึ้น ๖ ค่ำ, ๑๒๔๖ &mdash; 21st January, 1885 A.D.](0002-03-22/)<br/>
+Siamese diplomats observe British colonial fortifications / Maritime travel details and ship engine repairs / Colonial infrastructure and lifestyle in foreign ports / Royal transitions and official news from Bangkok / International merchant shipping and trade activity logs / Foreign news on European royalty and politics / Public rumors reflecting social morality and justice / Comparative religious dialogues between Buddhism and Christianity / Commercial advertisements for medicine and printing services
+
+* [เดือน ๓ ขึ้น ๑๓ ค่ำ, ๑๒๔๖ &mdash; 28th January, 1885 A.D.](0002-03-23/)<br/>
+Siamese diplomats receive high honors in Egypt / King Chulalongkorn travels to Chanthaburi by sea / New regulations for Bangkok river police patrols / Promoting national journals and printing house publications / Expansion of telegraph lines across the kingdom / Reporting on global conflicts and political affairs / Comparison of world governments and social classes / Analysis of global religious practices and rituals / Shipping schedules and international currency exchange rates / Advertisements for imported medicines and healthcare products
+
+* [เดือน ๓ แรม ๕ ค่ำ, ๑๒๔๖ &mdash; 4th February, 1885 A.D.](0002-03-24/)<br/>
+Siamese diplomatic mission visits Cairo and Alexandria / New regulations for importing weapons and gunpowder / Detailed report on major fire in Bangkok / Arrival and departure of international merchant ships / Telegraphic news updates on global political conflicts / Economic statistics regarding imports into Bangkok port / Initial railway survey from Bangkok to Korat / Traditional Thai moral proverbs and didactic poetry / Advertisements for imported medicines and health products / Printing house services and newspaper subscription notices
+
+* [เดือน ๓ แรม ๑๒ ค่ำ, ๑๒๔๖ &mdash; 11th February, 1885 A.D.](0002-03-25/)<br/>
+Detailed statistics of international maritime trade / Global news reports via international telegraph / Urban modernization and architectural growth in Bangkok / Establishment of Western-style multi-lingual education / Governance and management of public institutions / Maritime import and export economic values / Promotion of imported Western medicinal products / Development of the local printing industry / Public order regulations for city streets / Comparative growth of national wealth and infrastructure
+
+* [เดือน ๔ ขึ้น ๕ ค่ำ, ๑๒๔๖ &mdash; 18th February, 1885 A.D.](0002-03-26/)<br/>
+Economic statistics and trade in British Burma / British consulate establishment in Chiang Mai city / Agricultural production and global rice export trends / Royal news and arrival of white elephant / Critical views on ancient religions and priests / Public safety and rising theft in Bangkok / Maritime accidents and heroic sea rescue efforts / Local engineering and development of steamship industry / Cultural customs during Chinese New Year celebrations / Global military updates via international telegraph reports
+
+
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    254,599 |
-| Lines of text         |     30,460 |
+| Word count            |    425,567 |
+| Lines of text         |     50,355 |

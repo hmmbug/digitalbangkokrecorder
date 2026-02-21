@@ -20,10 +20,10 @@ and other [related content](/publications/).
 ### Updates
 
 - February, 2026
-  - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 2.
+  - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 2 (26 editions).
 
 - January, 2026
-  - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 1.
+  - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 1 (12 editions).
   - [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/): published all remaining editions.
   - [Bangkok Recorder (Thai) 1844-1845](/publications/bangkok_recorder_thai_1844_1845/): fixed links & added summaries 
 - December, 2025
