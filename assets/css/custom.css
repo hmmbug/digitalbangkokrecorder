@@ -277,3 +277,12 @@ div.news .separator {
   position: relative;
   top: -0.1em;
 }
+
+.iconSSHouse2 {
+  display: inline-block;
+  height: 3em;
+  width: auto;
+  vertical-align: middle;
+  position: relative;
+  top: -0.1em;
+}

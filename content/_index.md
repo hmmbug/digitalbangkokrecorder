@@ -1,6 +1,6 @@
 ---
 title: "Digital Bangkok Recorder"
-date: 2025-09-24T00:00:00+01:00
+date: 2026-02-23T00:00:00+01:00
 draft: false
 cascade:
   type: docs
@@ -20,7 +20,7 @@ and other [related content](/publications/).
 ### Updates
 
 - February, 2026
-  - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 2 (26 editions).
+  - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 2 (26 editions) and volume 3 (52 editions).
 
 - January, 2026
   - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 1 (12 editions).
