@@ -27,7 +27,6 @@ While there may be other copies of this book in private collections, there only 
 
 {{< br >}}
 {{< pdf "/ความสำคัญในการบำรุงวัฒนธรรมของชาติ%20(2484).pdf" >}}
-<!-- {{< icon "cloud-download" >}} {{< nofollowlink "/ความสำคัญในการบำรุงวัฒนธรรมของชาติ%20(2484).pdf" "Link to PDF" "Download the complete booklet (PDF)" >}} -->
 
 ## Further Reading
 

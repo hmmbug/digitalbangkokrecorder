@@ -2,6 +2,7 @@
 title: "Digital Bangkok Recorder"
 date: 2026-02-23T00:00:00+01:00
 draft: false
+toc: false
 cascade:
   type: docs
 ---
@@ -10,14 +11,15 @@ including the Thai language Bangkok Recorder, both the [1844-45](/publications/b
 and [1865-67](/publications/bangkok_recorder_thai_1865_1867/) editions, the English language
 [1865-67](/publications/bangkok_recorder_english_1865_1867/) edition,
 [จดหมาย เหตุ สยาม ไสมย](/publications/siam_samai_1882_1886/) ("Siam Samai", 1882-1886), 
-and other [related content](/publications/).
+and other related content.
 
-{{< cards >}}
-  {{< card link="/articles" title="Articles" icon="document-text" >}}
-  {{< card link="/publications" title="Publications" icon="library" >}}
-{{< /cards >}}
+{{< columnpair >}}
+ {{< sectionindex "Publications" >}}
+ ---
+ {{< sectionindex "Articles" >}}
+{{< /columnpair >}}
 
-### Updates
+### Change Log
 
 - February, 2026
   - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 2 (26 editions) and volume 3 (52 editions).

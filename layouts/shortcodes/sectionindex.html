@@ -1,0 +1,9 @@
+{{ $sectionName := .Get 0 }}
+{{ with site.GetPage $sectionName }}
+  <h3>{{ .Title }}</h3>
+  <ul>
+    {{ range .Pages }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}

@@ -1,0 +1,8 @@
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  {{ $columns := split .Inner "---" }}
+  {{ range $columns }}
+    <div style="flex: 1; min-width: 300px;">
+      {{ . | safeHTML }}
+    </div>
+  {{ end }}
+</div>
