@@ -25,7 +25,7 @@ and other [related content](/publications/).
 - January, 2026
   - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 1 (12 editions).
   - [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/): published all remaining editions.
-  - [Bangkok Recorder (Thai) 1844-1845](/publications/bangkok_recorder_thai_1844_1845/): fixed links & added summaries 
+  - [Bangkok Recorder (Thai) 1844-1845](/publications/bangkok_recorder_thai_1844_1845/): added summaries 
 - December, 2025
   - [Thai Lunar Calendar 101](/articles/thai-lunar-calendar-101/): article published to provide a basic understanding of the dates in Thai newspapers.
   - [Bangkok Recorder (Thai) 1865-1867](/publications/bangkok_recorder_thai_1865_1867/): published all 1865 editions.
