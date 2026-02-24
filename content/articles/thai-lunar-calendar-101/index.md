@@ -6,8 +6,6 @@ type: docs
 authors: "Mark Hollow"
 ---
 
-## Preface
-
 The Thai Lunar Calendar is very different from the western Gregorian calendar. 
 Familiarity with it will help readers understand the dates used Thai newspapers 
 on this site.
