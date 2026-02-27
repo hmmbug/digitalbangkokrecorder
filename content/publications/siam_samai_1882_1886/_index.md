@@ -339,9 +339,69 @@ Siamese diplomatic mission to London / Military fortifications and defense in Gi
 Clever military traps during strategic troop retreats / Morality and education foster national social peace / Religious debates on the ethics of killing / International political tensions and global health reports / Siamese cultural diplomacy and music in London / Using newspapers to improve public national wisdom / Shipping schedules and international commerce logistics reports / Advertisements for Western medicine and professional services / Promotion of diverse Thai literature and textbooks / Colonial era military struggles in foreign lands
 
 
+### Volume 4
+Published weekly from August 26th, 1885 to August 18th, 1886 (เดือน ๙ แรม ๑ ค่ำ, ๑๒๔๗ &mdash; เดือน ๙ แรม ๔ ค่ำ, ๑๒๔๘)
+* [เดือน ๙ แรม ๑ ค่ำ, ๑๒๔๗ &mdash; August 26th, 1885 A.D.](0003-04-01/)<br/>
+Debating human equality through creation and effort / Official opening of the national postal service / Public praise for modern police force reforms / Legal disputes over teak trade and theft / Condemning the abuse of power by elites / International news delivered via global telegraph services / Monitoring maritime trade and commercial shipping schedules / Advertisements for healthcare and commercial land rentals / Promoting literacy through books and educational materials / Moral fables emphasizing gratitude and mutual assistance
+
+* [เดือน ๙ แรม ๘ ค่ำ, ๑๒๔๗ &mdash; September 2nd, 1885 A.D.](0003-04-02/)<br/>
+Military decoys and traps against invading forces / Ingenious bridge construction and explosive camp traps / Royal mourning and reports on local crimes / Ethical treatment and debt relief for slaves / Advocating for Christianity and social unity / Social status comparisons between Thailand and West / International political news from various foreign regions / Detailed records of Bangkok's maritime trade activity / Commercial advertisements for medicines and literature
+
+* [เดือน ๑๐ ขึ้น ๑ ค่ำ, ๑๒๔๗ &mdash; September 9th, 1885 A.D.](0003-04-03/)<br/>
+Siamese diplomatic missions to France and England / Observations of European industrial and urban infrastructure / Thai officials exploring London landmarks and factories / Royal funeral rites for the Siamese Vice King / Proposals for reforming the Siamese judicial system / Political and social developments in Chiang Mai / Debates on social morality and public ethics / Religious discourse comparing Buddhism and Christian teachings / International reports on global politics and health / Commercial advertisements and lists of printed books
+
+* [เดือน ๑๐ ขึ้น ๘ ค่ำ, ๑๒๔๗ &mdash; September 16th, 1885 A.D.](0003-04-04/)<br/>
+Thai military deception against Vietnamese forces / Moral arguments against the practice of polygamy / Demanding social protection and respect for women / Religious debates comparing Buddhism and Christianity / Social scandals and warnings against immoral behavior / Expansion of telegraph infrastructure in Siam / Official protocols for the King’s birthday celebration / International news summaries from European colonial powers / Advocacy for legal representation in court cases / Publication of literature and commercial advertisements
+
+* [เดือน ๑๐ ขึ้น ๘ ค่ำ, ๑๒๔๗ &mdash; September 23rd, 1885 A.D.](0003-04-05/)<br/>
+Siamese diplomats visiting French educational institutions / Celebrations and speech for King Rama V's birthday / Administrative reform following the Viceroy's death / Modernizing infrastructure through telegraphs and postal services / Cultural exchange at high-society gala events / Public debate regarding journalistic ethics and quality / Economic concerns regarding cattle exports and farming / Diplomatic gifts exchanged between France and Siam / Promotion of education and national literacy programs / Monitoring international maritime trade and shipping logs
+
+* [เดือน ๑๐ แรม ๗ ค่ำ, ๑๒๔๗ &mdash; September 30th, 1885 A.D.](0003-04-06/)<br/>
+Overview of French Republic political structure / French colonial expansion and military conflicts / Parliamentary procedures and legislative voting systems / Maintaining public order and police responsibilities / Economic market dynamics of supply and demand / Social dangers of opium and substance abuse / Morality and consequences of official corruption / Debate on religion versus scientific knowledge / International news updates and maritime trade / Advertising for books and local services
+
+* [เดือน ๑๐ แรม ๑๔ ค่ำ, ๑๒๔๗ &mdash; October 7th, 1885 A.D.](0003-04-07/)<br/>
+French military expansion in Vietnam and Tonkin / China and France dispute Vietnamese sovereignty / Treaty establishing French protectorate over Vietnam / Public safety concerns regarding Bangkok street crime / Cattle plague impacting agriculture and food prices / Theological debate between Christianity and Buddhism / Western legal influence on Sri Lankan society / Political instability in Bulgaria and Ottoman regions / International maritime commerce and shipping logs / Practical household advice for termite prevention
+
+* [เดือน ๑๑ ขึ้น ๖ ค่ำ, ๑๒๔๗ &mdash; October 14th, 1885 A.D.](0003-04-08/)<br/>
+Sino-French military conflict over Tonkin region / British neutrality and the Foreign Enlistment Act / Violent armed robbery in Bang Sue district / Criticisms regarding ineffective police and slow courts / Royal appointment of Prince Sonabandit to office / Debating foreign education versus local Thai identity / Preserving Siamese sovereignty through careful foreign diplomacy / Scientific demonstrations regarding atmospheric and air pressure / Maritime trade and shipping schedules in Bangkok / International telegrams regarding European political developments
+
+* [เดือน ๑๑ ขึ้น ๑๓ ค่ำ, ๑๒๔๗ &mdash; October 21st, 1885 A.D.](0003-04-09/)<br/>
+Siamese diplomats travel through Southern France / Detailed urban infrastructure of nineteenth-century Paris / Expanding national postal services to provinces / Observance of traditional Buddhist religious festivals / Expressions of loyalty to the Siamese King / Debating the benefits of studying abroad / Global news regarding European political conflicts / Moral fables teaching integrity and unity / Commercial advertisements and international currency rates / Shipping schedules and maritime trade updates
+
+* [เดือน ๑๑ แรม ๕ ค่ำ, ๑๒๔๗ &mdash; October 28th, 1885 A.D.](0003-04-10/)<br/>
+Citizens report military abuse and judicial injustice / Royal ceremonies for departing military expeditions / Annual schedule for royal religious ceremonies / International telegrams reporting global political tensions / Scientific explanations of barometers and weather / Detailed records of international maritime trade / Editorial defense of press and religious freedom / Moral fables warning against greed and arrogance / Official reports on King Chulalongkorn’s movements / Promotion of Thai literature and printing services
+
+* [เดือน ๑๑ แรม ๑๒ ค่ำ, ๑๒๔๗ &mdash; November 4th, 1885 A.D.](0003-04-11/)<br/>
+Judicial reform and removal of corrupt judges / Comparing Siamese progress to Western civilization / Inherent human nature and persistence of corruption / Praising royal initiatives for legal reform / Military expeditions to suppress northern banditry / Promoting bilingual education within the kingdom / Criticizing police corruption and social injustice / Divine intervention for moral and social change / International news and global political updates / Labor issues regarding unpaid government salaries
+
+* [เดือน ๑๒ ขึ้น ๕ ค่ำ, ๑๒๔๗ &mdash; November 11th, 1885 A.D.](0003-04-12/)<br/>
+Importance of newspapers for societal progress / Christian superiority and paths to salvation / Justice as foundation for national strength / Social ruin caused by state-sanctioned gambling / Western colonial success linked to religion / Expansion of national postal and communication / Exploitation of subjects by corrupt officials / Global telegraphic news and international relations / Maritime trade and shipping activity reports / Promotion of literacy and traditional literature
+
+* [เดือน ๑๒ ขึ้น ๑๒ ค่ำ, ๑๒๔๗ &mdash; November 18th, 1885 A.D.](0003-04-13/)<br/>
+Comparison of Christian salvation and Buddhist precepts / Seeking judicial reform and merit-based government appointments / Social consequences of widespread gambling and debt / Royal court news and King’s diplomatic activities / Modernization of postal services and mail rates / Public safety issues and police negligence reports / Global summaries of political conflict and treaties / Scientific principles regarding atmospheric pressure and machinery / Port maritime logistics and international commercial shipping / Promotion of education through printed books and newspapers
+
+* [เดือน ๑๒ แรม ๔ ค่ำ, ๑๒๔๗ &mdash; November 25th, 1885 A.D.](0003-04-14/)<br/>
+Jesus provides salvation through faith and obedience / Seeking judicial fairness based on Western standards / Public grievances regarding extortion at trade checkpoints / Modernization lessons from Japanese and European models / Critique of traditional rituals versus genuine morality / Reports on royal duties and state administration / International news and political conflicts via telegram / Promoting literacy and religious books in Siam / Comparing Christian principles with traditional religious practices / Encouraging mercy and compassion toward all beings
+
+* [เดือน ๑๒ แรม ๑๑ ค่ำ, ๑๒๔๗ &mdash; December 2nd, 1885 A.D.](0003-04-15/)<br/>
+Comparative analysis of Buddhist and Christian doctrines / Ethical living based on Buddhist moral precepts / Critique of biblical myths and Christian theology / Local reporting of violent crime and robbery / Petitions against administrative and judicial corruption / International updates on colonial wars and conflicts / Commemoration of foreign experts serving the state / Commercial records of international maritime shipping / Moral fables about integrity and true friendship / Calls for modernizing the Siamese legal system
+
+* [เดือน ๑ ขึ้น ๓ ค่ำ, ๑๒๔๗ &mdash; December 9th, 1885 A.D.](0003-04-16/)<br/>
+Tragic folktale highlighting filial piety and suffering / Royal news regarding official ceremonies and appointments / Public safety reports on crime and arrests / Urgent health warnings about cholera and sanitation / International telegraph news about wars and politics / British military conquest and the fall of Burma / Detailed records of maritime trade and shipping / Educational content and diverse literature advertisements / Public petitions against corruption and pawnshop theft / Reports on global natural disasters and phenomena
+
+* [เดือน ๑ ขึ้น ๑๐ ค่ำ, ๑๒๔๗ &mdash; December 16th, 1885 A.D.](0003-04-17/)<br/>
+Debating the identity of the true God / Rational critiques of Christian biblical teachings / Demands for editorial fairness in religious debates / Linking Western progress to Christian religious faith / Skepticism regarding traditional Buddhist monastic practices / Scientific explanations for rare astronomical meteor events / International political news from overseas telegraph reports / Local reports on fire and government corruption / Commercial advertisements for books and property rentals / Administrative details for newspaper subscriptions and pricing
+
+* [เดือน ๑ แรม ๒ ค่ำ, ๑๒๔๗ &mdash; December 23rd, 1885 A.D.](0003-04-18/)<br/>
+Religious debate between Christianity and Buddhism / Royal ceremonies conferring honors and decorations / Modern education and language performances at school / Global news and British parliamentary election results / Public health warnings regarding water and fire / Statistics on international trade and foreign assets / Royal pardons and official medical news updates / Moral fables illustrating caution and karmic justice / Editorial integrity and public letters of apology / Promotion of literature and commercial printing services
+
+* [เดือน ๑ แรม ๙ ค่ำ, ๑๒๔๗ &mdash; December 30th, 1885 A.D.](0003-04-19/)<br/>
+Factors driving national progress and development / Theological debates between Buddhism and Christianity / Expansion of telegraph lines to northern provinces / Royal decrees, appointments, and state ceremonies / Diplomatic relations with the Portuguese mission / International news and global political updates / Public health alerts and medical services / Moral fables on social conduct and trust / Commercial advertisements for goods and property / Educational books and literacy resources available
+
+
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    590,963 |
-| Lines of text         |     68,886 |
+| Word count            |    712,416 |
+| Lines of text         |     82,303 |

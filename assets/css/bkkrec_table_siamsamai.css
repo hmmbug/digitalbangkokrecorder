@@ -2,435 +2,558 @@ div.newsRawHtml .siam_samai_00 {margin: 0px 0px 0px 0px;  }
 div.newsRawHtml .siam_samai_01 {margin: 0px 0px 0px 0px; text-align: center; font: 13.3px Thonburi; color: #000000}
 div.newsRawHtml .siam_samai_02 {margin: 0px 0px 0px 0px; font: 13.3px Thonburi; color: #000000}
 div.newsRawHtml .siam_samai_03 {margin: 0px 0px 0px 0px; text-align: right; font: 13.3px Thonburi; color: #000000}
-div.newsRawHtml .siam_samai_04 {margin: 0px 0px 0px 0px; text-align: center; font: 13.3px Arial; color: #000000}
-div.newsRawHtml .siam_samai_05 {margin: 0px 0px 0px 0px; font: 13.3px Arial; color: #000000}
+div.newsRawHtml .siam_samai_04 {margin: 0px 0px 0px 0px; font: 13.3px Arial; color: #000000}
+div.newsRawHtml .siam_samai_05 {margin: 0px 0px 0px 0px; text-align: center; font: 13.3px Arial; color: #000000}
 div.newsRawHtml .siam_samai_06 {font: 13.3px Arial}
 div.newsRawHtml .siam_samai_07 {border-collapse: collapse}
-div.newsRawHtml .siam_samai_08 {width: 656px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_09 {width: 656px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_0a {width: 656px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_0b {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_0c {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_0d {width: 64px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_0e {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_0f {width: 120px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_10 {width: 88px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_08 {width: 616px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_09 {width: 616px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_0a {width: 616px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_0b {width: 88px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_0c {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_0d {width: 48px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_0e {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_0f {width: 128px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_10 {width: 64px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
 div.newsRawHtml .siam_samai_11 {width: 56px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_12 {width: 96px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_13 {width: 64px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_14 {width: 112px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_15 {width: 128px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_16 {width: 88px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_17 {width: 56px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_18 {width: 96px; height: 17px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_19 {width: 64px; height: 17px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1a {width: 112px; height: 17px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1b {width: 128px; height: 17px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1c {width: 88px; height: 17px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1d {width: 56px; height: 17px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1e {width: 96px; height: 18px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1f {width: 64px; height: 18px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_20 {width: 112px; height: 18px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_21 {width: 128px; height: 18px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_22 {width: 88px; height: 18px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_23 {width: 56px; height: 18px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_24 {width: 96px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_25 {width: 64px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_26 {width: 112px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_27 {width: 128px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_28 {width: 88px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_29 {width: 56px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_2a {width: 96px; height: 13px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_2b {width: 96px; height: 13px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_2c {width: 656px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_2d {width: 672px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_2e {width: 664px; height: 11px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_2f {width: 672px; height: 18px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_30 {width: 672px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_31 {width: 664px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_32 {width: 120px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_33 {width: 56px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_34 {width: 80px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_35 {width: 128px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_36 {width: 72px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_37 {width: 120px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_38 {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_39 {width: 56px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_3a {width: 80px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_3b {width: 128px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_3c {width: 72px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_3d {width: 120px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_3e {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_3f {width: 56px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_40 {width: 80px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_41 {width: 128px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_42 {width: 72px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_43 {width: 120px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_44 {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_45 {width: 56px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_46 {width: 80px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_47 {width: 128px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_48 {width: 72px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_49 {width: 664px; height: 18px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_4a {width: 120px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_4b {width: 96px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_4c {width: 56px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_4d {width: 80px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_4e {width: 128px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_4f {width: 72px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_50 {width: 664px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_51 {width: 664px; height: 12px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_52 {width: 648px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_53 {width: 640px; height: 11px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_54 {width: 648px; height: 18px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_55 {width: 648px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_56 {width: 640px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_57 {width: 64px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_58 {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_59 {width: 64px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_5a {width: 120px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_5b {width: 64px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_5c {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_5d {width: 64px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_5e {width: 120px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_5f {width: 64px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_60 {width: 96px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_61 {width: 64px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_62 {width: 120px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_63 {width: 64px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_64 {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_65 {width: 64px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_66 {width: 120px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_67 {width: 64px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_68 {width: 96px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_69 {width: 64px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_6a {width: 120px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_6b {width: 80px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_6c {width: 48px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_6d {width: 96px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_6e {width: 96px; height: 35px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_6f {width: 96px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_70 {width: 48px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_71 {width: 120px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_72 {width: 96px; height: 35px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_73 {width: 48px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_74 {width: 96px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_75 {width: 48px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_76 {width: 96px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_77 {width: 48px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_78 {width: 96px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_79 {width: 48px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_7a {width: 96px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_7b {width: 672px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_7c {width: 664px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_7d {width: 664px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_7e {width: 72px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_7f {width: 72px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_80 {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_81 {width: 88px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_82 {width: 72px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_83 {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_84 {width: 88px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_85 {width: 96px; height: 18px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_86 {width: 96px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_87 {width: 72px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_88 {width: 112px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_89 {width: 120px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_8a {width: 88px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_8b {width: 64px; height: 18px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_8c {width: 72px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_8d {width: 112px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_8e {width: 88px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_8f {width: 72px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_90 {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_91 {width: 88px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_92 {width: 664px; height: 17px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_93 {width: 616px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_94 {width: 608px; height: 11px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_95 {width: 616px; height: 18px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_96 {width: 616px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_97 {width: 608px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_98 {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_99 {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_9a {width: 56px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_9b {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_9c {width: 56px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_9d {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_9e {width: 56px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_9f {width: 112px; height: 14px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_a0 {width: 96px; height: 14px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_a1 {width: 48px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_a2 {width: 64px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_a3 {width: 120px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_a4 {width: 96px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_a5 {width: 56px; height: 18px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_a6 {width: 608px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_a7 {width: 648px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_a8 {width: 704px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_a9 {width: 704px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_aa {width: 696px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_ab {width: 112px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_ac {width: 704px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_ad {width: 704px; height: 18px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_ae {width: 664px; height: 18px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_af {width: 120px; height: 13px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_b0 {width: 80px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_b1 {width: 96px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_b2 {width: 120px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_b3 {width: 72px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_b4 {width: 80px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_b5 {width: 64px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_b6 {width: 696px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_b7 {margin: 0px 0px 0px 0px; text-align: center;  color: #000000}
-div.newsRawHtml .siam_samai_b8 {margin: 0px 0px 0px 0px;  color: #000000}
-div.newsRawHtml .siam_samai_b9 {font: 13px Arial}
-div.newsRawHtml .siam_samai_ba {font: 13px Thonburi}
-div.newsRawHtml .siam_samai_bb {width: 256px; height: 18px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_bc {width: 112px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_bd {width: 24px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_be {width: 64px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_bf {width: 168px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_c0 {width: 40px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_c1 {width: 32px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_c2 {width: 32px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_c3 {width: 24px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_c4 {width: 64px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_c5 {width: 168px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_c6 {width: 40px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_c7 {width: 32px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_c8 {width: 32px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_c9 {width: 24px; height: 18px; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_ca {width: 64px; height: 18px; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_cb {width: 168px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_cc {width: 40px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_cd {width: 32px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_ce {width: 32px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_cf {width: 24px; height: 17px; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_d0 {width: 64px; height: 17px; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_d1 {width: 168px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_d2 {width: 40px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_d3 {width: 32px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_d4 {width: 32px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_d5 {width: 656px; height: 15px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_d6 {width: 112px; height: 13px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_d7 {width: 96px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_d8 {width: 120px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_d9 {width: 64px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_da {width: 80px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_db {width: 128px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_dc {width: 72px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_dd {margin: 0px 0px 0px 0px; text-align: center; font: 13px 'Helvetica Neue'; color: #000000}
-div.newsRawHtml .siam_samai_de {margin: 0px 0px 0px 0px; font: 13px 'Helvetica Neue'; color: #000000}
-div.newsRawHtml .siam_samai_df {font: 13px 'Helvetica Neue'}
-div.newsRawHtml .siam_samai_e0 {width: 680px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_e1 {width: 96px; height: 14px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_e2 {width: 56px; height: 14px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_e3 {width: 120px; height: 14px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_e4 {width: 680px; height: 18px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_e5 {width: 672px; height: 14px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_e6 {width: 672px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_e7 {width: 96px; height: 18px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_e8 {width: 96px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_e9 {width: 56px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_ea {width: 120px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_eb {width: 96px; height: 18px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_ec {width: 672px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_ed {width: 672px; height: 14px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_ee {width: 640px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_ef {width: 632px; height: 11px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_f0 {width: 640px; height: 18px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_f1 {width: 640px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_f2 {width: 632px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_f3 {width: 112px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_f4 {width: 128px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_f5 {width: 64px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_f6 {width: 64px; height: 35px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_f7 {width: 632px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_f8 {width: 624px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_f9 {width: 616px; height: 11px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_fa {width: 624px; height: 18px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_fb {width: 624px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_fc {width: 616px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_fd {width: 96px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_fe {width: 96px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_ff {width: 56px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_100 {width: 112px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_101 {width: 120px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_102 {width: 64px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_103 {width: 56px; height: 16.3px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_104 {width: 56px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_105 {width: 64px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_106 {width: 56px; height: 18px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_107 {width: 56px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_108 {width: 112px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_109 {margin: 0px 0px 0px 0px; text-align: right;  color: #000000}
-div.newsRawHtml .siam_samai_10a {width: 664px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_10b {width: 664px; height: 15.8px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_10c {width: 664px; height: 14px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_10d {width: 80px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_10e {width: 80px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_10f {width: 80px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_110 {width: 80px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_111 {width: 80px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_112 {width: 656px; height: 18px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_113 {width: 128px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_114 {width: 72px; height: 18px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_115 {width: 112px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_116 {width: 56px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_117 {width: 128px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_118 {width: 656px; height: 14px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_119 {width: 704px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_11a {width: 96px; height: 18px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_11b {width: 112px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_11c {width: 96px; height: 18px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_11d {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_11e {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_11f {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_120 {width: 104px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_121 {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_122 {width: 104px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_123 {width: 72px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_124 {width: 192px; height: 18px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_125 {width: 136px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_126 {width: 192px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_127 {width: 40px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_128 {width: 384px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_129 {width: 384px; height: 17px; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_12a {width: 384px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_12b {width: 256px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_12c {width: 128px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_12d {width: 24px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_12e {width: 64px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_12f {width: 160px; height: 18px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_130 {width: 48px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_131 {width: 160px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_132 {width: 48px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_133 {width: 160px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_134 {width: 48px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_135 {width: 256px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_136 {width: 256px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_137 {width: 40px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_138 {width: 32px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_139 {width: 48px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_13a {width: 160px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_13b {width: 40px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_13c {width: 32px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_13d {width: 48px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_13e {width: 48px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_13f {width: 656px; height: 11px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_140 {width: 112px; height: 18px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_141 {width: 56px; height: 13px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_142 {width: 656px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_143 {width: 672px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_144 {width: 48px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_145 {width: 48px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_146 {width: 48px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_147 {width: 48px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_148 {width: 48px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_149 {width: 48px; height: 18px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_14a {width: 48px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_14b {width: 624px; height: 17px; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_14c {width: 624px; height: 14px; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_14d {width: 624px; height: 18px; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_14e {width: 624px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_14f {width: 624px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_150 {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_151 {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_152 {width: 56px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_153 {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_154 {width: 64px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_155 {width: 48px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_156 {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_157 {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_158 {width: 56px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_159 {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_15a {width: 64px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_15b {width: 48px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_15c {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_15d {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_15e {width: 56px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_15f {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_160 {width: 64px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_161 {width: 48px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_162 {width: 96px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_163 {width: 104px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_164 {width: 56px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_165 {width: 112px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_166 {width: 64px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_167 {width: 48px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_168 {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_169 {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_16a {width: 56px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_16b {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_16c {width: 64px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_16d {width: 48px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_16e {width: 112px; height: 21px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_16f {width: 56px; height: 21px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_170 {width: 624px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_171 {width: 632px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_172 {width: 624px; height: 11px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_173 {width: 632px; height: 18px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_174 {width: 632px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_175 {width: 624px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_176 {width: 56px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_177 {width: 624px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_178 {width: 664px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_179 {width: 96px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_17a {width: 120px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_17b {width: 56px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_17c {width: 128px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_17d {width: 64px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_17e {width: 664px; height: 15px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_17f {width: 680px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_180 {width: 680px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_181 {width: 136px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_182 {width: 136px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_183 {width: 136px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_184 {width: 136px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_185 {width: 136px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_186 {width: 680px; height: 18px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_187 {width: 680px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_188 {width: 688px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_189 {width: 688px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_18a {width: 688px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_18b {width: 48px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_18c {width: 128px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_18d {width: 96px; height: 12px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_18e {width: 112px; height: 12px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_18f {width: 48px; height: 12px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_190 {width: 128px; height: 12px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_191 {width: 608px; height: 17px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_192 {width: 608px; height: 15px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_193 {width: 608px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_194 {width: 120px; height: 18px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_195 {width: 48px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_196 {width: 608px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_197 {width: 608px; height: 35px; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_198 {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_199 {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_19a {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_19b {width: 104px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_19c {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_19d {width: 632px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
-div.newsRawHtml .siam_samai_19e {width: 144px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_19f {width: 232px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_1a0 {width: 232px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
-div.newsRawHtml .siam_samai_1a1 {width: 192px; height: 18px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1a2 {width: 120px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1a3 {width: 192px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1a4 {width: 40px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1a5 {width: 32px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1a6 {width: 40px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1a7 {width: 32px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1a8 {width: 160px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1a9 {width: 40px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1aa {width: 32px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1ab {width: 32px; height: 18px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1ac {width: 160px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1ad {width: 40px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1ae {width: 32px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1af {width: 32px; height: 17px; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1b0 {width: 160px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1b1 {width: 40px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1b2 {width: 32px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
-div.newsRawHtml .siam_samai_1b3 {width: 40px; height: 14px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_12 {width: 88px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_13 {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_14 {width: 48px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_15 {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_16 {width: 128px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_17 {width: 64px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_18 {width: 56px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_19 {width: 88px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1a {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1b {width: 48px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1c {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1d {width: 128px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1e {width: 64px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1f {width: 56px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_20 {width: 88px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_21 {width: 112px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_22 {width: 48px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_23 {width: 96px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_24 {width: 128px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_25 {width: 64px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_26 {width: 56px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_27 {width: 88px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_28 {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_29 {width: 48px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_2a {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_2b {width: 128px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_2c {width: 64px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_2d {width: 56px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_2e {width: 80px; height: 13px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_2f {width: 112px; height: 13px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_30 {width: 616px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_31 {width: 616px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_32 {width: 616px; height: 11px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_33 {width: 616px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_34 {width: 672px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_35 {width: 672px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_36 {width: 664px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_37 {width: 120px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_38 {width: 120px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_39 {width: 56px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_3a {width: 88px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_3b {width: 72px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_3c {width: 64px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_3d {width: 120px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_3e {width: 120px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_3f {width: 56px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_40 {width: 88px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_41 {width: 72px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_42 {width: 64px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_43 {width: 120px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_44 {width: 120px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_45 {width: 56px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_46 {width: 88px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_47 {width: 72px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_48 {width: 64px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_49 {width: 120px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_4a {width: 120px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_4b {width: 56px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_4c {width: 88px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_4d {width: 72px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_4e {width: 64px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_4f {width: 120px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_50 {width: 120px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_51 {width: 56px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_52 {width: 88px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_53 {width: 72px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_54 {width: 64px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_55 {width: 664px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_56 {width: 672px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_57 {width: 656px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_58 {width: 656px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_59 {width: 656px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_5a {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_5b {width: 96px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_5c {width: 64px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_5d {width: 112px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_5e {width: 128px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_5f {width: 88px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_60 {width: 56px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_61 {width: 96px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_62 {width: 64px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_63 {width: 112px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_64 {width: 128px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_65 {width: 88px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_66 {width: 56px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_67 {width: 96px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_68 {width: 64px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_69 {width: 112px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_6a {width: 128px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_6b {width: 88px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_6c {width: 56px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_6d {width: 96px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_6e {width: 64px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_6f {width: 112px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_70 {width: 128px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_71 {width: 88px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_72 {width: 56px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_73 {width: 96px; height: 13px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_74 {width: 96px; height: 13px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_75 {width: 656px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_76 {width: 680px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_77 {width: 680px; height: 11px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_78 {width: 680px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_79 {width: 680px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_7a {width: 80px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_7b {width: 80px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_7c {width: 80px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_7d {width: 80px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_7e {width: 80px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_7f {width: 80px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_80 {width: 80px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_81 {width: 80px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_82 {width: 88px; height: 13px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_83 {width: 80px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_84 {width: 80px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_85 {width: 680px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_86 {width: 680px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_87 {width: 680px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_88 {width: 664px; height: 11px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_89 {width: 72px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_8a {width: 72px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_8b {width: 72px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_8c {width: 72px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_8d {width: 664px; height: 18px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_8e {width: 72px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_8f {width: 664px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_90 {width: 664px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_91 {width: 648px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_92 {width: 640px; height: 11px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_93 {width: 648px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_94 {width: 648px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_95 {width: 640px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_96 {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_97 {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_98 {width: 96px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_99 {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_9a {width: 96px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_9b {width: 64px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_9c {width: 120px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_9d {width: 80px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_9e {width: 96px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_9f {width: 96px; height: 35px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_a0 {width: 96px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_a1 {width: 48px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_a2 {width: 120px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_a3 {width: 96px; height: 35px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_a4 {width: 96px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_a5 {width: 96px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_a6 {width: 96px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_a7 {width: 96px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_a8 {width: 672px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_a9 {width: 672px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_aa {width: 120px; height: 13px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_ab {width: 88px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_ac {width: 120px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_ad {width: 56px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_ae {width: 96px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_af {width: 128px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_b0 {width: 72px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_b1 {width: 664px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_b2 {width: 664px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_b3 {width: 664px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_b4 {width: 96px; height: 18px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_b5 {width: 96px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_b6 {width: 72px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_b7 {width: 112px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_b8 {width: 120px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_b9 {width: 88px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_ba {width: 64px; height: 18px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_bb {width: 608px; height: 11px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_bc {width: 608px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_bd {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_be {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_bf {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_c0 {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_c1 {width: 112px; height: 14px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_c2 {width: 96px; height: 14px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_c3 {width: 48px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_c4 {width: 64px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_c5 {width: 120px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_c6 {width: 96px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_c7 {width: 56px; height: 18px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_c8 {width: 608px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_c9 {width: 648px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_ca {width: 704px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_cb {width: 704px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_cc {width: 696px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_cd {width: 112px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_ce {width: 704px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_cf {width: 704px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_d0 {width: 680px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_d1 {width: 672px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_d2 {width: 672px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_d3 {width: 672px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_d4 {width: 104px; height: 14px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_d5 {width: 104px; height: 14px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_d6 {width: 56px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_d7 {width: 88px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_d8 {width: 128px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_d9 {width: 80px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_da {width: 80px; height: 18px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_db {width: 680px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_dc {width: 664px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_dd {width: 80px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_de {width: 80px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_df {width: 64px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_e0 {width: 696px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_e1 {margin: 0px 0px 0px 0px; text-align: center;  color: #000000}
+div.newsRawHtml .siam_samai_e2 {margin: 0px 0px 0px 0px;  color: #000000}
+div.newsRawHtml .siam_samai_e3 {font: 13px Arial}
+div.newsRawHtml .siam_samai_e4 {font: 13px Thonburi}
+div.newsRawHtml .siam_samai_e5 {width: 256px; height: 18px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_e6 {width: 112px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_e7 {width: 24px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_e8 {width: 64px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_e9 {width: 168px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_ea {width: 40px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_eb {width: 32px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_ec {width: 32px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_ed {width: 24px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_ee {width: 64px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_ef {width: 168px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_f0 {width: 40px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_f1 {width: 32px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_f2 {width: 32px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_f3 {width: 24px; height: 18px; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_f4 {width: 64px; height: 18px; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_f5 {width: 168px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_f6 {width: 40px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_f7 {width: 32px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_f8 {width: 32px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_f9 {width: 24px; height: 17px; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_fa {width: 64px; height: 17px; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_fb {width: 168px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_fc {width: 40px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_fd {width: 32px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_fe {width: 32px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_ff {width: 632px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_100 {width: 632px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_101 {width: 624px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_102 {width: 80px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_103 {width: 120px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_104 {width: 72px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_105 {width: 80px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_106 {width: 120px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_107 {width: 72px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_108 {width: 80px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_109 {width: 120px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_10a {width: 72px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_10b {width: 80px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_10c {width: 120px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_10d {width: 72px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_10e {width: 96px; height: 17.1px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_10f {width: 96px; height: 17.1px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_110 {width: 64px; height: 17.1px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_111 {width: 80px; height: 17.1px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_112 {width: 120px; height: 17.1px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_113 {width: 72px; height: 17.1px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_114 {width: 624px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_115 {width: 632px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_116 {width: 624px; height: 11px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_117 {width: 704px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_118 {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_119 {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_11a {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_11b {width: 104px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_11c {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_11d {width: 112px; height: 18px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_11e {width: 104px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_11f {width: 56px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_120 {width: 96px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_121 {width: 120px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_122 {width: 96px; height: 18px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_123 {width: 704px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_124 {width: 704px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_125 {width: 656px; height: 15px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_126 {width: 96px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_127 {width: 120px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_128 {width: 64px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_129 {width: 80px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_12a {width: 128px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_12b {width: 72px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_12c {margin: 0px 0px 0px 0px; text-align: center; font: 13px 'Helvetica Neue'; color: #000000}
+div.newsRawHtml .siam_samai_12d {margin: 0px 0px 0px 0px; font: 13px 'Helvetica Neue'; color: #000000}
+div.newsRawHtml .siam_samai_12e {font: 13px 'Helvetica Neue'}
+div.newsRawHtml .siam_samai_12f {width: 96px; height: 14px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_130 {width: 56px; height: 14px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_131 {width: 120px; height: 14px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_132 {width: 672px; height: 14px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_133 {width: 96px; height: 18px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_134 {width: 672px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_135 {width: 672px; height: 14px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_136 {width: 640px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_137 {width: 632px; height: 11px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_138 {width: 640px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_139 {width: 640px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_13a {width: 632px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_13b {width: 112px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_13c {width: 128px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_13d {width: 64px; height: 35px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_13e {width: 64px; height: 35px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_13f {width: 632px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_140 {width: 608px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_141 {width: 608px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_142 {width: 600px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_143 {width: 112px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_144 {width: 56px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_145 {width: 72px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_146 {width: 128px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_147 {width: 96px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_148 {width: 112px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_149 {width: 56px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_14a {width: 72px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_14b {width: 128px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_14c {width: 64px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_14d {width: 80px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_14e {width: 80px; height: 18px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_14f {width: 640px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_150 {width: 640px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_151 {width: 624px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_152 {width: 624px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_153 {width: 624px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_154 {width: 96px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_155 {width: 96px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_156 {width: 56px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_157 {width: 112px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_158 {width: 120px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_159 {width: 64px; height: 16.3px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_15a {width: 56px; height: 16.3px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_15b {width: 56px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_15c {width: 64px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_15d {width: 56px; height: 18px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_15e {margin: 0px 0px 0px 0px; text-align: right;  color: #000000}
+div.newsRawHtml .siam_samai_15f {width: 664px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_160 {width: 664px; height: 15.8px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_161 {width: 664px; height: 14px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_162 {width: 96px; height: 21px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_163 {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_164 {width: 64px; height: 21px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_165 {width: 112px; height: 21px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_166 {width: 120px; height: 21px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_167 {width: 72px; height: 21px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_168 {width: 64px; height: 21px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_169 {width: 104px; height: 13px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_16a {width: 648px; height: 11px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_16b {width: 656px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_16c {width: 96px; height: 14px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #000000; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_16d {width: 112px; height: 14px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_16e {width: 48px; height: 14px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_16f {width: 72px; height: 18px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_170 {width: 48px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_171 {width: 72px; height: 18px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_172 {width: 648px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_173 {width: 648px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_174 {width: 656px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_175 {width: 112px; height: 18px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_176 {width: 72px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_177 {width: 72px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_178 {width: 72px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_179 {width: 72px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_17a {width: 72px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_17b {width: 672px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_17c {width: 128px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_17d {width: 112px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_17e {width: 656px; height: 14px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_17f {width: 96px; height: 18px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_180 {width: 112px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_181 {width: 96px; height: 18px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_182 {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_183 {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_184 {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_185 {width: 104px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_186 {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_187 {width: 104px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_188 {width: 72px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_189 {width: 128px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_18a {width: 136px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_18b {width: 128px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_18c {width: 136px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_18d {width: 128px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_18e {width: 136px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_18f {width: 128px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_190 {width: 136px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_191 {width: 128px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_192 {width: 136px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_193 {width: 128px; height: 13px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_194 {width: 672px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_195 {width: 672px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_196 {width: 616px; height: 18px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_197 {width: 192px; height: 18px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_198 {width: 136px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_199 {width: 192px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_19a {width: 40px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_19b {width: 128px; height: 13px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_19c {width: 696px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_19d {width: 696px; height: 11px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_19e {width: 696px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_19f {width: 104px; height: 13px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1a0 {width: 632px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1a1 {width: 384px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1a2 {width: 384px; height: 17px; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1a3 {width: 384px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1a4 {width: 256px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1a5 {width: 128px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1a6 {width: 24px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1a7 {width: 64px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1a8 {width: 160px; height: 18px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1a9 {width: 48px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1aa {width: 160px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1ab {width: 48px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1ac {width: 160px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1ad {width: 48px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1ae {width: 256px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1af {width: 256px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1b0 {width: 40px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1b1 {width: 32px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1b2 {width: 48px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1b3 {width: 160px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1b4 {width: 40px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1b5 {width: 32px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1b6 {width: 48px; height: 18px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1b7 {width: 48px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1b8 {width: 656px; height: 11px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1b9 {width: 112px; height: 18px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1ba {width: 56px; height: 13px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1bb {width: 656px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1bc {width: 672px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1bd {width: 48px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1be {width: 48px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1bf {width: 48px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1c0 {width: 48px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1c1 {width: 48px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1c2 {width: 48px; height: 18px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1c3 {width: 48px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1c4 {width: 624px; height: 17px; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1c5 {width: 624px; height: 14px; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1c6 {width: 624px; height: 18px; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1c7 {width: 624px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1c8 {width: 624px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1c9 {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1ca {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1cb {width: 56px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1cc {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1cd {width: 64px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1ce {width: 48px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1cf {width: 96px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1d0 {width: 104px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1d1 {width: 56px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1d2 {width: 112px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1d3 {width: 64px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1d4 {width: 48px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1d5 {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1d6 {width: 56px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1d7 {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1d8 {width: 64px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1d9 {width: 48px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1da {width: 96px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1db {width: 104px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1dc {width: 56px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1dd {width: 112px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1de {width: 64px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1df {width: 48px; height: 18px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1e0 {width: 96px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1e1 {width: 104px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1e2 {width: 56px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1e3 {width: 112px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1e4 {width: 64px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1e5 {width: 48px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1e6 {width: 56px; height: 21px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1e7 {width: 624px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1e8 {width: 632px; height: 18px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1e9 {width: 664px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1ea {width: 688px; height: 17px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_1eb {width: 688px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_1ec {width: 112px; height: 13px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_1ed {width: 688px; height: 18px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_1ee {width: 624px; height: 11px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1ef {width: 96px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1f0 {width: 120px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1f1 {width: 56px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1f2 {width: 128px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1f3 {width: 64px; height: 14px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1f4 {width: 664px; height: 15px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1f5 {width: 680px; height: 18px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1f6 {width: 680px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_1f7 {width: 640px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1f8 {width: 688px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1f9 {width: 688px; height: 17px; border-style: solid; border-width: 1px 0px 1px 0px; border-color: #404040 transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1fa {width: 48px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1fb {width: 48px; height: 12px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1fc {width: 608px; height: 15px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1fd {width: 608px; height: 18px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_1fe {width: 120px; height: 18px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_1ff {width: 608px; height: 15px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_200 {width: 608px; height: 35px; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_201 {width: 104px; height: 18px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_202 {width: 632px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 0px 2px 0px}
+div.newsRawHtml .siam_samai_203 {width: 648px; height: 12px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_204 {width: 98.5px; height: 17px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_205 {width: 107.7px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_206 {width: 62.3px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_207 {width: 66.5px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_208 {width: 98.5px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_209 {width: 107.7px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_20a {width: 62.3px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_20b {width: 66.5px; height: 17px; border-style: solid; border-width: 1px 0px 0px 1px; border-color: #404040 transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_20c {width: 98.5px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_20d {width: 107.7px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_20e {width: 62.3px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_20f {width: 66.5px; height: 17px; border-style: solid; border-width: 0px 0px 0px 1px; border-color: transparent transparent transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_210 {width: 98.5px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_211 {width: 107.7px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_212 {width: 62.3px; height: 17px; border-style: solid; border-width: 0px 1px 1px 1px; border-color: transparent #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_213 {width: 66.5px; height: 17px; border-style: solid; border-width: 0px 0px 1px 1px; border-color: transparent transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_214 {width: 96.5px; height: 14px; border-style: solid; border-width: 1px 1px 1px 0px; border-color: #404040 #404040 #404040 transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_215 {width: 107.7px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_216 {width: 62.3px; height: 18px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_217 {width: 66.5px; height: 18px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_218 {width: 640px; height: 17px; border-style: solid; border-width: 0px 0px 1px 0px; border-color: transparent transparent #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_219 {width: 144px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_21a {width: 232px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_21b {width: 232px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 4px 4px 4px 4px}
+div.newsRawHtml .siam_samai_21c {width: 192px; height: 18px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_21d {width: 120px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_21e {width: 192px; height: 17px; border-style: solid; border-width: 0px 1px 1px 0px; border-color: transparent #404040 #404040 transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_21f {width: 40px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_220 {width: 32px; height: 17px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #404040 #404040 #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_221 {width: 40px; height: 17px; border-style: solid; border-width: 1px 0px 1px 1px; border-color: #404040 transparent #404040 #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_222 {width: 32px; height: 17px; border-style: solid; border-width: 1px 0px 0px 0px; border-color: #404040 transparent transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_223 {width: 160px; height: 17px; border-style: solid; border-width: 1px 1px 0px 0px; border-color: #404040 #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_224 {width: 40px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_225 {width: 32px; height: 17px; border-style: solid; border-width: 1px 1px 0px 1px; border-color: #404040 #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_226 {width: 32px; height: 18px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_227 {width: 160px; height: 18px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_228 {width: 40px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_229 {width: 32px; height: 18px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_22a {width: 32px; height: 17px; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_22b {width: 160px; height: 17px; border-style: solid; border-width: 0px 1px 0px 0px; border-color: transparent #404040 transparent transparent; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_22c {width: 40px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_22d {width: 32px; height: 17px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 2px 3px 2px 3px}
+div.newsRawHtml .siam_samai_22e {width: 40px; height: 14px; border-style: solid; border-width: 0px 1px 0px 1px; border-color: transparent #404040 transparent #404040; padding: 4px 4px 4px 4px}
