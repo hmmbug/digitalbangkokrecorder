@@ -398,10 +398,109 @@ Religious debate between Christianity and Buddhism / Royal ceremonies conferring
 * [เดือน ๑ แรม ๙ ค่ำ, ๑๒๔๗ &mdash; December 30th, 1885 A.D.](0003-04-19/)<br/>
 Factors driving national progress and development / Theological debates between Buddhism and Christianity / Expansion of telegraph lines to northern provinces / Royal decrees, appointments, and state ceremonies / Diplomatic relations with the Portuguese mission / International news and global political updates / Public health alerts and medical services / Moral fables on social conduct and trust / Commercial advertisements for goods and property / Educational books and literacy resources available
 
+* [เดือน ๒ ขึ้น ๒ ค่ำ, ๑๒๔๗ &mdash; January 6th, 1886 A.D.](0003-04-20/)<br/>
+The immense difficulty of human rebirth / Theological debates between Christianity and Buddhism / A young woman’s heroic fight against bandits / Analyzing the fall of the Burmese kingdom / Public grievances regarding delayed government salaries / International conflicts involving Serbia, Bulgaria, and France / Promotion of affordable healthcare and vaccinations / Advancements in photography and printing services / The significance of the Western New Year / Availability of various educational and literary books
+
+* [เดือน ๒ ขึ้น ๙ ค่ำ, ๑๒๔๗ &mdash; January 13th, 1886 A.D.](0003-04-21/)<br/>
+Defense of Buddhist worship against foreign criticism / Social decay and rising crime from gambling / Diplomatic relations between Siam and Western nations / Royal patronage of traditional Siamese ceremonies / Regional impact of British and French colonialism / Debating validity of Buddhist versus Christian doctrines / Challenges of tax farming and economic competition / Updates on international politics and maritime trade / Modern healthcare services and public vaccination efforts / Expansion of Siamese printing and book trade
+
+* [เดือน ๒ แรม ๑ ค่ำ, ๑๒๔๗ &mdash; January 20th, 1886 A.D.](0003-04-22/)<br/>
+The fragile nature and inevitability of death / Urgent pursuit of virtue and moral conduct / Belief in a singular supreme divine creator / Protecting women from kidnapping and human trafficking / Christian missionary work and baptisms in Bangkok / Royal administrative appointments and diplomatic duties / Global news updates delivered via international telegrams / Economic guidance on currency and gold exchange / Public concerns regarding infrastructure and water salinity / Promoting literacy through educational books and fables
+
+* [เดือน ๒ แรม ๘ ค่ำ, ๑๒๔๗ &mdash; January 27th, 1886 A.D.](0003-04-23/)<br/>
+The rare opportunity of hearing Buddhist teachings / Comparing Buddhist karma with Christian divine judgment / Government efforts to collect outstanding state taxes / Abuse of power by provincial tax collectors / Elites exploiting commoners through unfair land acquisitions / Corruption of officials regarding salt water management / Global political events reported through international telegrams / Advancement of modern healthcare and photography services / Promotion of prominent royal family members / Distribution of diverse educational and literary books
+
+* [เดือน ๒ แรม ๑๕ ค่ำ, ๑๒๔๗ &mdash; February 3rd, 1886 A.D.](0003-04-24/)<br/>
+Religious debate comparing Buddhism and Christianity / Arguments for God as the universal creator / Critiquing Buddhist cosmology and traditional beliefs / Debating the logic of non-killing precepts / Managing opium and gambling tax revenues / Global news reports from Europe and Africa / Social changes and increasing opium consumption / Availability of hospital services and vaccinations / Shipping records and international trade logistics / Publication of newspapers and educational books
+
+* [เดือน ๓ ขึ้น ๗ ค่ำ, ๑๒๔๗ &mdash; February 10th, 1886 A.D.](0003-04-25/)<br/>
+Siamese diplomatic travel through Egypt and France / Social justice and fair land acquisition practices / Comparison between Buddhist decline and Christian growth / Meritocracy and education for all social classes / International naval arrivals and diplomatic maritime news / Shipping records and global maritime trade logistics / Political updates regarding British and Greek conflicts / Public medical services and affordable healthcare access / Commercial book sales and promoting local literacy / Prophetic warnings about future social moral decay
+
+* [เดือน ๓ ขึ้น ๑๔ ค่ำ, ๑๒๔๗ &mdash; February 17th, 1886 A.D.](0003-04-26/)<br/>
+Buddhist support for national progress through media / Demanding respectful public discourse on different religions / Royal visits to British warships and provinces / Debating honesty in government opium tax administration / Social harms and poverty caused by opium / Global news telegrams regarding British political shifts / Records of maritime shipping and international trade / Ancient prophecies regarding future societal moral decay / Public health services and charity for poor / Literacy promotion through printing and selling books
+
+* [เดือน ๓ แรม ๖ ค่ำ, ๑๒๔๗ &mdash; February 24th, 1886 A.D.](0003-04-27/)<br/>
+Disputes regarding provincial fuel wood taxes / Issues with Chinese tax farming administration / Social dangers of gambling and theft / Progress toward the abolition of slavery / Comparative governance between Burma and Britain / Public safety concerns and police inefficiency / Medical training for basic first aid / Warnings against international human trafficking plots / Updates on global news and shipping / Advertising educational books and news publications
+
+* [เดือน ๓ แรม ๑๓ ค่ำ, ๑๒๔๗ &mdash; March 3rd, 1886 A.D.](0003-04-28/)<br/>
+Promoting responsible journalism and constructive public criticism / Modernizing education through national literacy examination standards / Expressing loyalty and gratitude toward royal service / Reporting global political unrest and international diplomacy / Developing maritime logistics and steamship trade routes / Expanding public healthcare access and vaccination programs / Monitoring international currency exchange and market rates / Moral warnings through traditional Buddhist dream prophecies / Advancing societal progress via literacy and literature / Proper procedures for proposing government policy changes
+
+* [เดือน ๔ ขึ้น ๖ ค่ำ, ๑๒๔๗ &mdash; March 10th, 1886 A.D.](0003-04-29/)<br/>
+Debating Buddhist and Christian religious practices / Defending elite involvement in agricultural development / Residents report local cattle theft and banditry / Questioning transparency in royal funeral assignments / Siamese diplomatic missions to European nations / Rumors regarding the trafficking of women / Advisory on press freedom and governance / Reporting international conflicts and political shifts / Updates on international shipping and commerce / Announcements regarding hospital services and vaccinations
+
+* [เดือน ๔ ขึ้น ๑๓ ค่ำ, ๑๒๔๗ &mdash; March 17th, 1886 A.D.](0003-04-30/)<br/>
+Righteousness and the reciprocity of human happiness / British intervention against inhumane foreign traditions / Citizen demands for transparency and free speech / The royal celebration of Wat Ratchapradit restoration / Bangkok's rapid modernization and urban social challenges / The dangers of Chinese secret society violence / Criticism of forced prostitution and slave exploitation / International political tensions and foreign trade news / Public grievances regarding official corruption and injustice / Promotion of healthcare and literacy through print
+
+* [เดือน ๔ แรม ๕ ค่ำ, ๑๒๔๗ &mdash; March 24th, 1886 A.D.](0003-04-31/)<br/>
+Siamese diplomatic mission sent to France / Royal correspondence regarding international religious tolerance / Diplomatic relations between Siam and the Pope / Public celebrations of royal temple completion / Regional law enforcement and provincial judicial fairness / Commoner grievances against corrupt local elites / Global political affairs reported via telegraph / Maritime trade and international mail logistics / Traditional prophecies regarding societal and environmental instability / Commercial advertisements for medical and literary services
+
+* [เดือน ๔ แรม ๑๓ ค่ำ, ๑๒๔๗ &mdash; March 31st, 1886 A.D.](0003-04-32/)<br/>
+Diplomatic mission to France and the Pope / Elevation of Prince Narisara to royal rank / Social outcry against violent murder and apathy / Prevention of corruption within the opium tax / Concerns over rising banditry in provincial areas / International military and political news from London / Affordable medical services for the Siamese public / Religious debates on Eastern and Western philosophy / Promoting commerce through shipping and book sales / Interpretations of prophetic dreams and cultural omens
+
+* [เดือน ๕ ขึ้น ๔ ค่ำ, ๑๒๔๘ &mdash; April 7th, 1886 A.D.](0003-04-33/)<br/>
+Cruelty and revenge in traditional folklore / Preventing financial exploitation of female laborers / Royal initiatives to gradually abolish slavery / Media role in fostering national civilization / Moral warnings against trusting deceptive leaders / International political conflicts and global news / Expanding public access to medical services / Growth of maritime commerce and transportation / Promoting literacy via diverse printed books / Seeking justice through transparent legal systems
+
+* [เดือน ๕ ขึ้น ๑๑ ค่ำ, ๑๒๔๘ &mdash; April 14th, 1886 A.D.](0003-04-34/)<br/>
+Siamese diplomatic mission visiting Great Britain / Siamese observation of advanced British technology / Diplomatic audience with Queen Victoria at Windsor / Royal promotions and ceremonies in 19th-century Siam / Siamese royal processions and traditional elephant bathing / Reports of urban fires and public safety / Social warnings regarding opium addiction and taxes / Global political updates received through overseas telegraphs / Public medical services and hospital accessibility announcements / Commercial shipping schedules and newspaper subscription advertisements
+
+* [เดือน ๕ แรม ๓ ค่ำ, ๑๒๔๘ &mdash; April 21st, 1886 A.D.](0003-04-35/)<br/>
+Siamese envoys meet Queen Victoria in London / Formal royal banquet at Windsor Castle / Envoys visit London landmarks and museums / Royal proclamation on Songkran and ceremonies / International news reports via overseas telegrams / Regional shipping and maritime trade schedules / Judicial ruling on a defamation court case / Public medical services and vaccination announcements / Educational and literary books for sale / Traditional Thai musical performance in Bangkok
+
+* [เดือน ๕ แรม ๑๐ ค่ำ, ๑๒๔๘ &mdash; April 28th, 1886 A.D.](0003-04-36/)<br/>
+Corruption and interdependence in tax farming systems / Links between gambling addiction and debt slavery / Expanding postal routes to improve national communication / Royal initiatives providing fresh water during drought / Infrastructure maintenance to support domestic river trade / International news regarding European and British politics / Promoting Christian education and moral family values / Tracking international maritime trade and ship movements / Public health services and availability of vaccinations / Commercial growth through transportation and property rentals
+
+* [เดือน ๖ ขึ้น ๓ ค่ำ, ๑๒๔๘ &mdash; May 5th, 1886 A.D.](0003-04-37/)<br/>
+Moral conduct and the inevitability of death / Royal initiatives for public water relief efforts / Modern infrastructure projects and railway development plans / Ensuring public safety during essential resource transport / Legal procedures for reporting official government misconduct / Observations of foreign cultures and international travel / Regional shipping activity and global maritime trade / Access to medical care and public vaccinations / International political tensions and global health news / Expansion of publishing and local commercial services
+
+* [เดือน ๖ ขึ้น ๑๐ ค่ำ, ๑๒๔๘ &mdash; May 12th, 1886 A.D.](0003-04-38/)<br/>
+David defeats Goliath in biblical narrative / Siamese military discipline during Haw campaigns / Legal and administrative reforms in Siam / International news reports on major fires / Legal disputes within the teak trade / Scientific explanations of weather and barometers / Colonial and Indian Exhibition in London / Maritime shipping logs and trade movements / Public health services and medical treatments / Commercial advertisements for rentals and publications
+
+* [เดือน ๖ แรม ๒ ค่ำ, ๑๒๔๘ &mdash; May 19th, 1886 A.D.](0003-04-39/)<br/>
+Siamese diplomats visit British Queen and Parliament / Industrial manufacturing tours in major English cities / Reports on local crime and neighborhood safety / Bureaucratic workers struggle with delayed salary payments / Historical evolution of Britain from ancient tribes / Practical uses of hot-air balloons in technology / Global events reported through international telegraph news / Shipping schedules and maritime trade in Siam / Public health initiatives and medical treatment availability / Promotion of literature and educational printing services
+
+* [เดือน ๖ แรม ๙ ค่ำ, ๑๒๔๘ &mdash; May 26th, 1886 A.D.](0003-04-40/)<br/>
+Siamese diplomatic mission travels through industrial England / Royal interactions and attendance at state ceremonies / Observation of British military parades and maneuvers / Ethical governance and the role of law / Scientific insights into human biology and chemistry / Moral parables regarding contentment and social status / Global geopolitical developments and international news telegrams / Regional shipping logs and maritime trade activities / Community events and social announcements in Bangkok / Commercial advertisements for medical and educational services
+
+* [เดือน ๗ ขึ้น ๑ ค่ำ, ๑๒๔๘ &mdash; June 2nd, 1886 A.D.](0003-04-41/)<br/>
+Siamese diplomats attend royal London wedding / Siamese envoys tour London's major landmarks / Queen Victoria hosts audiences for international diplomats / Royal titles and funeral schedules in Bangkok / Newspaper policies on religious debate and authorship / Explaining oxygen's role in the human body / Familiarity breeds contempt in animal kingdom stories / Global reports on European and Asian conflicts / Shipping schedules and commercial trade news updates / Advertisements for healthcare, rentals, and published books
+
+* [เดือน ๗ ขึ้น ๘ ค่ำ, ๑๒๔๘ &mdash; June 9th, 1886 A.D.](0003-04-42/)<br/>
+Siamese diplomats visit Queen Victoria in London / Observations of British urban infrastructure and technology / Siamese envoys tour museums and social institutions / Description of British geography and capital city / Reports on international politics and global health / Moral fables regarding power, wisdom, and deception / Diplomatic receptions and royal promotions in Bangkok / Details of shipping activities in Siamese ports / Public health services and hospital medical notices / Commercial advertisements and printing house book listings
+
+* [เดือน ๗ ขึ้น ๑๕ ค่ำ, ๑๒๔๘ &mdash; June 16th, 1886 A.D.](0003-04-43/)<br/>
+Traditional Thai folktales explore karmic cycles / Royal reception for foreign diplomatic envoys / Strict regulations governing royal labor registration / Ethical concerns regarding inhumane manual labor / International political developments and maritime disputes / Public opinions on judicial and inheritance laws / Maritime trade schedules and regional shipping logs / Public health services and vaccination initiatives / Commercial advertising for local goods and services / Educational resources and literary book sales
+
+* [เดือน ๗ แรม ๗ ค่ำ, ๑๒๔๘ &mdash; June 23rd, 1886 A.D.](0003-04-44/)<br/>
+Infrastructure and transportation in Victorian London / British diplomatic hospitality and hotel services / Legal critiques regarding trade and litigation / Ethical leadership through service and religion / Social discrimination based on age and status / Moral lessons on karma and retribution / International news and foreign political updates / Maritime commerce and shipping log records / Public health services and business advertisements
+
+* [เดือน ๗ แรม ๑๔ ค่ำ, ๑๒๔๘ &mdash; June 30th, 1886 A.D.](0003-04-45/)<br/>
+Siamese diplomats travel through Europe and Egypt / Royal cremation ceremonies held at Sanam Luang / Large fire destroys houses in Bangkok neighborhood / Concerns over child abduction and human trafficking / Public pleas for better treatment of horses / Debates between Christian teachings and local traditions / International reports on piracy and foreign politics / Moral fables teaching lessons on marriage compatibility / Commercial advertisements for shipping and book sales / Medical services and public health notice updates
+
+* [เดือน ๘ ขึ้น ๗ ค่ำ, ๑๒๔๘ &mdash; July 7th, 1886 A.D.](0003-04-46/)<br/>
+Historical relations between Siam and European nations / Military and geography of ancient Ayutthaya kingdom / European trade competition and colonial rivalries / Legal measures against illegal child trafficking / Unfair alcohol tax enforcement for local subjects / Royal efforts to gradually abolish slavery / Comparing American presidency with traditional monarchies / Telegraph reports of late nineteenth century world news / Moral wisdom shared through traditional animal fables / Commercial announcements for shipping and medical services
+
+* [เดือน ๘ ขึ้น ๑๔ ค่ำ, ๑๒๔๘ &mdash; July 14th, 1886 A.D.](0003-04-47/)<br/>
+Siamese diplomatic mission traveling to London / Navigational challenges and storms during sea voyages / Official receptions for Siamese envoys in colonies / Diplomatic discussions regarding Buddhist sacred relics / Updates on royal appointments and financial rates / Global telegram news on European political elections / Historical analysis of Asian and European civilizations / Development of world religions within Asian regions / Ayutthaya period relations with European missionaries / Commercial shipping logs and local business advertisements
+
+* [เดือน ๘ แรม ๖ ค่ำ, ๑๒๔๘ &mdash; July 21st, 1886 A.D.](0003-04-48/)<br/>
+King Narai’s powerful reign and international diplomacy / European officials and foreign influence in Siam / Portuguese contributions to traditional Thai dessert recipes / Diplomatic exchanges between Siam, France, and Rome / Social concerns regarding the abolition of slavery / Moral lessons on leadership and human character / International news reports via global telegraphic services / Modern medical advancements and public hospital services / Commercial shipping and maritime trade in Bangkok / Growth of the Thai printing and publishing industry
+
+* [เดือน ๘ แรม ๑๓ ค่ำ, ๑๒๔๘ &mdash; July 28th, 1886 A.D.](0003-04-49/)<br/>
+Diplomatic missions between France and Siam / Military cooperation and French troop deployment / Internal rebellions and local security efforts / Political upheaval and death of King Narai / Importance of newspapers for public knowledge / Updates on British parliamentary election results / Medical services and hospital treatment reports / International shipping schedules and trade logistics / Commercial advertisements for eyewear and books
+
+* [เดือน ๙ ขึ้น ๕ ค่ำ, ๑๒๔๘ &mdash; August 4th, 1886 A.D.](0003-04-50/)<br/>
+Political unrest and the execution of Phaulkon / Diplomatic efforts to maintain ties with France / Historical records of Portuguese influence in Siam / Ethical advice on leadership and personal conduct / International news via telegram from Great Britain / Religious parables and Catholic missions in Siam / Medical advancements and local hospital success stories / Modern commercial services and optical technology advertisements / Maritime logistics and international trade shipping updates / Development of the printing and publishing industry
+
+* [เดือน ๙ ขึ้น ๑๒ ค่ำ, ๑๒๔๘ &mdash; August 11th, 1886 A.D.](0003-04-51/)<br/>
+Legacy of Portuguese settlers in early Siam / European competition for Asian trade dominance / Siamese military strength and regional geography / Struggles of the early Siamese newspaper industry / Humanitarian efforts by foreign residents in Bangkok / Legal inequalities faced by Siamese debt prisoners / British annexation of Burma and global politics / Modern medical treatments at Bangkok Hospital / Maritime trade schedules and regional shipping logs / Commercial printing and distribution of Siamese books
+
+* [เดือน ๙ แรม ๔ ค่ำ, ๑๒๔๘ &mdash; August 18th, 1886 A.D.](0003-04-52/)<br/>
+European trade competition in 17th-century Siam / Siamese-Portuguese military cooperation against Malacca / Expansion of European trade across Siamese provinces / Final publication and farewell of Siam Samai / Philosophical reflections on human suffering and mortality / Global news reports regarding European political shifts / Records of maritime trade and vessel movements / Availability of medical treatment and vaccinations / Local advertisements for rental property and engineering / Distribution of educational and literary printed materials
+
 
 ### Statistics
 
 | Attribute             | Count      |
 | --------------------- | ---------: |
-| Word count            |    712,416 |
-| Lines of text         |     82,303 |
+| Word count            |    924,198 |
+| Lines of text         |    105,634 |
