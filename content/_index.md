@@ -21,6 +21,9 @@ and other related content.
 
 ### Change Log
 
+- March, 2026
+  - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 4 (all remaining editions)
+
 - February, 2026
   - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 4 (first 19 editions, August - Decemebr 1885).
   - [จดหมาย เหตุ สยาม ไสมย (Siam Samai)](/publications/siam_samai_1882_1886/): published volume 3 (52 editions).
