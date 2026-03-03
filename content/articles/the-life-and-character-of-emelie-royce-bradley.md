@@ -1,7 +1,7 @@
 ---
 title: "The Life and Character of Emelie Royce Bradley"
 date: 2019-02-02T00:00:00Z
-draft: false
+draft: true
 type: docs
 ---
 A biography of Emelie Royce Bradley (1811-1845), the first wife of Dr Dan Beach Bradley and originally published circa 1856 by the American Tract Society, New York.
