@@ -7,6 +7,8 @@ authors: "Mark Hollow"
 weight: 1
 ---
 
+{{< imglimit "word_spacing_example2.png" "Automated word spacing reconstruction" "100%">}}
+
 The Digital Bangkok Recorder project provides a digital archive of 19th-century Thai 
 newspapers, primarily focusing on the preservation of Dr. Dan Beach Bradley’s newspaper
 publications. The project uses a workflow centered on semi-automated transcription to
@@ -62,8 +64,6 @@ It's quick, simple, and quite accurate.
 
 ### Word Spacing Reconstruction
 
-{{< imglimit "word_spacing_example2.png" "Automated word spacing reconstruction" "100%">}}
-
 Traditional Thai writing omits punctuation to separate clauses and sentences, unlike English which uses commas and full stops. Furthermore, Thai does not typically use spaces between words.
 
 The American-printed Bangkok Recorder newspaper diverged from these norms by incorporating full stops, commas, and spaces to separate words, despite the white space offering little structural function.
@@ -72,7 +72,7 @@ In contrast, the Siam Samai newspaper adopted a different approach. It retained 
 
 Given that the original OCR process struggled to accurately and consistently maintain this crucial structural spacing across the over 1,100 pages of the Siam Samai, an automated reconstruction method was implemented using computer vision techniques.
 
-This process identifies the bounding boxes of each word and aligns their x-position with corresponding text character positions. The effectiveness of this technique is visually demonstrated by the above image showing the page scan with overlaid word bounding boxes on the left, and the resulting reconstructed, colour-coded text on the right.
+This process identifies the bounding boxes of each word and aligns their x-position with corresponding text character positions. The effectiveness of this technique is visually demonstrated by the header image showing the page scan with overlaid word bounding boxes on the left, and the resulting reconstructed, colour-coded text on the right.
 
 The image of the proofreading tool below is also a good example showing the success of the reconstruction, retaining even subtle features, such as a vertical, arc-like shape in the word spacing, are clearly reproduced in the processed text.
 
