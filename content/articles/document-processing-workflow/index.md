@@ -105,6 +105,5 @@ Corrected dates are provided on this site's newspaper index pages to address tho
 
 {{% /steps %}}
 
-## Summary
 
 This process has successfully delivered two million words of newspaper articles in both the Thai and English languages with high accuracy and provided a valuable resource for anyone interested in 19th century Siamese history and the language of the time.
